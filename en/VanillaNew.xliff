@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext">
+        <body>
+            <trans-unit id="sp.motionsensor.targetspecies.name">
+                <source>Target Species</source>
+                <target>Target Species</target>
+            </trans-unit>
+            <trans-unit id="sp.motionsensor.targetspecies.description">
+                <source>Does the sensor react only to certain species (species name, group or tag)? Doesn't have an effect, if the Target Type is incorrect.</source>
+                <target>Does the sensor react only to certain species (species name, group or tag)? Doesn't have an effect, if the Target Type is incorrect.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

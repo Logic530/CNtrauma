@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- ****************************************************************************************************************************************************** -->
+<!-- Modified values for the winter update -->
+<!-- ****************************************************************************************************************************************************** -->
+
+<!-- ****************************************************************************************************************************************************** -->
+<!-- New values for the winter update -->
+<!-- ****************************************************************************************************************************************************** -->
+
+<!-- Late texts, were meant for autumn update but didn't make it -->
+<sp.motionsensor.targetspecies.name>Target Species</sp.motionsensor.targetspecies.name>
+<sp.motionsensor.targetspecies.description>Does the sensor react only to certain species (species name, group or tag)? Doesn't have an effect, if the Target Type is incorrect.</sp.motionsensor.targetspecies.description>
+
+</infotexts>
