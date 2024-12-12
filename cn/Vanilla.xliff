@@ -270,6 +270,430 @@
         <source/>
         <target>寄生时间过长的画皮有几率从其宿主身体溢出，迫使它收集更多肢体部件来维持生长。</target>
       </trans-unit>
+      <trans-unit id="traitor.codeword1">
+        <source/>
+        <target>上瘾</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword2">
+        <source/>
+        <target>苦恼</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword3">
+        <source/>
+        <target>船腹</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword4">
+        <source/>
+        <target>军械库</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword5">
+        <source/>
+        <target>攻击</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword6">
+        <source/>
+        <target>土匪</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword7">
+        <source/>
+        <target>潜渊症</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword8">
+        <source/>
+        <target>电池</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword9">
+        <source/>
+        <target>舱底</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword10">
+        <source/>
+        <target>鸟人</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword11">
+        <source/>
+        <target>蓝线</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword12">
+        <source/>
+        <target>砖头</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword13">
+        <source/>
+        <target>货品</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword14">
+        <source/>
+        <target>女妖</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword15">
+        <source/>
+        <target>电路</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword16">
+        <source/>
+        <target>市民</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword17">
+        <source/>
+        <target>暗号</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword18">
+        <source/>
+        <target>咖啡</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword19">
+        <source/>
+        <target>棺材</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword20">
+        <source/>
+        <target>同志</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword21">
+        <source/>
+        <target>蟹人</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword22">
+        <source/>
+        <target>狭窄</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword23">
+        <source/>
+        <target>水晶</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword24">
+        <source/>
+        <target>距离</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword25">
+        <source/>
+        <target>靠站</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword26">
+        <source/>
+        <target>末日蠕虫</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword27">
+        <source/>
+        <target>能量</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword28">
+        <source/>
+        <target>护送</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword29">
+        <source/>
+        <target>借口</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword30">
+        <source/>
+        <target>家庭</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword31">
+        <source/>
+        <target>火力</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword32">
+        <source/>
+        <target>平坦</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword33">
+        <source/>
+        <target>跟随</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword34">
+        <source/>
+        <target>地精</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword35">
+        <source/>
+        <target>牛逼</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword36">
+        <source/>
+        <target>恶心</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword37">
+        <source/>
+        <target>帅哥</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword38">
+        <source/>
+        <target>高兴</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword39">
+        <source/>
+        <target>妨碍</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword40">
+        <source/>
+        <target>医院</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword41">
+        <source/>
+        <target>饥饿</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword42">
+        <source/>
+        <target>内部</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword43">
+        <source/>
+        <target>爵士乐</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword44">
+        <source/>
+        <target>笑话</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword45">
+        <source/>
+        <target>木星</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword46">
+        <source/>
+        <target>开玩笑</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword47">
+        <source/>
+        <target>工会</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword48">
+        <source/>
+        <target>锁兽</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword49">
+        <source/>
+        <target>经理</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword50">
+        <source/>
+        <target>陆战队</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword51">
+        <source/>
+        <target>面具</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword52">
+        <source/>
+        <target>贪财</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword53">
+        <source/>
+        <target>别想</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword54">
+        <source/>
+        <target>没人</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword55">
+        <source/>
+        <target>鼻子</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword56">
+        <source/>
+        <target>士官</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword57">
+        <source/>
+        <target>离谱</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword58">
+        <source/>
+        <target>氧矿</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword59">
+        <source/>
+        <target>潜望镜</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword60">
+        <source/>
+        <target>发信</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword61">
+        <source/>
+        <target>好多鱼</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword62">
+        <source/>
+        <target>强力</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword63">
+        <source/>
+        <target>呱呱</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword64">
+        <source/>
+        <target>质量</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword65">
+        <source/>
+        <target>安静</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword66">
+        <source/>
+        <target>辐射</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword67">
+        <source/>
+        <target>岩石</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword68">
+        <source/>
+        <target>旋转</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword69">
+        <source/>
+        <target>圆形</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword70">
+        <source/>
+        <target>破坏</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword71">
+        <source/>
+        <target>咸味</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword72">
+        <source/>
+        <target>阴谋</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword73">
+        <source/>
+        <target>螺丝</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword74">
+        <source/>
+        <target>海员</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword75">
+        <source/>
+        <target>海岸</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword76">
+        <source/>
+        <target>滑流</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword77">
+        <source/>
+        <target>尖锥</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword78">
+        <source/>
+        <target>右舷</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword79">
+        <source/>
+        <target>静止</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword80">
+        <source/>
+        <target>超级电容器</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword81">
+        <source/>
+        <target>茶</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword82">
+        <source/>
+        <target>终端</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword83">
+        <source/>
+        <target>糟糕</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword84">
+        <source/>
+        <target>海潮</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword85">
+        <source/>
+        <target>危险</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword86">
+        <source/>
+        <target>内衣</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword87">
+        <source/>
+        <target>不幸</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword88">
+        <source/>
+        <target>天王星</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword89">
+        <source/>
+        <target>访客</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword90">
+        <source/>
+        <target>投票</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword91">
+        <source/>
+        <target>水</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword92">
+        <source/>
+        <target>所在</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword93">
+        <source/>
+        <target>为什么</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword94">
+        <source/>
+        <target>外星</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword95">
+        <source/>
+        <target>黄色</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword96">
+        <source/>
+        <target>昨天</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword97">
+        <source/>
+        <target>年轻</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword98">
+        <source/>
+        <target>Z字型</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword99">
+        <source/>
+        <target>锌</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword100">
+        <source/>
+        <target>缩放</target>
+      </trans-unit>
+      <trans-unit id="traitor.codeword101">
+        <source/>
+        <target>百</target>
+      </trans-unit>
+      <trans-unit id="toofarfromoutpostwarning1">
+        <source/>
+        <target>请在前哨站下潜水的人员立即返回前哨站，站外活动风险极大。</target>
+      </trans-unit>
+      <trans-unit id="toofarfromoutpostwarning2">
+        <source/>
+        <target>喂！外面那货，你干什么呢？我在声呐上看到你还以为是只爬爬呢！赶紧回来，小心被别人打死。</target>
+      </trans-unit>
+      <trans-unit id="toofarfromoutpostwarning3">
+        <source/>
+        <target>前哨站下方的潜水员，你即将驶离声呐范围，请立即返回前哨站，我们可不想在你迷路后再派搜救队去下面找你。</target>
+      </trans-unit>
+      <trans-unit id="roundsummaryprogress1">
+        <source/>
+        <target>[sub]设法到达[location]</target>
+      </trans-unit>
+      <trans-unit id="roundsummaryprogress2">
+        <source/>
+        <target>[sub]已经抵达[location]</target>
+      </trans-unit>
       <trans-unit id="loading">
         <source/>
         <target>加载中…</target>
@@ -2141,14 +2565,6 @@
       <trans-unit id="tabmenu.talents">
         <source/>
         <target>天赋</target>
-      </trans-unit>
-      <trans-unit id="roundsummaryprogress">
-        <source/>
-        <target>[sub]设法到达[location]</target>
-      </trans-unit>
-      <trans-unit id="roundsummaryprogress">
-        <source/>
-        <target>[sub]已经抵达[location]</target>
       </trans-unit>
       <trans-unit id="roundsummaryreturn">
         <source/>
@@ -4117,18 +4533,6 @@
       <trans-unit id="radioannouncername">
         <source/>
         <target>中央航站</target>
-      </trans-unit>
-      <trans-unit id="toofarfromoutpostwarning">
-        <source/>
-        <target>请在前哨站下潜水的人员立即返回前哨站，站外活动风险极大。</target>
-      </trans-unit>
-      <trans-unit id="toofarfromoutpostwarning">
-        <source/>
-        <target>喂！外面那货，你干什么呢？我在声呐上看到你还以为是只爬爬呢！赶紧回来，小心被别人打死。</target>
-      </trans-unit>
-      <trans-unit id="toofarfromoutpostwarning">
-        <source/>
-        <target>前哨站下方的潜水员，你即将驶离声呐范围，请立即返回前哨站，我们可不想在你迷路后再派搜救队去下面找你。</target>
       </trans-unit>
       <trans-unit id="handcuffed">
         <source/>
@@ -7321,410 +7725,6 @@
       <trans-unit id="TraitorSettings">
         <source/>
         <target>叛徒设置</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>上瘾</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>苦恼</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>船腹</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>军械库</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>攻击</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>土匪</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>潜渊症</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>电池</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>舱底</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>鸟人</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>蓝线</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>砖头</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>货品</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>女妖</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>电路</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>市民</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>暗号</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>咖啡</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>棺材</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>同志</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>蟹人</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>狭窄</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>水晶</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>距离</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>靠站</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>末日蠕虫</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>能量</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>护送</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>借口</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>家庭</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>火力</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>平坦</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>跟随</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>地精</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>牛逼</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>恶心</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>帅哥</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>高兴</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>妨碍</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>医院</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>饥饿</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>内部</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>爵士乐</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>笑话</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>木星</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>开玩笑</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>工会</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>锁兽</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>经理</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>陆战队</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>面具</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>贪财</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>别想</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>没人</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>鼻子</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>士官</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>离谱</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>氧矿</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>潜望镜</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>发信</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>好多鱼</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>强力</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>呱呱</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>质量</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>安静</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>辐射</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>岩石</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>旋转</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>圆形</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>破坏</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>咸味</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>阴谋</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>螺丝</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>海员</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>海岸</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>滑流</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>尖锥</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>右舷</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>静止</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>超级电容器</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>茶</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>终端</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>糟糕</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>海潮</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>危险</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>内衣</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>不幸</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>天王星</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>访客</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>投票</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>水</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>所在</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>为什么</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>外星</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>黄色</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>昨天</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>年轻</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>Z字型</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>锌</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>缩放</target>
-      </trans-unit>
-      <trans-unit id="traitor.codeword">
-        <source/>
-        <target>百</target>
       </trans-unit>
       <trans-unit id="traitor.blamebutton">
         <source/>

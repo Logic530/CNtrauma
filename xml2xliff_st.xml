@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xsl:stylesheet version="1.0"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    
     <xsl:template match="/">
         <xliff version="1.2"
-            xmlns="urn:oasis:names:tc:xliff:document:1.2">
+               xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <xsl:element name="file">
                 <xsl:attribute name="source-language">en</xsl:attribute>
                 <xsl:attribute name="target-language">en</xsl:attribute>
@@ -15,7 +15,7 @@
                             <xsl:attribute name="id">
                                 <xsl:value-of select="concat('loadingscreentip', string(position()))"/>
                             </xsl:attribute>
-
+                            
                             <xsl:element name="source">
                                 <xsl:value-of select="(.)"/>
                             </xsl:element>
@@ -24,14 +24,74 @@
                             </xsl:element>
                         </xsl:element>
                     </xsl:for-each>
-
-                    <xsl:for-each select="/infotexts/*[name() != 'loadingscreentip']">
-
+                    
+                    <xsl:for-each select="/infotexts/traitor.codeword">
+                        <xsl:element name="trans-unit">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="concat('traitor.codeword', string(position()))"/>
+                            </xsl:attribute>
+                            
+                            <xsl:element name="source">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                            <xsl:element name="target">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                    
+                    <xsl:for-each select="/infotexts/toofarfromoutpostwarning">
+                        <xsl:element name="trans-unit">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="concat('toofarfromoutpostwarning', string(position()))"/>
+                            </xsl:attribute>
+                            
+                            <xsl:element name="source">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                            <xsl:element name="target">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                    
+                    <xsl:for-each select="/infotexts/roundsummaryprogress">
+                        <xsl:element name="trans-unit">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="concat('roundsummaryprogress', string(position()))"/>
+                            </xsl:attribute>
+                            
+                            <xsl:element name="source">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                            <xsl:element name="target">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                    
+                    <xsl:for-each select="/infotexts/dialogundercoverannounce">
+                        <xsl:element name="trans-unit">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="concat('dialogundercoverannounce', string(position()))"/>
+                            </xsl:attribute>
+                            
+                            <xsl:element name="source">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                            <xsl:element name="target">
+                                <xsl:value-of select="(.)"/>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:for-each>
+                    
+                    <xsl:for-each select="/infotexts/*[not(self::loadingscreentip or self::traitor.codeword or self::toofarfromoutpostwarning or self::roundsummaryprogress or self::dialogundercoverannounce)]">
+                        
                         <xsl:element name="trans-unit">
                             <xsl:attribute name="id">
                                 <xsl:value-of select="name(.)"/>
                             </xsl:attribute>
-
+                            
                             <xsl:element name="source">
                                 <xsl:value-of select="(.)"/>
                             </xsl:element>
@@ -39,11 +99,12 @@
                                 <xsl:value-of select="(.)"/>
                             </xsl:element>
                         </xsl:element>
-
+                        
                     </xsl:for-each>
+                    
                 </body>
             </xsl:element>
         </xliff>
     </xsl:template>
-
+    
 </xsl:stylesheet>
