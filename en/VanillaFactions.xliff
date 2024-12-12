@@ -2,6 +2,26 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="en" datatype="plaintext">
     <body>
+      <trans-unit id="dialogundercoverannounce1">
+        <source>This vessel is hereby confiscated by the Europa Coalition!</source>
+        <target>This vessel is hereby confiscated by the Europa Coalition!</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce2">
+        <source>The price for treason against the Coalition is death!</source>
+        <target>The price for treason against the Coalition is death!</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce3">
+        <source>We're not letting you terrorist scum out of here alive!</source>
+        <target>We're not letting you terrorist scum out of here alive!</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce4">
+        <source>We know you're plotting with the Separatists! We're putting an end to that right now.</source>
+        <target>We know you're plotting with the Separatists! We're putting an end to that right now.</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce5">
+        <source>Long live the Coalition!</source>
+        <target>Long live the Coalition!</target>
+      </trans-unit>
       <trans-unit id="entityname.piratehelmet">
         <source>Separatist Helmet</source>
         <target>Separatist Helmet</target>
@@ -409,26 +429,6 @@
       <trans-unit id="prisonerkilled">
         <source>The mission has failed; one of the prisoners has died.</source>
         <target>The mission has failed; one of the prisoners has died.</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source>This vessel is hereby confiscated by the Europa Coalition!</source>
-        <target>This vessel is hereby confiscated by the Europa Coalition!</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source>The price for treason against the Coalition is death!</source>
-        <target>The price for treason against the Coalition is death!</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source>We're not letting you terrorist scum out of here alive!</source>
-        <target>We're not letting you terrorist scum out of here alive!</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source>We know you're plotting with the Separatists! We're putting an end to that right now.</source>
-        <target>We know you're plotting with the Separatists! We're putting an end to that right now.</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source>Long live the Coalition!</source>
-        <target>Long live the Coalition!</target>
       </trans-unit>
       <trans-unit id="label.securespecimenenclosure">
         <source>Secure Specimen Enclosure</source>

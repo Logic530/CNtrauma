@@ -2,6 +2,26 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="cn" datatype="plaintext">
     <body>
+      <trans-unit id="dialogundercoverannounce1">
+        <source/>
+        <target>这艘船在这里被木卫二联盟收缴了！</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce2">
+        <source/>
+        <target>对抗联盟的结果就是死路一条！</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce3">
+        <source/>
+        <target>我们不会让你们这帮恐怖分子渣滓活着离开的！</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce4">
+        <source/>
+        <target>我们知道你和分离主义分子勾结在一起了！现在我们要结束这个错误！</target>
+      </trans-unit>
+      <trans-unit id="dialogundercoverannounce5">
+        <source/>
+        <target>联盟万岁！</target>
+      </trans-unit>
       <trans-unit id="entityname.piratehelmet">
         <source/>
         <target>分裂派头盔</target>
@@ -409,26 +429,6 @@
       <trans-unit id="prisonerkilled">
         <source/>
         <target>任务失败：一名囚犯死亡。</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source/>
-        <target>这艘船在这里被木卫二联盟收缴了！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source/>
-        <target>对抗联盟的结果就是死路一条！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source/>
-        <target>我们不会让你们这帮恐怖分子渣滓活着离开的！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source/>
-        <target>我们知道你和分离主义分子勾结在一起了！现在我们要结束这个错误！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce">
-        <source/>
-        <target>联盟万岁！</target>
       </trans-unit>
       <trans-unit id="label.securespecimenenclosure">
         <source/>
