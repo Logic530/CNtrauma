@@ -38,9 +38,9 @@
         <source/>
         <target>物理体</target>
       </trans-unit>
-      <trans-unit id="opensubbutton">
+      <trans-unit id="opensubbutton" xml:space="preserve" approved="no">
         <source/>
-        <target>打开...</target>
+        <target state="translated">打开…</target>
       </trans-unit>
       <trans-unit id="savesubbutton">
         <source/>
