@@ -5446,6 +5446,10 @@
         <source/>
         <target>乘方元件</target>
       </trans-unit>
+      <trans-unit id="leveleditor.outpostmodulecount" xml:space="preserve" approved="no">
+        <source>Count</source>
+        <target state="translated">数量</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
