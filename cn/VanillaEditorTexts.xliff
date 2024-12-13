@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="editor.saveall" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">保存所有</target>
+        <target state="translated">保存所有</target>
       </trans-unit>
       <trans-unit id="items" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">物品</target>
+        <target state="translated">物品</target>
       </trans-unit>
       <trans-unit id="structures" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">结构</target>
+        <target state="translated">结构</target>
       </trans-unit>
       <trans-unit id="totalhullvolume" xml:space="preserve" approved="no">
         <source/>
