@@ -1,2463 +1,2462 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="en" datatype="plaintext">
-    <body>
-      <trans-unit id="EventText.clownhaven1.c1.gno1">
-        <source/>
-        <target>“你已到达恶作剧大师所说的前哨站。穿上乐子3000，用欢乐轰炸这个前哨站，让严肃的居民们觉得还是把这里留给小丑圣母之子吧！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.clownhaven1.c1.c1.gno2">
-        <source/>
-        <target>人们似乎对乐子3000很恼火。或许这真能行！</target>
-      </trans-unit>
-      <trans-unit id="EventText.clownhaven1.c1.c2.gno3">
-        <source/>
-        <target>前哨站的某处回响着小丑喇叭的响声，紧接着是一阵快乐的欢呼声：“赞美小丑圣母！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.clownhaven1.c1.c3.gno4">
-        <source/>
-        <target>其中一个前哨居民对你大喊，“把那东西弄出去，否则我就叫安保了！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.clownhaven1.c1.c4.gno5">
-        <source/>
-        <target>广播中传来一个公告：“所有安保人员。请用任何必要的手段关闭那个该死的小丑机器。授权使用致命武器……不，鼓励使用致命武器。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.clownhaven1.c1.c5.gno6">
-        <source/>
-        <target>广播中传来另一个公告：“好吧，我们放弃。这该死的前哨站归你们了，求求你们把那个破玩意儿关上。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak.c1.gno7">
-        <source/>
-        <target>“哦，感谢上帝，我以为我们永远逃不出那个鬼地方！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_alarm.c1.gno8">
-        <source/>
-        <target>广播里传来了公告：“致所有安保人员：红色警报。发现逃犯。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_sootman.c1.gno9">
-        <source/>
-        <target>“嘿，我猜你是培德兰中尉派来的？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_sootman.o1.gno10">
-        <source/>
-        <target>“对，我们来救你出去。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_sootman.o1.c1.gno11">
-        <source/>
-        <target>“啊，我猜也是，多谢了。你们的船应该已经准备好了吧？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_sootman.o1.o1.gno12">
-        <source/>
-        <target>“当然，跟我来！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.jailbreak_sootman.o1.o1.c1.gno13">
-        <source/>
-        <target>“其实在离开前我还有点事情要做。五分钟后咱们在你的船上见。”你还没来得及说些什么，他就飞奔了出去。</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent.pleasecontinue.gno14">
-        <source/>
-        <target>“我们有兴趣，请继续说下去。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_cargocompoundn.c1.gno15">
-        <source/>
-        <target>“如果你愿意帮我们对抗联盟，那我们有个活儿给你……我们在下一个前哨站有几个特工，他们的任务需要一些炸药。原封不动地把货运过去，我们会给你合适的报酬的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_cargoweaponscoalition.c1.gno16">
-        <source/>
-        <target>“我手头上有个重要的活儿。联盟派了一些秘密特工监视附近前哨站的分离主义分子活动。细节我最好还是别说了，总之我们得运送一批武器和弹药。把它们完整运送过去，你就帮了联盟的大忙，我们也会付钱的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_escort1clowns.c1.gno17">
-        <source/>
-        <target>“嘿！你的潜艇里还能再装几个乘客吗？我的朋友们想找船去下一个前哨站，他们很乐意付钱的。”小丑低声说到。“你可能得看着点他们。他们都是些脑袋里养藻鬃爬行者的主儿，你懂我意思吧？他们也没上过潜艇，不知道他们能不能应付得来。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_escort1huskcult.c1.gno18">
-        <source/>
-        <target>“嘿！想找点活儿干吗？我们要护送一批诗僧到下一个前哨站。但我得提醒你，即使我已经明确解释了他们还没准备好，我还是怀疑他们会自己开始交融。看管好他们，别让他们在船上做什么蠢事。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_coalition.c1.gno19">
-        <source/>
-        <target>前哨站管理员看起来犹豫了一下。“这个任务可能会很艰难，但是考虑到你们的名声，你们或许做到得到。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_coalition.o1.c1.gno20">
-        <source/>
-        <target>“几名我们的特工最近被木星分裂派分子俘虏了，根据我们的信息，他们被关在附近的某个前哨站。如果你能安全地把他们救出来，我们会付你报酬的。我把位置标在你的地图上。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_separatists.c1.gno21">
-        <source/>
-        <target>前哨站管理员看起来犹豫了一下。“这个任务可能会很艰难，但是考虑到你们的名声，你们或许做到得到。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_separatists.o1.c1.gno22">
-        <source/>
-        <target>“几名我们的特工最近被联盟俘虏了，根据我们的信息，他们被关在附近的某个前哨站。如果你能安全地把他们救出来，我们会付你报酬的。我把位置标在你的地图上。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_sootman.c1.gno23">
-        <source/>
-        <target>前哨站管理员从胸前的口袋里拿出一份文件。“这是另一个敏感任务，你懂的。培德兰中尉亲自委托，事实上，她更希望接受任务的人是你们。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_sootman.c1.c1.gno24">
-        <source/>
-        <target>“联盟最近抓获了我们的一位特工。那是个高调的家伙，但幸运的是联盟似乎没发现他的身份，要不他现在肯定已经被处决了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_sootman.c1.o1.gno25">
-        <source/>
-        <target>“那是谁？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_jailbreak_sootman.c1.o1.c1.gno26">
-        <source/>
-        <target>“名字还是不提为好，不过我可以告诉你，他可烧了不少联盟哨站和舰船。总之，他被关在附近的一个前哨站里。把他救出来，你就能得到一笔可观的报酬。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.gno27">
-        <source/>
-        <target>前哨站管理员从胸前的口袋里拿出一份文件，用一种若有所思的表情看着你。“嗯……这项任务是由维多利亚·培德兰本人委托的，任务内容十分敏感，但我想你已经证明自己值得信赖了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.c1.gno28">
-        <source/>
-        <target>“你听说过托姆斯戴尔事件吧？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.gno29">
-        <source/>
-        <target>“有印象，但请详细说说吧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.c1.gno30">
-        <source/>
-        <target>“好吧，那我从头开始讲吧。还是联盟刚开始在木卫二寻找立足点的时候，托姆斯戴尔是当时最大的独立殖民地，木星人民主义运动也大受支持。我想，某种意义上，那里是独立殖民地和独立运动的大本营。那时候，木卫二仍有民主，而且大选即将到来。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.gno31">
-        <source/>
-        <target>“嗯哼。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.c1.gno32">
-        <source/>
-        <target>“就在大选前的几周，托姆斯戴尔发生了核灾难，超过一百人死亡。很巧的是，所有受害者都是木星人民主义运动的支持者。天平因此向他们倾斜，联盟成为了木卫二法律上的政府。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.gno33">
-        <source/>
-        <target>“这也太巧了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1.gno34">
-        <source/>
-        <target>“确实。这件事情官方认定是场意外事故，但是我很难相信这是真的。从那之后，事态转变得太快了——联盟宣称木星人民是恐怖组织，我们的创始人哈洛·培德兰遭到暗杀，绝大部分独立前哨站被接管……”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.gno35">
-        <source/>
-        <target>“那这些和此次任务有什么关系呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1.gno36">
-        <source/>
-        <target>我们认为联盟仍有关于托姆斯戴尔事件的机密报告。我们的线报中有证据表明，报告的复印件就保存在附近的前哨站。如果我们能拿到这份报告，我们就能证明我们的怀疑并不是阴谋论，让所有人都知道联盟的背后是多么肮脏。</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.gno37">
-        <source/>
-        <target>“很高兴能帮忙。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1.gno38">
-        <source/>
-        <target>“好极了。我会在你的地图上标记出前哨站的位置。根据情报，文件就在前哨站管理员办公室的保险柜里。你得机灵点，可以试试斜坡前哨站管理员或者偷他的ID卡。另外，记得低调点。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.o1.o1.gno39">
-        <source/>
-        <target>“啊，我明白了。那么，任务内容是什么？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.whospetran.gno40">
-        <source/>
-        <target>“等等，什么？你和我们一同合作了这么久，还从来没听说过她？她是木星分裂派中尉，如果我们这样松散的组织要说有什么领袖的话，那就是她了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.missionevent_tormsdalereport.whosthat.gno41">
-        <source/>
-        <target>“那是谁？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1.gno42">
-        <source/>
-        <target>拿好我的钱，闭上你的嘴。</target>
-      </trans-unit>
-      <trans-unit id="EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2.gno43">
-        <source/>
-        <target>“我可不要你的脏钱，告辞。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.c1.gno44">
-        <source/>
-        <target>有个穿着奇怪小丑服的人走了过来，把你拉到一边。“我之前没在这见过你，我能问问你为什么来这里吗？如果你懂我意思的话，那你是个乐子人吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o1.gno45">
-        <source/>
-        <target>“我们就是路过。你刚说到乐子人，那是什么意思？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o1.c1.gno46">
-        <source/>
-        <target>“听从小丑喇叭召唤的愚者们！我和的非门徒们为自己在世上找到了一处安身之所，我们希望能够保持这种状态。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o1.o1.gno47">
-        <source/>
-        <target>“呃，非门徒？你是说你是某种领袖？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o1.o1.c1.gno48">
-        <source/>
-        <target>“不不，我可不是领袖！我是恶作剧大师，有的人可能会叫我导师，但我只是引导人们走上小丑喇叭之道。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o1.o1.o1.gno49">
-        <source/>
-        <target>“你能教教我关于小丑喇叭之道的事情吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.gno50">
-        <source/>
-        <target>“如果我说了算，我们就会把你们这帮没用的‘乐子人’团团围起来，然后送到劳改营，你懂我意思吧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.c1.gno51">
-        <source/>
-        <target>“那会让我变成一个悲伤的小丑。但是我不批判他人，你们只是被他们的谎言蒙蔽了双眼。但是如果你愿意换换脑子睁开眼睛，恶作剧大师会很乐意带你看看那条道路的！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.o1.gno52">
-        <source/>
-        <target>“我没兴趣听这些废话。告辞。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.o2.gno53">
-        <source/>
-        <target>“你能多说说关于那条‘道路’的事情吗？那到底是什么意思？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.o2.c1.gno54">
-        <source/>
-        <target>“嗯……在刚刚那段关于劳改营的对话后，我不得不怀疑你的动机了！不过，如果你穿一身更合适的装束，我可能会多信任你一点……”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.o2.c1.c1.gno55">
-        <source/>
-        <target>“没有小丑服，咱就没得谈！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o2.o2.o1.gno56">
-        <source/>
-        <target>“好吧，我去弄一身回来。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.gno57">
-        <source/>
-        <target>“不用担心我们。愿小丑圣母祝福你和你的前哨站！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.c1.gno58">
-        <source/>
-        <target>“赞美小丑圣母！我本来还担心你是那种不喜欢看人们走上小丑喇叭之道的无聊人呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.o1.gno59">
-        <source/>
-        <target>“你能教我们关于小丑喇叭之道的事情了吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.o1.c1.gno60">
-        <source/>
-        <target>“这就是精髓！我不喜欢别人叫我老师，因为我其实没什么可教的，一切都取决于你。我能做的只是给你指个正确的方向，没准以后哪天你就能自己看见真相了。为此，我可以给你们一个小小的任务，你可以以此来迈向通向小丑圣母怀抱的第一步。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.o1.o1.gno61">
-        <source/>
-        <target>“我在听。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn1.o3.o1.o1.c1.gno62">
-        <source/>
-        <target>“你看到我带的这张面具了吗？在木卫二上不太常见，但是如果你用心找的话，应该还是能在旅途中找到的。如果你找到了，把面具带给我或者其他恶作剧大师，然后我们拭目以待！哦对了，请带上这个，你可以没事读读。哒哒！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.c1.gno63">
-        <source/>
-        <target>“赞美小丑圣母！又见到你了！怎么样了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.gno64">
-        <source/>
-        <target>“我找到你要的面具了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.c1.gno65">
-        <source/>
-        <target>“我看到了！太好了！你可以自己拿着它，你看，我已经有面具了。要是你想的话其实扔了也行，就是个面具而已，而且还挺难看的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.c2.gno66">
-        <source/>
-        <target>“这是个隐形版的面具吗？我确实想看看。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.gno67">
-        <source/>
-        <target>“那你为什么还让我去找这个？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.c1.gno68">
-        <source/>
-        <target>“任务本身挺无聊的，就像幼稚的小孩过家家。但是你不觉得寻找的过程本身很有意思吗？那肯定是场大冒险，在沿途还遇到了不少麻烦，不过有时候你也乐在其中，不然你也不会在潜艇上过日子。所以，倒是我应该问问你为什么想去找这张面具，或者说，为什么开着潜艇游来游去为木卫二的人们做各种事？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.gno69">
-        <source/>
-        <target>“我确实还挺享受这段旅程的，但这对小丑喇叭之道有什么帮助？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.c1.gno70">
-        <source/>
-        <target>“乐趣！乐趣！我选择游戏中的任务作为比喻：如果你想得更远一些，整个社会制度就是一场游戏。如果你真的理解了事情的真相，那整个世界都是游戏中的系统：人的游戏，爬行者的游戏，潜艇的游戏，还有各种你在潜艇上做的事……”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.gno71">
-        <source/>
-        <target>“行吧……？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.c1.gno72">
-        <source/>
-        <target>“但是注意‘游戏’这个词！这不是说这一切都毫无意义！就像演奏一首歌曲：一般来说没有那么严肃，但却十分真挚。你可以用各种复杂的形式演奏出美妙的乐曲，没什么理由，反正就这么做了。”恶作剧大师说完就把小丑喇叭吹到了你的脸上。</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.gno73">
-        <source/>
-        <target>“我大概明白的意思了。所以，下一步做什么呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1.gno74">
-        <source/>
-        <target>“哇朋友，你可真有点东西！首先，我想让你去找个玩具锤子。你知道那种吧，就是傻乎乎的塑料玩具，一打人就啾啾响那种。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.gno75">
-        <source/>
-        <target>“然……然后呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1.gno76">
-        <source/>
-        <target>“然后就是最好玩的部分了！你就潜入冰洋深处，见见那些住在下面的大家伙。捕钩兽就可以，要是能找到噬海女妖或者末日蠕虫，那起码多三倍乐趣。然后你就用玩具锤子砸它们，使劲地砸！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.gno77">
-        <source/>
-        <target>“这听起来可不太妙，但我猜肯定是有意义的吧？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1.gno78">
-        <source/>
-        <target>“这就是精髓！这任务蠢爆了，但是你最好忽略头脑中理智的那部分，好好享受最伟大的乐子人交给你的思想过山车！不管怎样，完成之后记得告诉我或者我的同僚。拿上这本小册子，你在旅途中可以继续读读！祝你好运！希望你能踏上一段精彩刺激、志得意满、不丢小命的旅程！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.gno79">
-        <source/>
-        <target>“什么鬼啊？你干脆让我自杀得了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1.gno80">
-        <source/>
-        <target>“我猜你还没认识到这件事的愚蠢性，也没认识到它的深刻性。因此如果你还想深入小丑喇叭之道，你就得这么做。不管怎样，完成之后记得告诉我或者我的同僚。拿上这本小册子，你在旅途中可以继续读读！祝你好运！玩得开心！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.gno81">
-        <source/>
-        <target>“这些伪哲学胡话搞得我头疼。你能不能就简简单单地告诉我小丑圣母到底是什么？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1.gno82">
-        <source/>
-        <target>“我看你对不把事情当回事很在行！要是你能把这份漫不经心利用起来…就算这时候我告诉你小丑圣母是个三磅重的蛋黄派，对你来说也没有任何意义，不是么？我觉得肯定没有。所以，你还需要更多学习！那我们试个别的任务！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1.gno83">
-        <source/>
-        <target>“好的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o2.gno84">
-        <source/>
-        <target>“我还没找到圣母的面容，能给我点提示吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o2.c1.gno85">
-        <source/>
-        <target>“这种面具已经过时很久了，要是幸运的话，你没准能找到一个又老又破的。当然了，这也是恶作剧大师们的传统装束，所以，跳出原本的思路想想。布灵布灵！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn2.o2.o1.gno86">
-        <source/>
-        <target>“你刚才说‘布灵布灵’？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.c0.gno87">
-        <source/>
-        <target>“嘿，我需要你帮我想个问题。假设有个人要做一个小丑教母的特殊服装，是不是正好能叫‘小丑战甲’？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.c1.gno88">
-        <source/>
-        <target>“别在意，没什么重要的！咱们来说正事吧，一只小鸟告诉我你去了什么任务，你和海怪的会面进行得怎么样？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o0.gno89">
-        <source/>
-        <target>“呃，为什么问这个？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.gno90">
-        <source/>
-        <target>“你觉得还能怎么样？我好不容易才活着逃出来。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.c1.gno91">
-        <source/>
-        <target>“你就知道你肯定做得到，但你好像不是那么有信心？看来你在真正品尝蛋黄派之前还有段路要走啊。我要你想一想，如果你最害怕的事情发生了，你会怎么办呢？以及你现在仍有什么害怕的呢？如果你被那头深渊巨兽吞噬了，你的小丑喇叭之道会就此沉寂吗？这就是你故事的结局了吗？你所害怕失去的这个‘你’又是什么人呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.o1.gno92">
-        <source/>
-        <target>“我要是没从它嘴里逃出来的话，我的故事肯定就没有以后了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.o1.c1.gno93">
-        <source/>
-        <target>“真的吗？如果你坚持扮演你现在的角色，宇宙之眼就会透过这个角色凝视着自己，这就是整个故事，以及‘你的’故事的病态又好玩的结局。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.o1.o1.gno94">
-        <source/>
-        <target>“我不太明白你的意思。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o1.o2.gno95">
-        <source/>
-        <target>“我不太理解你想表达什么。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.gno96">
-        <source/>
-        <target>“我觉得挺有意思的，但是那海怪可能听不懂这笑话。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.c1.gno97">
-        <source/>
-        <target>“哈哈！你的小丑喇叭最近越来越响了。不过告诉我，当你和死亡亲密接触的时候，或者甚至一只脚迈进死亡之门的时候，你的脑子里有没有什么新动静？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.gno98">
-        <source/>
-        <target>“我不太明白你的意思。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.c1.gno99">
-        <source/>
-        <target>“我们要讨论一些语言难以触及的领域，但我会试试的。当我们呆在马戏团帐篷里围观表演的时候，我们并不会想起或谈起外面的世界，我们沉浸在表演里。这可是好事！专心享受精彩的演出，不因帐篷外的纷扰而分心。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.gno100">
-        <source/>
-        <target>“这是什么关于死后的寓言故事吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.c1.gno101">
-        <source/>
-        <target>“并非如此，这是关于‘生前’的寓言，管它叫什么呢，这么说好了：想想你在出生前最原始的样子。或者，你带上面具之前的样子。在你走出帐篷之后，你能完全确定自己以后不会再回到这里了吗？你曾走进过帐篷，一次或者很多次，但是谁说得准会不会再走进来呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o1.gno102">
-        <source/>
-        <target>“你是在讨论关于来生的事情吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o1.c1.gno103">
-        <source/>
-        <target>“我刚才说过，我们要讨论一些语言难以触及的领域。我没法说得再具体了，概括来说，死亡就是一个笑话。你所害怕失去的‘你’你真的能失去它吗？这可是个下次再见前你要好好思考的家庭作业。哒哒！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o2.gno104">
-        <source/>
-        <target>“我明白你的意思了，但现在我们还是戴上面具专心扮演自己的角色吧！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o2.c1.gno105">
-        <source/>
-        <target>“小丑圣母在上！我猜你应该瞥见一点帐篷里的秘密了。或者说，你正在窥见帐篷里的秘密？总之，我对你的努力印象深刻。我们得找个时间谈谈下一步了，现在我们先把当下的事情解决了。下次见！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o3.gno106">
-        <source/>
-        <target>“我明白你的意思了。死后什么也没有，并不比诞生前的虚无更可怕。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o3.c1.gno107">
-        <source/>
-        <target>“我想这是一种方式的方式，但我担心你刚刚踩到了一个巨大的香蕉皮！你完全误解了我想要表达的意思。这样说吧：想想你在出生前最原始的样子。或者，你带上面具之前的样子。这可是个下次再见前你要好好思考的家庭作业。哒哒！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.c1.gno108">
-        <source/>
-        <target>“很高兴又见到你了！时机正好，我正在找任务志愿者呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.gno109">
-        <source/>
-        <target>“我们有兴趣。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.c1.gno110">
-        <source/>
-        <target>“看到你如何对付海怪后，我觉得你是个有胆量的人，或者说是足够快活的人。你记得我们之前提到过的小丑圣母特别装甲吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.gno111">
-        <source/>
-        <target>“记得，怎么了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.c1.gno112">
-        <source/>
-        <target>“我们待会儿再说这个！你知道，附近曾经有很多哨站是听从小丑喇叭召唤之人的安全港，我们本能在那里过上平静的生活，当然这是一种比喻。但你也知道，很久都没有这样过了，整个木卫二都没有这样的地方了。每周都能看到小丑被殴打或者死在路边的新闻。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.gno113">
-        <source/>
-        <target>“我知道。那么，你的计划是什么？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.c1.gno114">
-        <source/>
-        <target>“我们要再给自己建一座安全港！我们陷入了僵局，前哨站似乎永远地成为了严肃之人的财产，尽管我们快乐之人竭尽全力也改变不了现在的局面。就像有什么规定似的，一旦你拿下一个前哨站，那你就永远是它的主人了。所以我们要改改游戏规则了！这就是那个特殊装甲的作用了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.gno115">
-        <source/>
-        <target>“你真的造出来了一个？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.c1.gno116">
-        <source/>
-        <target>“是的，是的！我们不想像他们那样玩脏的，但我相信我们能用这种非暴力的方式夺回安全港。欢乐大轰炸，核动力小丑喇叭，香蕉皮大炮，日日夜夜，绝不停歇，直到他们别无选择，只能放弃，然后给自己找个别的更‘严肃’的地方待着。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.gno117">
-        <source/>
-        <target>“但他们会用武力阻止吧？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1.gno118">
-        <source/>
-        <target>“他们肯定会的。但是乐子3000应该也有两下子，没准好几下子！我还有一个点子：你有丰富的战斗经验，又毫不在乎自身安危，你最适合干这活了！如果你能穿上这身特殊装甲，帮我们夺回前哨站，我们会永远感激你的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.gno119">
-        <source/>
-        <target>“很高兴能帮助你们。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1.gno120">
-        <source/>
-        <target>“哦太好了！我就知道你不会拒绝！不管怎样，你都会获得很多乐趣的。装甲在这里，我已经在你的地图上标记出前哨站的位置了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.gno121">
-        <source/>
-        <target>“我们得再考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1.gno122">
-        <source/>
-        <target>“考虑过我们的提议了吗？愿意穿上乐子3000帮我们夺回前哨站吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1.gno123">
-        <source/>
-        <target>“很高兴能帮助你们。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2.gno124">
-        <source/>
-        <target>“我们得再考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn4.o2.gno125">
-        <source/>
-        <target>“我们现在没有时间。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.c1.gno126">
-        <source/>
-        <target>“哦，哦，是你！你做到了！说实话，这其实是个荒唐的计划，我也没想到能这么成功！我简直不知道该如何感谢你，但至少我们可以把这身装甲送给你。或许你会在旅程中用得上它。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.c1.c1.gno127">
-        <source/>
-        <target>恶作剧大师饶有兴致地看着你。</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.c1.o1.gno128">
-        <source/>
-        <target>“你真的没什么建议能给我们了吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.c1.o1.c1.gno129">
-        <source/>
-        <target>“我能预感到你的道路会把你引向何方。当你到达那里，你就会更清晰地理解生命这场游戏的规则。当一切赤裸裸地摆在眼前，有的人可能彻底不玩了，有的人可能会选择禁欲主义的生活，有的人可能彻底走出帐篷。都很好！你才是掷骰子的人。其他人，比如我和我的小丑同僚们，选择继续发挥自己的作用，让欢乐继续下去，帮助人们了解这场游戏的本质。这也是个很好的选择！不管你最后选择了怎样的道路，我都希望你一路欢乐幸运。赞美小丑圣母！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.c1.o1.o1.gno130">
-        <source/>
-        <target>“赞美小丑圣母！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.gno131">
-        <source/>
-        <target>“谢谢！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.c1.gno132">
-        <source/>
-        <target>“不得不说，我很惊讶你能用这么短的时间在小丑喇叭之道上走这么远。对许多人来说，这条道路十分漫长，有的人甚至摸不着门道。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.gno133">
-        <source/>
-        <target>“那么，下一步呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.c1.gno134">
-        <source/>
-        <target>“我要既高兴又悲伤地说，我只能带你走这么远了，剩下的路要靠你自己走了。但我看得出来，你已经知道方向了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.gno135">
-        <source/>
-        <target>“就到这里了吗？你还没告诉我小丑圣母到底是怎么回事呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.c1.gno136">
-        <source/>
-        <target>“噢，你可真傻，你想听什么呢？她是流淌在我们血液中的欢乐，还是我们沿途交到的朋友？还是三磅重的蛋黄派？或者是骑在巨大乌龟上手握我们世界的神猴？这些词都很好玩，但就如我之前所说，那是一个语言无法描述的领域。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.o1.gno137">
-        <source/>
-        <target>“……”</target>
-      </trans-unit>
-      <trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.o1.c1.gno138">
-        <source/>
-        <target>解释这个词就像解释一个笑话，解释不清，也没什么意思。这也是整个宇宙的巨大笑话，超越语言，人不能把表述和本质混为一谈。</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_complete.c1.gno139">
-        <source/>
-        <target>“你好！我听说你要为我们找回一份重要的文件。情况如何了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_complete.o1.gno140">
-        <source/>
-        <target>“我找到文件了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_complete.o1.c1.gno141">
-        <source/>
-        <target>“前哨站管理员接过文件开始浏览，然后瞪大了眼睛。“天呐！这可是大事！如果文件内容属实，那么联盟无疑在托姆斯戴尔进行了一场大屠杀。信息公开后，联盟会受到巨大打击。你的帮助让我们无以为谢，我会为你向培德兰中尉说些好话，告诉她是你和你的船员完成了这个任务。当然，我也会付你报酬的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_complete.o1.c2.gno142">
-        <source/>
-        <target>“好，请拿过来！我等不及要看看了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_complete.o2.gno143">
-        <source/>
-        <target>“我还没拿到文件。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.c1.gno144">
-        <source/>
-        <target>这位肯定就是前哨站管理员了。你需要想个办法弄到他的ID卡，才能打开保险柜。</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o1.gno145">
-        <source/>
-        <target>“你好。我们正在进行联盟委托的安全检查，现在需要检查你的保险柜，可以帮我打开吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o1.c1.gno146">
-        <source/>
-        <target>“呃……啥？我当我是弱智吗？滚出我的办公室，要不我就叫安保了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o2.gno147">
-        <source/>
-        <target>“革命即将到来。交出你的ID卡，要不就交出你的狗命。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o2.c1.gno148">
-        <source/>
-        <target>他立刻掏出了枪。</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o3.gno149">
-        <source/>
-        <target>“长官，打扰一下！下面几层楼有些人有点争端，人们叫我来通知你。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o3.c1.gno150">
-        <source/>
-        <target>“我知道了，带路吧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o3.c1.c1.gno151">
-        <source/>
-        <target>“不知道你是在搞我还是别的什么，我得回去工作，告辞。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.tormsdalereport_outpost.o4.gno152">
-        <source/>
-        <target>忽略他，继续走。</target>
-      </trans-unit>
-      <trans-unit id="EventText.toyhammeronabyssmonster.c1.gno153">
-        <source/>
-        <target>玩具锤子砸向了那头深渊巨兽，然后无事发生。你思索了一下，这一切到底都是为了什么，但很快你就意识到，现在不是想这个问题的时候，现在该做的事情只有逃命。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.c1.gno154">
-        <source/>
-        <target>“我相信你的船员很想进一步了解画皮教派。但是在此之前，我想问一个我的同僚已经问过的问题：何为第二次精神蜕变？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.c2.gno155">
-        <source/>
-        <target>你偶然听到两个穿着长袍的人在低声讨论着什么。“说实话，我觉得那些用药为媒的下三滥曲解了交融本身的含义。”衣着更华丽的那位耸了耸肩。“作为一个传教士，我同意。不过这话只在你我之间说说，我相信偶尔测试一下自己的极限对教徒们也有好处——毕竟，如果想超越极限，就得知道自己的极限在哪里。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.gno156">
-        <source/>
-        <target>“打扰一下，你刚说你是画皮教派传教士？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.c1.gno157">
-        <source/>
-        <target>穿长袍的男人转过头来，上下打量着你，你感觉自己仿佛听到了什么不该听的东西。“你是谁？来这里做什么？”他问道。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.gno158">
-        <source/>
-        <target>“我的船员们想多了解一些画皮教派的事情，我听说传教士能为我们指点一二。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.c1.gno159">
-        <source/>
-        <target>那个男人嘲讽般地笑了笑。“你觉得我是讲公开课的吗？就算我愿意给遇见的每个人传授知识，我又怎么能确定你是不是来刺探消息的联盟间谍或者小丑呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.gno160">
-        <source/>
-        <target>“那我能不能为教会做些事情，以此来证明自己的诚意呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.c1.gno161">
-        <source/>
-        <target>“这并不会让你与道德缺失精神软弱的众生有什么区别，你们只是有好处就办事而已，根本不考虑他们支持的是什么。教会感兴趣的是你在争取什么，以及你愿意这些愿景奉献多少。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.gno162">
-        <source/>
-        <target>“那有其它什么证明我们忠诚的方式吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.c1.gno163">
-        <source/>
-        <target>“你还有很长的路要走，孩子，但是我们试试看吧。让我看看你对我们的教义了解多少。回答我这个问题，何为第二次精神蜕变？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o1.gno164">
-        <source/>
-        <target>“从肉体的桎梏中解放。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o1.c1.gno165">
-        <source/>
-        <target>他发出一声痛苦的呻吟，“我觉得你理解的不怎么到位，你再好好学习一下吧，想清楚之前，我是不会再跟你说什么了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o2.gno166">
-        <source/>
-        <target>“与共生体融为一体。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.gno167">
-        <source/>
-        <target>“倒干圣杯中的陈酒。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.c1.gno168">
-        <source/>
-        <target>“没想到一个水手竟然还了解三重蜕变。尽管光有这个证明不了什么，但是作为敲门砖确实够了。我们即将举行某个特定的教会活动，需要给教众们分享很多‘圣餐’。你肯定明白我指的是什么。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.o1.gno169">
-        <source/>
-        <target>“你需要我给你找些画皮寄生虫卵？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1.gno170">
-        <source/>
-        <target>“这是另一种说法，是的。这是对你奉献精神的一种考验，也可以帮助你和你的船员到达第一重蜕变的境界，沉入深渊，深入冰洋。所以，简单地说，给我或我的同胞们带回来十二瓶画皮寄生虫卵，之后我们再聊聊别的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o4.gno171">
-        <source/>
-        <target>“我还不太了解。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o4.c1.gno172">
-        <source/>
-        <target>“承认自身的不足确是智慧。但你再好好学习一下吧，在弄清楚之前，我不会再跟你说什么了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o2.gno173">
-        <source/>
-        <target>“如果你能带来有价值的东西，我们会很乐意给你报酬的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o1.o2.c1.gno174">
-        <source/>
-        <target>“像你这样的舰长肯定觉得有钱能使鬼推磨，但你的提议表明你对我们教派寻求之物所知甚少。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o5.o2.gno175">
-        <source/>
-        <target>“对不起，我肯定是把你和别人搞混了。我得走了！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o6.gno176">
-        <source/>
-        <target>听起来这个人是画皮教派的什么大人物。最好警告前哨站安保。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o6.c1.gno177">
-        <source/>
-        <target>你用无线电联系了前哨站安保，通知他们在这个区域中发生的可疑活动。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension1.o7.gno178">
-        <source/>
-        <target>看起来很可疑，还是别掺和进去了。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.c1.gno179">
-        <source/>
-        <target>“我想我们的教会已经给过你任务了。你弄到‘圣餐’了吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.c2.gno180">
-        <source/>
-        <target>“你决定好成为画皮教派的侍僧了吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.gno181">
-        <source/>
-        <target>“我按照要求弄到了12瓶画皮寄生虫卵。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.c1.gno182">
-        <source/>
-        <target>当你拿出瓶子的时候，传教士瞪大了双眼。他飞快地把瓶子从你手中拿过来，塞进了长袍里。“看来我们之前对你们的怀疑简直是毫无根据。请原谅我们之前的猜忌，我们只是不想和对画皮理解浅薄的人交流。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.c2.gno183">
-        <source/>
-        <target>“请把它们带给我，然后我们就能继续了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.o1.gno184">
-        <source/>
-        <target>“理解。现在你能告诉我们关于画皮教派的事情了吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.o1.c1.gno185">
-        <source/>
-        <target>“这种对知识的渴望就是誓言的证明。是的，我们已经和教会讨论过了。只要你愿意，我们就接纳你们为教会的侍僧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.o1.o1.gno186">
-        <source/>
-        <target>“具体一点，这什么意思？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o1.o1.o1.c1.gno187">
-        <source/>
-        <target>“这就意味着，我们会协助你飞升，你要也协助教会对臻于人类完美形态的追求，或者说，对超越人类的追求。我们教派的成员并没有太多义务，每个人可以根据自身的意志和能力为教会服务，但是我们也真诚地希望你和船员们能继续为我们的理想做出伟大的贡献。请仔细考虑一下我们的邀请吧，如果你下定决心，请告诉我。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o2.gno188">
-        <source/>
-        <target>“还在努力中。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.gno189">
-        <source/>
-        <target>“是的，我想加入教派。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.c1.gno190">
-        <source/>
-        <target>“那么你将得偿所愿。你是否愿意把飞升和超越人类作为自己终极理想？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.gno191">
-        <source/>
-        <target>“我愿意。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.c1.gno192">
-        <source/>
-        <target>“那么你将得偿所愿。你是否愿意放弃人性，迈向更高级形态的阶梯？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.o1.c1.gno193">
-        <source/>
-        <target>“那么你将得偿所愿。你是否愿意让自己的意志如这个世界般坚定，迈向更高级形态的阶梯？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.c1.gno194">
-        <source/>
-        <target>“那么你将得偿所愿。欢迎加入画皮教派的家庭。我很高兴你能同我们一道！我相信，整个教会从上到下都会为此欣喜！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.o1.gno195">
-        <source/>
-        <target>“那么，下一步怎么做？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.o1.c1.gno196">
-        <source/>
-        <target>“基本上根据你的个人意愿来决定。如之前所说，每个人可以根据自身的意志和能力为教会服务。如果你需要指引，可以先看看《圣杯之书》。”传教士递给你一张卷轴。“把它牢记于心，下一个任务到来的时候，你就能做好充足准备。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension2.thinkaboutthis.gno197">
-        <source/>
-        <target>“我还得再考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.c1.gno198">
-        <source/>
-        <target>“很高兴再见到你。时机刚好，我们现在正需要你的帮助。这比你之前做过的事情更敏感些，我们需要一个有能力，且教会足够信任的人，你和你的船员再合适不过了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.gno199">
-        <source/>
-        <target>“我有兴趣。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.c1.gno200">
-        <source/>
-        <target>“根据内部消息，一名联盟特工已经渗透进了教会，妄图窃取我们的秘密。他可能获得了一些敏感信息，包括我们大教士的身份和定位。我们有理由相信他就在附近的前哨站，现在是时候让他没机会把信息泄露出去了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.o1.gno201">
-        <source/>
-        <target>“我明白了。我会小心行动的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.o2.gno202">
-        <source/>
-        <target>“你是让我去杀人吗？！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.o2.c1.gno203">
-        <source/>
-        <target>“你没读过《三重蜕变》吗？真是腐朽的思想 - 你得抛弃那些虚伪的人类道德观念。除此之外，你在航海生涯中已经杀过数不清的人类，这又与那些有什么区别？更别提此事这对我们的教会的重要性！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.o2.o1.gno204">
-        <source/>
-        <target>“你说得对。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension3.o1.o2.o1.c1.gno205">
-        <source/>
-        <target>“我会把位置标记在你的地图上。记得要隐秘行事，我们不想招来什么窥视的目光。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.c1.gno206">
-        <source/>
-        <target>“我们已收到消息，你的任务成功了。我就知道我们指得上你！但不幸的是，我们还有些更紧急的事项需要讨论一下。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.gno207">
-        <source/>
-        <target>“说吧，我在听。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.c1.gno208">
-        <source/>
-        <target>“你很清楚，联盟之前发布了对雅科夫·苏布拉的悬赏，他是我们的一名大教士。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.o1.gno209">
-        <source/>
-        <target>“熟悉的名字，但我不清楚更多细节。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.o1.c1.gno210">
-        <source/>
-        <target>他是我们其中一名大教士，不过他更喜欢被称为‘首脑领袖’。就是他创办了“软体动物教派”集会，</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.o1.o1.gno211">
-        <source/>
-        <target>“我们能帮上什么忙？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension4.o1.o1.o1.c1.gno212">
-        <source/>
-        <target>“我们得赶在赏金猎人之前找到他，然后把他安全地带回来。我会在你的地图上标记他的位置。这件事十万火急，没时间可浪费了。走吧，等他安全了我们再聊别的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.gno213">
-        <source/>
-        <target>“欢迎，我们一直在等你。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.c1.gno214">
-        <source/>
-        <target>“大家都——我们开始吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.gno215">
-        <source/>
-        <target>“我们开始吧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.c1.gno216">
-        <source/>
-        <target>教众们哼起一段旋律，大主教扬起了手臂。“我的兄弟们，我们的圣杯已空，渴求新鲜而纯净的美酒。”一位侍僧伸出手，向教众们分发装有画皮卵的瓶子。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.gno217">
-        <source/>
-        <target>拿起画皮卵。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.c1.gno218">
-        <source/>
-        <target>“哦，生命之灵啊，请为我们的圣杯盛满你的坚韧。让我们合二为一，平息旧世的苦痛。让我们接受你的馈赠，迈向本质的形态。”教士举起瓶子，其他教众也跟着做出同样的动作。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.gno219">
-        <source/>
-        <target>举起瓶子。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.c1.gno220">
-        <source/>
-        <target>“让我们成为浪潮的先驱，水面下的波涛。看吧，伟大的画皮！”所有人都吞下了瓶中之物。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.gno221">
-        <source/>
-        <target>吞下画皮卵。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.c1.gno222">
-        <source/>
-        <target>你感觉到寄生虫在你体内蠕动成长。这是怎么回事？这一切发生得太快了。在你试图寻找答案的时候，它们似乎已经融化在了你的体内。你的思想仿佛……不，“你”已经不在了。现在的是“我们”，而我们无须恐惧与担忧。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.gno223">
-        <source/>
-        <target>“我们可以说话吗？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1.gno224">
-        <source/>
-        <target>之前的教士转过头看着你，现在他的嘴上挂着蠕动的产卵器。“当然了。我们的身体和思想在这种形态下更有价值。”教士指了指还在地上抽搐的人。“不像这些失败者。我们应当吞噬它们。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.gno225">
-        <source/>
-        <target>“下一步该怎么做？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1.gno226">
-        <source/>
-        <target>“将由你自己来掌握。但现在，快走吧，人类应该马上就来了。我们会再会的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.c1.o2.gno227">
-        <source/>
-        <target>“等等，我还有话要问！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.o1.gno228">
-        <source/>
-        <target>“怎么回事？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension5.o1.c1.gno229">
-        <source/>
-        <target>“从我们的道路交汇起，你已经为教会做出了杰出的贡献。但这次你拯救了大主教的性命，这是难以超越的壮举，你对我们所有人都有恩。因此，我们想为你举行交融。你已经准备好了。请召集你的船员，我们也会着手准备。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.gno230">
-        <source/>
-        <target>你受命暗杀的调查画皮教派的特工应该就在前哨站的某处。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.c1.gno231">
-        <source/>
-        <target>这位肯定就是告密者了，你在想该怎么做。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o1.gno232">
-        <source/>
-        <target>“你管的闲事实在是太多了，臭皮囊……”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o1.c1.gno233">
-        <source/>
-        <target>那个男人立即端起了枪。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o2.gno234">
-        <source/>
-        <target>“先生，您能帮帮我吗？我的朋友受伤了，我得去把他带去医疗区。拜托了，请跟我来！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o2.c1.gno235">
-        <source/>
-        <target>“当然！带路吧！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o2.c1.c1.gno236">
-        <source/>
-        <target>“这他妈是要干什么？你是在浪费我的时间吗？我还得回去干活呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascension_assassination1.c1.o3.gno237">
-        <source/>
-        <target>无视他，继续前进。</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionfoundsubra.c1.gno238">
-        <source/>
-        <target>“别想活捉我！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionfoundsubra.o1.gno239">
-        <source/>
-        <target>“别紧张，兄弟！我们是教会派来的！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionfoundsubra.o1.c1.gno240">
-        <source/>
-        <target>“啊！我之前听到广播里说了悬赏的事，我就知道肯定会有人会找到我的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionfoundsubra.o1.o1.gno241">
-        <source/>
-        <target>“你听到了……？那可能不是我们。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionfoundsubra.o1.o1.c1.gno242">
-        <source/>
-        <target>“妈的。我们得拿好武器冲出去了。你来带路。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c1.gno243">
-        <source/>
-        <target>“呼，我还担心了一下子呢！你应该不介意我在这多呆一会吧？等远离了那些赏金猎人再说？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c2.gno244">
-        <source/>
-        <target>“赞！那我到了下个站点就走。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c3.gno245">
-        <source/>
-        <target>“那个，你倒空酒杯的工作进行的怎么样了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c3.o1.gno246">
-        <source/>
-        <target>“我不确定。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c4.gno247">
-        <source/>
-        <target>“呵呵，这事天知地知你知我知...我们都清楚你的进度。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c5.gno248">
-        <source/>
-        <target>“所以我建议你考虑一下该进行最后一步了。也许机会马上就要到来。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c5.o1.gno249">
-        <source/>
-        <target>“你真这么觉得?”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.c6.gno250">
-        <source/>
-        <target>“你一看就知道，我还用着这幅臭皮囊 - 但这在需要和其他蠢笨猿猴合作的时候确有所助力。所以该答这问题的不是我，而是你自己。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.waytoascensionsubraescort.o1.gno251">
-        <source/>
-        <target>“不介意。这里欢迎你。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.c1.gno252">
-        <source/>
-        <target>几个穿着长袍的人围在一个躺在地上的人身边。那个人剧烈地颤抖着，仿佛是犯了癫痫，你也不知道周围的人是在抑制他的颤抖还是给他做心肺复苏。其中一个穿罩袍的人注意到了你。“嘿，你！快把柜子里的皮虫净注射器扔过来！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.gno253">
-        <source/>
-        <target>把旁边柜子里的皮虫净扔给他们。</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.c1.gno254">
-        <source/>
-        <target>你把标记着“皮虫净”的注射器扔了过去，他们立刻就往那个抽搐的男人脖子上注射进去。其中一个穿长袍的人好像非常生气。“马克，你这个没耐心的蠢货，我告诉过你多少遍了，你还没做好接受馈赠的准备？！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.gno255">
-        <source/>
-        <target>“发生什么事了？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.c1.gno256">
-        <source/>
-        <target>穿长袍的人们转过头来，你稍稍看清了他们的脸，都还很年轻。“刚才算是一场小型急救吧。我们这位朋友觉得…这趟小小的旅行…会很好玩，你应该懂我意思吧。感谢你的帮助！你要是不介意的话，就让这件事儿过去吧。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.gno257">
-        <source/>
-        <target>“这事实在太可疑了。告诉我你们对他做了什么，不然我就向当局报告。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.c1.gno258">
-        <source/>
-        <target>那群人彼此间紧张地交换着眼神。“嘿，我们不想惹什么麻烦。我们这位兄弟实在是太急着想见画皮之神了，然后就失控了。但现在我们已经控制住他了，一切安好。没有下次了，请不要把这件事和我们的秘密说出去。要是被发现了，我们的整个生涯就全完了。“</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.gno259">
-        <source/>
-        <target>“你们的秘密？你们都是画皮教会的？我还以为你们都是被寄生虫控制了呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.c1.gno260">
-        <source/>
-        <target>“寄生虫？寄生虫只知索取，但是画皮确实在给予！它能带你突破人类肉体凡胎的限制！但像刚才那样的不行，你必须做好准备才能接受这份礼物。不然，咳咳，反正传教士是这么说的。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o1.gno261">
-        <source/>
-        <target>我受够这些邪教屁话了，警告前哨站安保。</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o1.c1.gno262">
-        <source/>
-        <target>你用无线电联系了前哨站安保，通知他们在这个区域中发生的可疑活动。</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o2.gno263">
-        <source/>
-        <target>“谢了，我还挺喜欢我这身皮囊的。那我走了。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o3.gno264">
-        <source/>
-        <target>“如果我想突破肉体的限制，我需要做些什么呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.gno265">
-        <source/>
-        <target>“别紧张，小老弟。我就是想知道你们为什么阻止他的转化。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.c1.gno266">
-        <source/>
-        <target>他们凝重的表情放松了些。“你也看到他颤抖的样子了。升华可不该是那样的。共生体马上就要吞噬他了，显然他还没做好共生的准备。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.o1.gno267">
-        <source/>
-        <target>“原来如此。一个人要是想和画皮虫共生，都要做些什么呢？”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.o1.c1.gno268">
-        <source/>
-        <target>“嗯，诚实地说，我们还是新人，可能不是回答这个问题的最佳人选。传教士说要做好准备才能接受这份馈赠，在交融前，你得敞开自己的内心与肉体。还有一些仪式和道具，用于安抚和迎接共生体带来的变化。具体的事情我们还不太清楚，但是如果你能找到传教士的话，他们肯定会乐意为你传道授业的！”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.o1.o1.gno269">
-        <source/>
-        <target>你和这些年轻伙计道了别，并祝他们能愉快又及时地升华。</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.o1.o2.gno270">
-        <source/>
-        <target>我受够这些邪教屁话了，警告前哨站安保。</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o1.o1.o2.o2.gno271">
-        <source/>
-        <target>“我还以为你们都是被寄生虫控制了呢。”</target>
-      </trans-unit>
-      <trans-unit id="EventText.youngcultists.o2.gno272">
-        <source/>
-        <target>看起来很可疑，我还是别掺和进去了。</target>
-      </trans-unit>
-      <trans-unit id="afflictiondescription.husksymbiosis.gno273">
-        <source/>
-        <target>它看起来和普通的画皮感染者不太一样：它还能说话，尚保留着智力。</target>
-      </trans-unit>
-      <trans-unit id="afflictionname.husksymbiosis.gno274">
-        <source/>
-        <target>画皮共生体</target>
-      </trans-unit>
-      <trans-unit id="breakingnews.gno275">
-        <source/>
-        <target>突发新闻</target>
-      </trans-unit>
-      <trans-unit id="campaignstore.reputationrequired.gno276">
-        <source/>
-        <target>[amount] [faction]声望需求</target>
-      </trans-unit>
-      <trans-unit id="character.huskcontainer.gno277">
-        <source/>
-        <target>画皮寄生虫储存箱</target>
-      </trans-unit>
-      <trans-unit id="charactername.auntdoris.gno278">
-        <source/>
-        <target>多丽丝阿姨</target>
-      </trans-unit>
-      <trans-unit id="charactername.ignatiusmay.gno279">
-        <source/>
-        <target>伊格纳修斯·梅</target>
-      </trans-unit>
-      <trans-unit id="charactername.jestmaster.gno280">
-        <source/>
-        <target>恶作剧大师</target>
-      </trans-unit>
-      <trans-unit id="charactername.sootman.gno281">
-        <source/>
-        <target>烟熏人</target>
-      </trans-unit>
-      <trans-unit id="charactername.victoriapetran.gno282">
-        <source/>
-        <target>维多利亚·培德兰</target>
-      </trans-unit>
-      <trans-unit id="clownexosuitweapon.gno283">
-        <source/>
-        <target>小丑大爆破</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce.gno284">
-        <source/>
-        <target>这艘船在这里被木卫二联盟收缴了！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce.gno285">
-        <source/>
-        <target>对抗联盟的结果就是死路一条！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce.gno286">
-        <source/>
-        <target>我们不会让你们这帮恐怖分子渣滓活着离开的！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce.gno287">
-        <source/>
-        <target>我们知道你和分离主义分子勾结在一起了！现在我们要结束这个错误！</target>
-      </trans-unit>
-      <trans-unit id="dialogundercoverannounce.gno288">
-        <source/>
-        <target>联盟万岁！</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.40mmnuke.gno289">
-        <source/>
-        <target>可用榴弹发射器发射的小型核装置。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.banana.gno290">
-        <source/>
-        <target>起源于地球的水果，非常美味，富含钾元素。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.bananapeel.gno291">
-        <source/>
-        <target>富含钾元素。扔在地上可引发安全灾难。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.clowncrate.gno292">
-        <source/>
-        <target>巨大的箱子，够装进一名小丑。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.clownexosuit.gno293">
-        <source/>
-        <target>小丑圣母教派的科技结晶：核动力驱动外骨骼，装备有多种恶作剧武器的特殊衣装。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.cultistrobes.gno294">
-        <source/>
-        <target>画皮教派诗僧穿着的黑色衣装。涂抹了能够安抚野生画皮虫的费洛蒙，让他们能够安全度过飞升前的时光。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.cymbals.gno295">
-        <source/>
-        <target>一对用于小丑圣母教派冥想练习的钹。摄魂钹能发出十分独特而可憎的巨大声响，让邪魔外道头晕目眩。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.huskcontainerspawner.gno296">
-        <source/>
-        <target>装有萼形体内转续拟寄生物样本的储存箱。这是一种方便的自主容器，不过效果颇为短暂，因为画皮寄生虫很难在无机物中存活太久。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.molotovcoctail.gno297">
-        <source/>
-        <target>一种简易廉价的燃烧武器。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.piratebodyarmor.gno298">
-        <source/>
-        <target>一套防弹衣，部分是由木星分离主义分子的用临时材料加工而成。比看起来要重。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.piratehelmet.gno299">
-        <source/>
-        <target>特制的防弹头盔。尽管只做了粗糙的加工，却坚固得惊人。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.rituallantern.gno300">
-        <source/>
-        <target>画皮教派广泛使用的灯笼。含有能镇静野生画皮虫的化学物质，也具有治疗功能。</target>
-      </trans-unit>
-      <trans-unit id="entitydescription.tormsdalereport.gno301">
-        <source/>
-        <target>封好的白纸板信封，里面似乎包含着机密信息。</target>
-      </trans-unit>
-      <trans-unit id="entityname.40mmnuke.gno302">
-        <source/>
-        <target>40mm迷你核弹</target>
-      </trans-unit>
-      <trans-unit id="entityname.banana.gno303">
-        <source/>
-        <target>香蕉</target>
-      </trans-unit>
-      <trans-unit id="entityname.bananapeel.gno304">
-        <source/>
-        <target>香蕉皮</target>
-      </trans-unit>
-      <trans-unit id="entityname.bookofchalices1.gno305">
-        <source/>
-        <target>圣餐之书：三重蜕变</target>
-      </trans-unit>
-      <trans-unit id="entityname.bookofchalices2.gno306">
-        <source/>
-        <target>圣杯之书：化身浪潮的先驱</target>
-      </trans-unit>
-      <trans-unit id="entityname.clowncrate.gno307">
-        <source/>
-        <target>小丑箱</target>
-      </trans-unit>
-      <trans-unit id="entityname.clownexosuit.gno308">
-        <source/>
-        <target>乐子3000</target>
-      </trans-unit>
-      <trans-unit id="entityname.cultistrobes.gno309">
-        <source/>
-        <target>异教徒长袍</target>
-      </trans-unit>
-      <trans-unit id="entityname.cymbals.gno310">
-        <source/>
-        <target>摄魂钹</target>
-      </trans-unit>
-      <trans-unit id="entityname.honkmotherianscriptures1.gno311">
-        <source/>
-        <target>小丑圣经：欢乐九章(I-III)</target>
-      </trans-unit>
-      <trans-unit id="entityname.honkmotherianscriptures2.gno312">
-        <source/>
-        <target>小丑圣经：欢乐九章(IV-VI)</target>
-      </trans-unit>
-      <trans-unit id="entityname.honkmotherianscriptures3.gno313">
-        <source/>
-        <target>小丑圣经：欢乐九章(VII-IX)</target>
-      </trans-unit>
-      <trans-unit id="entityname.huskcontainerspawner.gno314">
-        <source/>
-        <target>画皮寄生虫储存箱</target>
-      </trans-unit>
-      <trans-unit id="entityname.molotovcoctail.gno315">
-        <source/>
-        <target>莫洛托夫鸡尾酒</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownball1.gno316">
-        <source/>
-        <target>气球</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownball2.gno317">
-        <source/>
-        <target>巨大的球</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clowncurtain2.gno318">
-        <source/>
-        <target>装饰窗帘</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownfence.gno319">
-        <source/>
-        <target>剧院栅栏</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clowninstrument1.gno320">
-        <source/>
-        <target>大提琴</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clowninstrument2.gno321">
-        <source/>
-        <target>架子鼓</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownjukebox.gno322">
-        <source/>
-        <target>自动唱机</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownmannequin1.gno323">
-        <source/>
-        <target>人体模型</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownmarquee.gno324">
-        <source/>
-        <target>华盖</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownmask2.gno325">
-        <source/>
-        <target>装饰面具</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownmic.gno326">
-        <source/>
-        <target>舞台麦克风</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownposter1.gno327">
-        <source/>
-        <target>广告海报</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownshow1.gno328">
-        <source/>
-        <target>演出标志</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_clownsign1.gno329">
-        <source/>
-        <target>剧院标志</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_humantank.gno330">
-        <source/>
-        <target>实验罐</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskbody.gno331">
-        <source/>
-        <target>婴儿尸体</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskcloak.gno332">
-        <source/>
-        <target>邪教斗篷</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskgraffiti.gno333">
-        <source/>
-        <target>神秘符号</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskincubator.gno334">
-        <source/>
-        <target>婴儿恒温箱</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_husklabel.gno335">
-        <source/>
-        <target>没有登记信息</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_husklabel1.gno336">
-        <source/>
-        <target>褪色的姓名牌</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskphoto1.gno337">
-        <source/>
-        <target>模糊的图片</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskposter1.gno338">
-        <source/>
-        <target>药物海报</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskscribble.gno339">
-        <source/>
-        <target>神秘物品</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_husksign.gno340">
-        <source/>
-        <target>纸板标志</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskstatue1.gno341">
-        <source/>
-        <target>神秘雕像</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_huskstroller1.gno342">
-        <source/>
-        <target>婴儿车</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_husktable.gno343">
-        <source/>
-        <target>尸检台</target>
-      </trans-unit>
-      <trans-unit id="entityname.op_sepsandbag.gno344">
-        <source/>
-        <target>分离主义装饰</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratebandana.gno345">
-        <source/>
-        <target>分裂派头巾</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratebodyarmor.gno346">
-        <source/>
-        <target>分裂派防弹衣</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratecaptainhat.gno347">
-        <source/>
-        <target>分裂派船长帽</target>
-      </trans-unit>
-      <trans-unit id="entityname.pirateclothes.gno348">
-        <source/>
-        <target>分裂派装束</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratehelmet.gno349">
-        <source/>
-        <target>分裂派头盔</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratesubdeco.gno350">
-        <source/>
-        <target>分裂派潜艇装饰</target>
-      </trans-unit>
-      <trans-unit id="entityname.piratesubexterior.gno351">
-        <source/>
-        <target>分裂派潜艇外观部分</target>
-      </trans-unit>
-      <trans-unit id="entityname.rituallantern.gno352">
-        <source/>
-        <target>仪式灯笼</target>
-      </trans-unit>
-      <trans-unit id="entityname.tormsdalereport.gno353">
-        <source/>
-        <target>托姆斯戴尔报告</target>
-      </trans-unit>
-      <trans-unit id="entityname.zealotrobes.gno354">
-        <source/>
-        <target>狂热者长袍</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.c1.gno355">
-        <source/>
-        <target>“总是很高兴见到你们！我有些有趣的想法想告诉你们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.gno356">
-        <source/>
-        <target>“洗耳恭听！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.c1.gno357">
-        <source/>
-        <target>“你知道，在前哨站的生活有时很无聊。偶尔来了访客，我还能带带路，我总是在想，如果我也能踏上你们那样的旅程就好了。第一次听的笑话总比听了几百遍的笑话好玩，你说呢？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.gno358">
-        <source/>
-        <target>“我理解你的意思，再展开讲讲！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.c1.gno359">
-        <source/>
-        <target>“我想知道，你的船上会不会正好有个给助理的位置？如果能加入你们的旅程，我这个老傻蛋会很开心的。我从没上过潜艇，但我还是有点东西的，应该能用得上。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.o1.gno360">
-        <source/>
-        <target>“小丑圣母在上啊，当然了！欢迎上船！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.o1.c1.gno361">
-        <source/>
-        <target>“太好了！很荣幸加入你们！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.o2.gno362">
-        <source/>
-        <target>“我们得考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.o2.c1.gno363">
-        <source/>
-        <target>“明白。不过你肯定还会再遇到我的，如果你改主意了，那就叫上我吧！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o1.repeat.gno364">
-        <source/>
-        <target>“我们还有个给助理的位置，欢迎上船！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.o1.o2.repeat.gno365">
-        <source/>
-        <target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.clownspecialhire1.repeat.gno366">
-        <source/>
-        <target>“你好！考虑过我的建议吗？愿意让我加入你们吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.announcement.gno367">
-        <source/>
-        <target>扩音器开始播报，召集刚靠岸的舰船船员去见主管。</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.c1.gno368">
-        <source/>
-        <target>一位身着华贵制服的老人向你走来，和你握了握手。“啊，你在这。我还在想广播系统起不起作用呢。很高兴见到你！我听说你和船员们都来了，就想着我得亲自见你们一面。如果你能抽出点时间，我想给你些建议。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.gno369">
-        <source/>
-        <target>“抱歉，您是谁来着…”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.c1.gno370">
-        <source/>
-        <target>“啊，抱歉，得见英雄让我失了礼数！我是伊格纳修斯·梅，木卫二联盟国际事务部主席。我观察你们的行动很久了，你承接的许多任务都是由我委托的。我谨代表木卫二联盟，对你和你的船员表示最由衷的感谢。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.gno371">
-        <source/>
-        <target>“谢谢长官！我能问一下您刚提到的建议是什么吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.c1.gno372">
-        <source/>
-        <target>“开门见山，我喜欢！那我就直说了，我想成为你的船员。我已经很久经历过真正的行动了，看到你和船员们的努力，我也心里痒痒了，我也想亲自上场，为联盟做些更实际的事情。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o1.gno373">
-        <source/>
-        <target>“这是我们的荣幸，先生！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o1.c1.gno374">
-        <source/>
-        <target>“太好了！船上见！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o2.gno375">
-        <source/>
-        <target>“我们得考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o2.c1.gno376">
-        <source/>
-        <target>“嗯，我也不是非得这么要求，出于对你和船员的尊重，我不会强迫你们的。我们之后肯定会再见的，如果你改变主意了，请告诉我。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o1.repeat.gno377">
-        <source/>
-        <target>“您能加入我们真是太好了。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.o1.o2.repeat.gno378">
-        <source/>
-        <target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire1.repeat.gno379">
-        <source/>
-        <target>“又见面了。怎么样，考虑我的建议了吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.c1.gno380">
-        <source/>
-        <target>你注意到一位看起来很面熟的年长女士。多丽丝阿姨！她的食品加盟店可能亟待改进，但她的烹饪秀可一直都棒极了。\n\n没想到的是，她向你走了过来。“你好啊！我听说你和你的船员就在附近，我就想着过来看看能不能遇见你们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.gno381">
-        <source/>
-        <target>“很高兴见到您，女士！我们能帮上什么忙吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.c1.gno382">
-        <source/>
-        <target>“这个想法可能有点傻，但是问问应该也不碍事。我现在，怎么说呢…算是遇到晚年危机了吧。你肯定知道，我一直都在办烹饪秀，开餐馆，已经快四十年了。最近我听说了你们的壮举，你们做了许多让我们这个星球变得更美好的事情，我真的很好奇潜艇上的生活是什么样的。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.o1.gno383">
-        <source/>
-        <target>“并不是每个人都能适应的。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.o1.c1.gno384">
-        <source/>
-        <target>“是的，我知道！但我还是想试试。而且，我也不像看起来那么柔弱，在我年轻的时候干掉过不少分离主义分子，那可真是段好时光！我也知道一些关于医疗的知识，木卫二上也没有我不会宰的动物。\n\n所以，你看怎么样，给我这个老太太一个上船的机会吗？我愿意为让木卫二变得更美好而战！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o1.gno385">
-        <source/>
-        <target>“我怎么会拒绝呢！欢迎上船，女士！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o1.c1.gno386">
-        <source/>
-        <target>“太好了！我回去拿点东西，船上见！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o2.c1.gno387">
-        <source/>
-        <target>“我理解，慢慢来，亲爱的！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.coalitionspecialhire2.repeat.gno388">
-        <source/>
-        <target>“你好啊，又考虑过让我上船的事吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.c1.gno389">
-        <source/>
-        <target>一个看起来很眼熟的男人向你走来。“嘿，是你啊！我一直想再见到你呢。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.gno390">
-        <source/>
-        <target>“很高兴再次见到您，苏布拉先生！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.c1.gno391">
-        <source/>
-        <target>“就别客套了，咱们直接切入正题吧。我们不是每天都能遇见你们这么有能力又开明的人的。所以我有个提议，可以让你和教会之间的合作更加紧密。而且，诚实地说，这对我个人也是一个很好的礼物。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.gno392">
-        <source/>
-        <target>“您说吧，我在听。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.c1.gno393">
-        <source/>
-        <target>“简单地说，我在被赏金猎人追杀前就想加入你们了。你为教会做出了杰出的贡献，如果我们联合起来，很快我们就能把这个世界浸没在神的荣耀中。另外，再诚实一点地说，我实在太想体验沉入水中的的生活了。怎么样，你说呢？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o1.gno394">
-        <source/>
-        <target>“我怎么会拒绝呢！欢迎上船，兄弟！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o1.c1.gno395">
-        <source/>
-        <target>“太好了！船上见！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o2.gno396">
-        <source/>
-        <target>“我们得考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o2.c1.gno397">
-        <source/>
-        <target>“当然，慢慢考虑。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o1.repeat.gno398">
-        <source/>
-        <target>“你能加入我们真是太好了。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.o1.o2.repeat.gno399">
-        <source/>
-        <target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.huskcultspecialhire1.repeat.gno400">
-        <source/>
-        <target>“很高兴再次见到你，兄弟。怎么样，考虑好我的请求了吗？船上还有给我的位置吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_cargohuskcult.gno401">
-        <source/>
-        <target>“在找工作吗？我们有些…研究材料，对，需要送到临近站点。把它们送过去，别多问，我们就愿意付钱。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort1.c1.gno402">
-        <source/>
-        <target>“想找个工作？联盟最近从我们的前哨站雇了些新人，然后在附近的前哨站给他们安排了活儿。安全地护送他们过去，你就有钱可拿。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort1separatists.c1.gno403">
-        <source/>
-        <target>“我们正在寻找能把一批朱庇特活动家护送到附近前哨站的船。他们在执行重要任务，我就不告诉你细节了，如果你愿意为好的事业出一份力，等你护送他们顺利到达，我们会付给你一笔报酬的。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort2.c1.gno404">
-        <source/>
-        <target>“如果你想在联盟高层之间混个名声，我有个好机会给你……一名联盟高层官员来拜访了我们的前哨站，现在正在寻找前往附近前哨站的运输船。把他们安全护送过去，你应该也能拿到点报酬。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort2separatists.c1.gno405">
-        <source/>
-        <target>“如果你愿意帮助我们对抗联盟法西斯，那我们有个活儿……一位非常重要的积极分子正在寻找能护送他们到附近前哨站的运输船。安全护送他们过去，我们会付给你一笔报酬。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort3.c1.gno406">
-        <source/>
-        <target>“我们最近抓获了一批分离主义分子，正在寻找能把他们押送到附近前哨站的运输船。要是说，就应该直接把他们扔出气闸，但是联盟高层想拿他们做谈判的筹码。你能拿到一大笔奖励，但是小心，你得严加看管他们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort3separatists.c1.gno407">
-        <source/>
-        <target>“我们最近和联盟的潜水艇有点摩擦，长话短说，我们已经把它们的幸存船员关进禁闭室了。经过谈判协商，我们同意把它们送往下一个前哨站。如果你愿意把他们护送过去，我们会付给你一笔报酬的。对了，你可能得严加看管他们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort4.c1.gno408">
-        <source/>
-        <target>“我们认为分离主义恐怖分子已经混进了平民中，准备搭下一艘运输船离开。如果你能伪装成运输船，应该就能引他们出来，抓个正着。把他们押运走，你能拿到一大笔奖励，但是小心，你得严加看管他们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_escort4separatists.c1.gno409">
-        <source/>
-        <target>“根据线人消息，联盟安排了一些秘密特工监视这个区域的分离主义积极分子。我们有理由相信，他们伪装成了平民，准备搭一下搜运输船离开。如果你能伪装成运输船，应该就能引他们出来，抓个正着。同时，要确保平民安全。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.missionevent_pirate1separatists.c1.gno410">
-        <source/>
-        <target>“一艘联盟舰船已经在我们前哨站附近的水域巡逻一段时间了，截获入港货物，骚扰附近船只。我们尽量避免事态升级，但是补给已经告急了。如果你愿意帮我们沉了那艘船，那就是对我们分离主义事业的巨大贡献，我们也非常乐意付你酬劳。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.c1.gno411">
-        <source/>
-        <target>一位峻颜厉色的女人向你走来。你感觉她看起来很熟悉，然后你突然想起，她曾在新闻里出现过很多次。\n\n她伸出手，与你握了握手。“你好，我一直等着见你呢。我是维多利亚·培德兰，木星分离派中尉。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.gno412">
-        <source/>
-        <target>“很荣幸见到您，我能帮您什么忙吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.c1.gno413">
-        <source/>
-        <target>“实际上，我并不是来寻求你的帮助。我已经观察你和你的船员很久了，你们为我们的事业做出了巨大的贡献。要是我们的队伍里能有更多像你这样的人，把联盟从木卫二表面抹除简直易如反掌。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.gno414">
-        <source/>
-        <target>“感谢您的认可，我们只是尽我们所能。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.c1.gno415">
-        <source/>
-        <target>“你们出色地完成了工作，我也在想，如果我也成为你的船员，是不是会比坐在办公室里更好。我对你来说也同样有价值，我见过潜艇生活，对武器和医疗也有所了解。所以，你觉得怎么样？你的潜艇需要安全官吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.o1.gno416">
-        <source/>
-        <target>“我怎么会拒绝呢！欢迎上船，长官！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.o1.c1.gno417">
-        <source/>
-        <target>“太好了！不过，既然如此，就不要再叫我长官了，我是你的船员，不是你的上级。我等不及要参与我们的第一个任务了！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.o2.gno418">
-        <source/>
-        <target>“我很荣幸，不过我们还得考虑一下相关事宜。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.o2.c1.gno419">
-        <source/>
-        <target>“明白。不过，如果以后你决定让我上船，我们应该能在木星分离派控制的前哨站遇见。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o1.repeat.gno420">
-        <source/>
-        <target>“是的，我们确实缺个安全官。欢迎登船，长官！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.o1.o2.repeat.gno421">
-        <source/>
-        <target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire1.repeat.gno422">
-        <source/>
-        <target>“你好啊，重新考虑过我的建议吗？愿意让我上船吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.c1.gno423">
-        <source/>
-        <target>有个看起来像是刚从燃油机排气管里爬出来的人走到你面前。\n\n“嘿，我一直在找你呢。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.gno424">
-        <source/>
-        <target>“你看起来有点眼熟。我们之前见过吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.c1.gno425">
-        <source/>
-        <target>“当时就是你的船员把我从联盟的监狱里救出来的，是不是？那会儿没来得及自我介绍，他们叫我烟熏人，就这么叫吧。话说，你不会碰巧需要一位新船员吧？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.gno426">
-        <source/>
-        <target>“烟熏人？就是那个联盟追捕了好几年的分离主义分子？你不是在逗我吧？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.c1.gno427">
-        <source/>
-        <target>“啊对，就是我。听前哨站的人说，你们把联盟狗脑子都干出来了，我也想入伙，你看怎么样？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.o1.gno428">
-        <source/>
-        <target>“当然了！很荣幸能有你这么有才能的人加入我们。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.o1.c1.gno429">
-        <source/>
-        <target>“太好了，船上见。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.o2.gno430">
-        <source/>
-        <target>“我们得考虑一下。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.o1.o1.o2.c1.gno431">
-        <source/>
-        <target>“好。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.separatistspecialhire2.repeat.gno432">
-        <source/>
-        <target>“怎么样？船上有我的位置吗？”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathaphoticplateauseparatists.c1.gno433">
-        <source/>
-        <target>“我得祝贺你，没多少人能去无光海原，更没多少人像你们这样有价值。我会通知前方，让你前往渊洋。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathaphoticplateauseparatists.o1.c1.gno434">
-        <source/>
-        <target>“我相信会的，这不是木星分裂派的官方保证或背书。我会让守卫知道，你们照管好自己。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathcoldcavernsseparatists.c1.gno435">
-        <source/>
-        <target>“你可能注意到了，这是木卫二冰脊前的最后一个前哨站了。不是每艘潜艇都能通过的，但如果关于你和船员的传闻是真的，你们是共同对抗联盟的宝贵盟友，那么欢迎你们通过。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathcoldcavernsseparatists.c2.gno436">
-        <source/>
-        <target>“想通过前哨站前往更深的区域吗？抱歉，你最好还是换个路线吧。我不知道你是谁，为谁工作，但你可能会是联盟成员，想要在木卫二冰脊伤害我们的人民。当然了，如果你正好有些马克可以给我，我可能会认为你是带着善意来的……”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o1.c1.gno437">
-        <source/>
-        <target>“我重新考虑了一下，你可能是对的，我应该让你通过。很高兴和你做生意。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o1.nomoney.gno438">
-        <source/>
-        <target>“手头钱不够？哦，真可怜。或许你应该在儿童浅水池里再游一会儿，找机会向我们证明你们不是敌人。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o2.c1.gno439">
-        <source/>
-        <target>“你随意。或许你应该在儿童浅水池里再游一会儿，搞清楚到底是谁的旗子值得扛。”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpatheuropanridgeseparatists.c1.gno440">
-        <source/>
-        <target>“人们都说你们是对抗联盟的一大助力。为此，我们同意你进入无光海原。旅途愉快！”</target>
-      </trans-unit>
-      <trans-unit id="eventtext.unlockpathgreatseaseparatists.c1.gno441">
-        <source/>
-        <target>“所以你是要去热液废土？你们怎么想的，要去那鬼地方？算了，我还是别管了。木星分裂派的朋友就是我的朋友。去吧。”</target>
-      </trans-unit>
-      <trans-unit id="faction.gno442">
-        <source/>
-        <target>派别</target>
-      </trans-unit>
-      <trans-unit id="heraldofthetide.gno443">
-        <source/>
-        <target>人类是架在动物与本质形态之间的桥梁，这是一座建立于深渊之上的桥梁。\n\n走过去是危险的，在半空中回头看是危险的，战栗而停步是危险的。\n\n人之所以伟大，在于他是一座桥梁而非一个终点；人之所以可爱，在于他是一次穿越，一次下行。很少有人能跨过那座桥梁，但这些跨过的人都拥有伟大的德行。\n\n他们不知下行以外的生活，因为他们正在越过这座桥。\n\n他们没在最初就寻找群星之上的意义，而是将自己献身给世界，因此到达了本质形态才能到达的世界。\n\n他们为求知而生，他们寻求变成本质形态的知识。他们寻求自身的下行。\n\n他们劳作并创造，他们为本质形态修建了新家，并为它准备好海洋、动物、植物以及它们的肉体：因为他们这样寻求自己的下行。\n\n他们惩戒他们的神，因为他们爱他们的神，因此他们也必须屈服于他们神的怒火。他们的灵魂会受很深的伤，也会因此而屈服，因为他们愿意走过这座桥。\n\n他们拥有开放的灵魂和内心，他们的大脑只是他们内心的容器，他们的心，指引他们下行。\n\n看啊，我现在变成了浪潮的先驱，水面之下的波涛，而这浪潮，正是本质形态。</target>
-      </trans-unit>
-      <trans-unit id="itemmsggoinside.gno444">
-        <source/>
-        <target>[[use]] 进入</target>
-      </trans-unit>
-      <trans-unit id="label.securespecimenenclosure.gno445">
-        <source/>
-        <target>安全样本盒</target>
-      </trans-unit>
-      <trans-unit id="location.clownhaven.gno446">
-        <source/>
-        <target>小丑港</target>
-      </trans-unit>
-      <trans-unit id="locationchange.military.changeto.city.coalition.gno447">
-        <source/>
-        <target>[previousname]的市民人口已经增长到了一定规模，使得[name]正式成为了一个城市。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.military.changeto.city.separatists.gno448">
-        <source/>
-        <target>[previousname]的指挥官被指定为管理者，[name]正式成为了一个城市。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.none.changeto.outpost.coalition.gno449">
-        <source/>
-        <target>一批 ‖color:faction.coalition‖联盟‖end‖势力占领了 [previousname]区域，并建立了一个新的前哨站。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.none.changeto.outpost.separatists.gno450">
-        <source/>
-        <target>一批‖color:faction.separatists‖木星分裂派分子‖end‖占领了 [previousname]区域，并建立了一个新的前哨站。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.military.coalition.gno451">
-        <source/>
-        <target>一批‖color:faction.coalition‖联盟‖end‖武装势力已移至[previousname]，并在该地区组织了军事力量。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.military.separatists.gno452">
-        <source/>
-        <target>一批好战的 ‖color:faction.separatists‖分裂派分子‖end‖已移至 [previousname]，并在该地区组织了军事力量。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.mine.coalition.gno453">
-        <source/>
-        <target>‖color:faction.coalition‖联盟‖end‖开始在[previousname]展开采矿作业。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.mine.separatists.gno454">
-        <source/>
-        <target>‖color:faction.separatists‖木星分裂派分子‖end‖开始在[previousname]展开采矿作业。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.research.coalition.gno455">
-        <source/>
-        <target>‖color:faction.coalition‖Coalition‖end‖把[previousname]变成了研究附近动物群的研究站。</target>
-      </trans-unit>
-      <trans-unit id="locationchange.outpost.changeto.research.separatists.gno456">
-        <source/>
-        <target>一批自由研究员把[previousname]转换成了由‖color:faction.separatists‖分裂派分子‖end‖支持的独立研究站。</target>
-      </trans-unit>
-      <trans-unit id="lockedpathtooltipcoalitionreputation.gno457">
-        <source/>
-        <target>这条通道已经被封锁了，若想继续前进，你在‖color:faction.coalition‖木卫二联盟中的声望必须超过 [requiredreputation]，还需征得前哨站官员的许可。你可以在在信息界面查看你当前的声望。\n\n当前声望: [currentreputation]</target>
-      </trans-unit>
-      <trans-unit id="lockedpathtooltipseparatistreputation.gno458">
-        <source/>
-        <target>这条道路被封锁了，若要继续前进，你可能需要‖color:faction.separatists‖木星分裂派分子‖end‖声望达到[requiredreputation]，并从前哨站官员处获得许可。你可以在信息界面查看你的声望。\n\n当前声望： [currentreputation]</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.cargocompoundn.gno459">
-        <source/>
-        <target>分离主义恐怖分子们开价[reward]马克，要求把一批烈性炸药送到[location2]的顾客手里。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.cargoweaponscoalition.gno460">
-        <source/>
-        <target>联盟派了一些秘密特工监视[location2]地区的分离主义分子活动。现在他们急需武器和弹药，如果你能把这些完整地运送过去，你就能得到[reward]马克的报酬。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort1.gno461">
-        <source/>
-        <target>需要从[location1]运载一批联盟雇佣的平民到[location2]。保证人员安全，如果无人死亡，你就可以获得[reward]马克的奖励。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort1clowns.gno462">
-        <source/>
-        <target>一批小丑出价[reward]马克去[location2]。你应该知道，他们可能不太守规矩，也不太习惯呆在潜艇里。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort1huskcult.gno463">
-        <source/>
-        <target>画皮教派出价[reward]马克，要求把一批侍僧护送到[location2]。我们有理由相信其中有一部分打算提前“交融”然后逃进冰洋，但教派的人要求你看护好他们，把还是人形的他们安全地带到[location2]。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort1separatists.gno464">
-        <source/>
-        <target>需要护送一批木星分离主义者到[location2]。他们正在执行重要任务，把他们安全带到目的地，如果无人死亡，你就可以获得[reward]马克的奖励。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort2.gno465">
-        <source/>
-        <target>护送联盟的贵宾前往[location2]，若贵宾受到不必要的侵扰，你就拿不到[reward]马克的奖励了。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort2separatists.gno466">
-        <source/>
-        <target>护送一位影响力很大的木星分离主义积极分子前往[location2]，别让贵宾受到不必要的侵扰，人家活着你才能拿到[reward]马克的奖励。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort3.gno467">
-        <source/>
-        <target>押送一批分离主义分子前往[location2]，途中确保他们的生命安全，并严加看管，小心有人想逃跑。若有囚犯死亡，你就拿不到[reward]马克的奖励了。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort3separatists.gno468">
-        <source/>
-        <target>木星分离主义分子出价[reward]马克，需要押运一批被俘虏的联盟成员到[location2]。安全护送他们过去，小心他们可能会想逃跑。可别让他们死了。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.escort4separatists.gno469">
-        <source/>
-        <target>据报告称，有伪装中的联盟特工正在监视该地区分离主义分子的活动。有的特工可能会混入普通民众溜进你的船。护送普通民众到[location2]，确保他们的安全，干掉暴露身份的特工，你就能得到[reward]的奖励。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.gotoclownhaven.gno470">
-        <source/>
-        <target>小丑圣母之子要求你夺回一个曾经属于他们的前哨站。他们的计划是不停烦扰居民，直到他们不堪其扰，别无选择，只能搬离。他们给了你一件特殊衣装，协助你完成任务。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.huskcultrescuesubra.gno471">
-        <source/>
-        <target>雅科夫·苏布拉，画皮教派的“首脑领袖”，正在[location1]躲避官方。教会有理由相信，一批想拿到悬赏的人已经发现了他的踪迹。驶向[location1]，在有人找到他之前把他带上潜艇。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.huskcultspecialassassinate.gno472">
-        <source/>
-        <target>画皮教派意识到联盟特工正在调查他们的活动。那位特工对教派的秘密知道得太多了，他们别无选择，只能让他永远息声了。驶向[location1]，干掉那名特工，越隐蔽越好。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.jailbreak_coalition.gno473">
-        <source/>
-        <target>木卫二联盟要求你解救一批被木星分离主义分子俘虏的特工。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.jailbreak_separatists.gno474">
-        <source/>
-        <target>木星分离主义分子要求你解救一批被联盟俘虏的特工。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.jailbreak_sootman.gno475">
-        <source/>
-        <target>木星分离主义分子要求你解救一位被联盟俘虏的重要特工。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.pirate1.gno476">
-        <source/>
-        <target>找出肆虐该地区的木星分离主义分子，把他们全都干掉。已经标出的位置是他们最后现身的位置。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.pirate1separatists.gno477">
-        <source/>
-        <target>找出威胁这片区域的联盟船只，消灭里面的船员。标记显示了这艘船最后一次被发现的位置。</target>
-      </trans-unit>
-      <trans-unit id="missiondescription.tormsdalereport.gno478">
-        <source/>
-        <target>木星分离主义分子要求你找回一份关于“托姆斯戴尔事件”的机密报告，这次事件很有可能是联盟为了消灭政治反对派而精心策划的。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.escort4separatists.gno479">
-        <source/>
-        <target>未能护送乘客到达目的地，或者未揭露并消灭联盟特工。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.huskcultrescuesubra.gno480">
-        <source/>
-        <target>雅科夫·苏布拉仍在[location1]，必须尽快营救他。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.huskcultspecialassassinate.gno481">
-        <source/>
-        <target>目标依然存活，必须尽快处理掉。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.jailbreak.gno482">
-        <source/>
-        <target>营救囚犯失败。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.jailbreak_singletarget.gno483">
-        <source/>
-        <target>营救囚犯失败。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.pirate1.gno484">
-        <source/>
-        <target>有分离主义分子成了漏网之鱼。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.pirate1separatists.gno485">
-        <source/>
-        <target>联盟船只船员未被歼灭。</target>
-      </trans-unit>
-      <trans-unit id="missionfailure.tormsdalereport.gno486">
-        <source/>
-        <target>未能找回文件。</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.coalitionattack1.gno487">
-        <source/>
-        <target>输入信号传输</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.pirate1.gno488">
-        <source/>
-        <target>已发现海盗</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.pirate1separatists.gno489">
-        <source/>
-        <target>已侦测到联盟船只</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.prisonerrescue.gno490">
-        <source/>
-        <target>获救的囚犯</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.prisonerrescue_singletarget.gno491">
-        <source/>
-        <target>获救的囚犯</target>
-      </trans-unit>
-      <trans-unit id="missionheader0.separatistattack1.gno492">
-        <source/>
-        <target>输入信号传输</target>
-      </trans-unit>
-      <trans-unit id="missionheader1.escort4separatists.gno493">
-        <source/>
-        <target>联盟特工已被消灭。</target>
-      </trans-unit>
-      <trans-unit id="missionheader1.pirate1.gno494">
-        <source/>
-        <target>已消灭分离主义分子</target>
-      </trans-unit>
-      <trans-unit id="missionheader1.pirate1separatists.gno495">
-        <source/>
-        <target>联盟船只已消灭</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.coalitionattack1.gno496">
-        <source/>
-        <target>“叛徒，你的路走到头了！背叛联盟，死路一条！”</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.pirate1separatists.gno497">
-        <source/>
-        <target>歼灭船员，或者让潜艇沉入冰洋！</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.prisonerrescue.gno498">
-        <source/>
-        <target>囚犯已全部安全登上潜艇。驶离前哨站完成任务。</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.prisonerrescue_singletarget.gno499">
-        <source/>
-        <target>囚犯已安全登上潜艇。驶离前哨站完成任务。</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.separatistattack1.gno500">
-        <source/>
-        <target>“这条通道已经被木星分离主义者收复了。立刻掉头回去，不然我们就杀光你们这群法西斯。”</target>
-      </trans-unit>
-      <trans-unit id="missionmessage0.tormsdalereport.gno501">
-        <source/>
-        <target>你已经找到了关于托姆斯戴尔事件的文件。你需要把它运送至分离主义分子控制的前哨站。</target>
-      </trans-unit>
-      <trans-unit id="missionmessage1.escort4separatists.gno502">
-        <source/>
-        <target>这应该是最后一个秘密特工了。把潜艇开往[location2]领取你的奖励。</target>
-      </trans-unit>
-      <trans-unit id="missionmessage1.pirate1separatists.gno503">
-        <source/>
-        <target>驶向[location2]领取你的报酬。</target>
-      </trans-unit>
-      <trans-unit id="missionname.cargoweaponscoalition.gno504">
-        <source/>
-        <target>运送武器</target>
-      </trans-unit>
-      <trans-unit id="missionname.coalitionattack1.gno505">
-        <source/>
-        <target>联盟伏兵</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort1.gno506">
-        <source/>
-        <target>联盟客运</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort1clowns.gno507">
-        <source/>
-        <target>护送小丑</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort1huskcult.gno508">
-        <source/>
-        <target>邪教分子护送</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort1separatists.gno509">
-        <source/>
-        <target>分离主义分子护送</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort2.gno510">
-        <source/>
-        <target>联盟官员护送</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort2separatists.gno511">
-        <source/>
-        <target>护送分离主义激进分子</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort3separatists.gno512">
-        <source/>
-        <target>押运俘虏</target>
-      </trans-unit>
-      <trans-unit id="missionname.escort4separatists.gno513">
-        <source/>
-        <target>钓出联盟特工</target>
-      </trans-unit>
-      <trans-unit id="missionname.gotoclownhaven.gno514">
-        <source/>
-        <target>终极玩笑</target>
-      </trans-unit>
-      <trans-unit id="missionname.huskcultrescuesubra.gno515">
-        <source/>
-        <target>营救苏布拉</target>
-      </trans-unit>
-      <trans-unit id="missionname.huskcultspecialassassinate.gno516">
-        <source/>
-        <target>寂静守护者</target>
-      </trans-unit>
-      <trans-unit id="missionname.jailbreak.gno517">
-        <source/>
-        <target>越狱</target>
-      </trans-unit>
-      <trans-unit id="missionname.pirate1.gno518">
-        <source/>
-        <target>清缴木星分离主义分子</target>
-      </trans-unit>
-      <trans-unit id="missionname.pirate1separatists.gno519">
-        <source/>
-        <target>联盟船只</target>
-      </trans-unit>
-      <trans-unit id="missionname.separatistattack1.gno520">
-        <source/>
-        <target>分离主义分子伏兵</target>
-      </trans-unit>
-      <trans-unit id="missionname.tormsdalereport.gno521">
-        <source/>
-        <target>托姆斯戴尔报告</target>
-      </trans-unit>
-      <trans-unit id="missionsonarlabel.pirate1.gno522">
-        <source/>
-        <target>分离主义分子的目击记录</target>
-      </trans-unit>
-      <trans-unit id="missionsonarlabel.pirate1separatists.gno523">
-        <source/>
-        <target>已发现联盟船只</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.cargoweaponscoalition.gno524">
-        <source/>
-        <target>武器已成功运送。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.escort4separatists.gno525">
-        <source/>
-        <target>乘客运输顺利，联盟特工已被处理。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.gotoclownhaven.gno526">
-        <source/>
-        <target>计划似乎成功了：当地居民开始放弃前哨站，把这里留给小丑。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.huskcultrescuesubra.gno527">
-        <source/>
-        <target>雅科夫·苏布拉已安全登船。将他护送至下一底线并告知教会营救成功。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.huskcultspecialassassinate.gno528">
-        <source/>
-        <target>目标已消灭，画皮教派的秘密依然安全。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.jailbreak.gno529">
-        <source/>
-        <target>已成功救出囚犯。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.jailbreak_singletarget.gno530">
-        <source/>
-        <target>已成功救出囚犯。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.pirate1.gno531">
-        <source/>
-        <target>已经消灭了所有分离主义分子。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.pirate1separatists.gno532">
-        <source/>
-        <target>联盟船只船员已被成功歼灭。</target>
-      </trans-unit>
-      <trans-unit id="missionsuccess.tormsdalereport.gno533">
-        <source/>
-        <target>文件已成功找回。</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitioncaptain.gno534">
-        <source/>
-        <target>联盟上校</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitioncaptainlord.gno535">
-        <source/>
-        <target>联盟上将</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionengineerrecruit.gno536">
-        <source/>
-        <target>联盟工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionengineerveteran.gno537">
-        <source/>
-        <target>联盟资深工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionmechanicrecruit.gno538">
-        <source/>
-        <target>联盟技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionmechanicveteran.gno539">
-        <source/>
-        <target>联盟资深技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionsecuritybrute.gno540">
-        <source/>
-        <target>联盟下士</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionsecurityelite.gno541">
-        <source/>
-        <target>联盟中尉</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionsecuritygunner.gno542">
-        <source/>
-        <target>联盟枪手</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionsecurityrecruit.gno543">
-        <source/>
-        <target>联盟新兵</target>
-      </trans-unit>
-      <trans-unit id="npctitle.coalitionspy.gno544">
-        <source/>
-        <target>联盟特工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionengineer.gno545">
-        <source/>
-        <target>联盟工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionengineerveteran.gno546">
-        <source/>
-        <target>联盟资深工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionmechanic.gno547">
-        <source/>
-        <target>联盟技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionmechanicveteran.gno548">
-        <source/>
-        <target>联盟资深技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionmedic.gno549">
-        <source/>
-        <target>联盟医师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionmedicveteran.gno550">
-        <source/>
-        <target>联盟资深医师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionsecurityofficer.gno551">
-        <source/>
-        <target>联盟下士</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireablecoalitionsecurityofficerveteran.gno552">
-        <source/>
-        <target>联盟中尉</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistengineer.gno553">
-        <source/>
-        <target>分裂派工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistengineerveteran.gno554">
-        <source/>
-        <target>分裂派资深工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistmechanic.gno555">
-        <source/>
-        <target>分裂派技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistmechanicveteran.gno556">
-        <source/>
-        <target>分裂派资深技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistmedic.gno557">
-        <source/>
-        <target>分裂派医师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistmedicveteran.gno558">
-        <source/>
-        <target>分裂派资深医师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistsecurityofficer.gno559">
-        <source/>
-        <target>分裂派下士</target>
-      </trans-unit>
-      <trans-unit id="npctitle.hireableseparatistsecurityofficerveteran.gno560">
-        <source/>
-        <target>分裂派中尉</target>
-      </trans-unit>
-      <trans-unit id="npctitle.huskcultecclesiast.gno561">
-        <source/>
-        <target>圣职者</target>
-      </trans-unit>
-      <trans-unit id="npctitle.merchantclown.gno562">
-        <source/>
-        <target>小丑商人</target>
-      </trans-unit>
-      <trans-unit id="npctitle.merchanthusk.gno563">
-        <source/>
-        <target>邪教商人</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistcaptain.gno564">
-        <source/>
-        <target>分裂派上校</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistcaptainlord.gno565">
-        <source/>
-        <target>分裂派上将</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistengineerrecruit.gno566">
-        <source/>
-        <target>分裂派工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistengineerveteran.gno567">
-        <source/>
-        <target>分裂派资深工程师</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistmechanicrecruit.gno568">
-        <source/>
-        <target>分裂派技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistmechanicveteran.gno569">
-        <source/>
-        <target>分裂派资深技工</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistsecuritybrute.gno570">
-        <source/>
-        <target>分裂派蛮兵</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistsecurityelite.gno571">
-        <source/>
-        <target>分裂派经营</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistsecuritygunner.gno572">
-        <source/>
-        <target>分裂派枪手</target>
-      </trans-unit>
-      <trans-unit id="npctitle.separatistsecurityrecruit.gno573">
-        <source/>
-        <target>分裂派新兵</target>
-      </trans-unit>
-      <trans-unit id="pillarsoffun1.gno574">
-        <source/>
-        <target>I. 能被讲述出来的小丑不是真正永恒的小丑。能被命名的小丑圣母也不是真正永恒的小丑圣母。无名者才是舞台的灵魂。有名者是演出，是演员，是观众，是他们之间的墙。把自己从严肃中解放出来吧，这样你就能看到隐藏已久的秘密。严肃的双眼只能看到视觉的真相。\n\nII.我们把气球塑造成动物的形状，但真正把气球充出形状的却是其中的空气。我们用实质的东西劳作，但我们真正使用的却是实质之外的虚无。\n\nIII.最高级的乐趣不是创造乐趣，而是让自己成为乐趣。严肃之人想找点乐子，但发现这些欢乐无法持续。于是他们使劲榨干被给予的柠檬，最后只能得到酸涩的汁液。</target>
-      </trans-unit>
-      <trans-unit id="pillarsoffun2.gno575">
-        <source/>
-        <target>IV.当小丑听到宇宙最大的笑话，他会以此为引。当普通人听到宇宙最大的笑话，他会半信半疑。当愚者听到宇宙最大的笑话，他会爆笑如雷。毕竟，如果他不笑的话，这就不是个笑话了，对不对？\n\nV.最棒的小丑是人们几乎不知道的。其次的是人们赞美喜爱的。再差一点的是人们害怕的。最差的是人们看不起的。一位伟大的小丑完成了任务，人们会说，“这可真有趣”，却不曾察觉欢乐之流源自何处，同样他们也不会察觉小丑的杰作，不会意识到最源头的乐趣，最空白的石板。\n\nVI.小丑的思想就如同最空白的石板，他们把人们的思想作为自己的思想。他们用善良对待善良之人。他们也用善良对待不善之人。他们信任值得信任之人。他们也信任不值得信任之人。因此，他们成就了善良与信任，免得那些脑满粪土的严肃之人阻挡住欢乐之流的流动。</target>
-      </trans-unit>
-      <trans-unit id="pillarsoffun3.gno576">
-        <source/>
-        <target>VII. 如果你不惧怕死亡，它又能如何威胁到你呢？真正能理解这一点，就是向小丑喇叭之道迈进了一大步。不自然地延续生命就是对死亡的恐惧。试图改变生命的走向就是对死亡的恐惧。小丑们明白，合久必分，盛极必衰。违背自然规律就是背离小丑喇叭之道，最后一点欢乐也找不到。\n\nVIII.心存怜悯，就能充满勇气。心有节制，就能为世界带来欢乐。心怀谦卑，就能指引他人。放弃怜悯却寻找勇气，或是在欢乐中放弃节制，亦或是在寻求指引时放弃谦卑，都不会带来欢乐。\n\nIX.风筝随风高飞，小丑任其翱翔；风筝断了线，小丑由它去。小丑拥有却不占有，行动但不期待。当他的任务完成，他就将其遗忘。这就是欢乐如何永恒，如同小丑的杰作。赞美小丑圣母！</target>
-      </trans-unit>
-      <trans-unit id="prisonerkilled.gno577">
-        <source/>
-        <target>任务失败：一名囚犯死亡。</target>
-      </trans-unit>
-      <trans-unit id="randomnews1.gno578">
-        <source/>
-        <target>本周木卫二的辐射预测情况依然十分严峻。</target>
-      </trans-unit>
-      <trans-unit id="randomnews10.gno579">
-        <source/>
-        <target>苏布拉依然在逃，他是个乖僻而危险的人物。</target>
-      </trans-unit>
-      <trans-unit id="randomnews11.gno580">
-        <source/>
-        <target>一搜御冬级潜艇因火灾而沉没，八名船员牺牲。</target>
-      </trans-unit>
-      <trans-unit id="randomnews12.gno581">
-        <source/>
-        <target>小丑币汇率大跳水，已跌至0.0001马克。</target>
-      </trans-unit>
-      <trans-unit id="randomnews13.gno582">
-        <source/>
-        <target>火球福特在与顿维斯的对决中胜利了。</target>
-      </trans-unit>
-      <trans-unit id="randomnews14.gno583">
-        <source/>
-        <target>人类并不是木卫二的第一批居民。科学家表示：脑残。</target>
-      </trans-unit>
-      <trans-unit id="randomnews15.gno584">
-        <source/>
-        <target>研究表示，画皮寄生虫卵对健康并无显著益处。</target>
-      </trans-unit>
-      <trans-unit id="randomnews16.gno585">
-        <source/>
-        <target>记者在融水区失踪，木卫二联盟已展开调查。</target>
-      </trans-unit>
-      <trans-unit id="randomnews17.gno586">
-        <source/>
-        <target>现任联盟首脑以压倒性的优势赢得了选举。</target>
-      </trans-unit>
-      <trans-unit id="randomnews18.gno587">
-        <source/>
-        <target>民众们对检测十分困惑：阳性结果不可取。</target>
-      </trans-unit>
-      <trans-unit id="randomnews19.gno588">
-        <source/>
-        <target>斯通伯恩出现了奇特石雕。“触手生温。”发现者如此评价。</target>
-      </trans-unit>
-      <trans-unit id="randomnews2.gno589">
-        <source/>
-        <target>船上的小丑们表示，船上的气氛越发紧张和消极了。</target>
-      </trans-unit>
-      <trans-unit id="randomnews20.gno590">
-        <source/>
-        <target>研究表明水生罂粟不适合当作烟草吸入。“可以闻，但别吸。”健康官员如此说到。</target>
-      </trans-unit>
-      <trans-unit id="randomnews21.gno591">
-        <source/>
-        <target>EHO对辐射爬行者香肠进行了召回。</target>
-      </trans-unit>
-      <trans-unit id="randomnews22.gno592">
-        <source/>
-        <target>工程师取代了技工，成为了最受欢迎的职业。牧师的受欢迎程度依然垫底。</target>
-      </trans-unit>
-      <trans-unit id="randomnews23.gno593">
-        <source/>
-        <target>头条新闻作者饱受孤独之苦。</target>
-      </trans-unit>
-      <trans-unit id="randomnews24.gno594">
-        <source/>
-        <target>木卫二不再关注全球变暖问题。</target>
-      </trans-unit>
-      <trans-unit id="randomnews25.gno595">
-        <source/>
-        <target>当地儿童的恶作剧被误认为地球发来的新信息。</target>
-      </trans-unit>
-      <trans-unit id="randomnews26.gno596">
-        <source/>
-        <target>地球依旧沉默。</target>
-      </trans-unit>
-      <trans-unit id="randomnews27.gno597">
-        <source/>
-        <target>第17季“和多丽丝阿姨吃美食”确定拍摄。</target>
-      </trans-unit>
-      <trans-unit id="randomnews28.gno598">
-        <source/>
-        <target>“多丽丝阿姨”食品加盟店被指控违反食品安全法。</target>
-      </trans-unit>
-      <trans-unit id="randomnews29.gno599">
-        <source/>
-        <target>联盟为抓获神秘恐怖分子“烟熏人”提供大量悬赏。</target>
-      </trans-unit>
-      <trans-unit id="randomnews3.gno600">
-        <source/>
-        <target>联盟官员提醒所有守法公民，向隶属于分离主义分子的前哨站出售未经批准的材料属于刑事犯罪。</target>
-      </trans-unit>
-      <trans-unit id="randomnews30.gno601">
-        <source/>
-        <target>联盟造船厂毁于一场大火——一名蒙面恐怖分子“烟熏人”被指控为此次事件的肇事者。</target>
-      </trans-unit>
-      <trans-unit id="randomnews31.gno602">
-        <source/>
-        <target>今夜深航：烟熏人——神秘蒙面变节者</target>
-      </trans-unit>
-      <trans-unit id="randomnews32.gno603">
-        <source/>
-        <target>画皮教派领袖雅科夫·苏布拉依然在逃。</target>
-      </trans-unit>
-      <trans-unit id="randomnews33.gno604">
-        <source/>
-        <target>伊格内修斯·梅连任国际事务部主席，有关他利用裙带关系的指控此起彼伏。</target>
-      </trans-unit>
-      <trans-unit id="randomnews34.gno605">
-        <source/>
-        <target>木星崇拜及非线性时间空间和时间概念：密码学揭示了古代外星人文化的新线索。</target>
-      </trans-unit>
-      <trans-unit id="randomnews4.gno606">
-        <source/>
-        <target>科学界向欧罗巴之眼联名请愿，要求更多科研资金。</target>
-      </trans-unit>
-      <trans-unit id="randomnews5.gno607">
-        <source/>
-        <target>对欧罗巴之眼的深入挖掘依旧推进中。</target>
-      </trans-unit>
-      <trans-unit id="randomnews6.gno608">
-        <source/>
-        <target>末日蠕虫目击次数增加。</target>
-      </trans-unit>
-      <trans-unit id="randomnews7.gno609">
-        <source/>
-        <target>人们怀疑画皮教会加速了皮虫净的短缺。</target>
-      </trans-unit>
-      <trans-unit id="randomnews8.gno610">
-        <source/>
-        <target>近期我们与多索敏地区的一个定居点失联。</target>
-      </trans-unit>
-      <trans-unit id="randomnews9.gno611">
-        <source/>
-        <target>定居成本日渐提升，年内即将超过有史以来最高记录。</target>
-      </trans-unit>
-      <trans-unit id="storename.merchantclown.gno612">
-        <source/>
-        <target>小丑物资</target>
-      </trans-unit>
-      <trans-unit id="storename.merchanthusk.gno613">
-        <source/>
-        <target>信徒物资</target>
-      </trans-unit>
-      <trans-unit id="threemetamorphoses.gno614">
-        <source/>
-        <target>我委于你三重灵魂蜕变：灵魂如何成为人类坚韧意志的圣杯，倒尽圣杯中的陈酒，填满圣杯以新酒。\n\n灵魂需要承载许多，强大的灵魂包含着敬畏与尊严。\n\n灵魂要承载什么呢？灵魂伸出手询问道。最沉重的又是什么呢？灵魂询问到，好让自己能承受这重担，并为这份力量欢欣鼓舞。\n\n是否如此：潜入最深的深渊探寻深邃的秘密？\n\n亦或如是：以知识的果实为食，为真理而承受灵魂的饥饿？\n\n还是这般：步入业已浑浊的真理之水，不再拒绝其中的寄生之物？\n\n再不其然：爱那些轻视我们之人，在那幽灵恐吓我们时向它伸出自己的手？\n\n灵魂承受了这些重担，作为人类坚韧意志的圣杯，它为自己的力量欢欣鼓舞。\n\n但此时，圣杯中涌出一股瘴气，因为此人的意志承担着旧的重担，变得腐朽污浊。\n\n瘴气对灵魂说道：“你将如此！”\n\n千年来的思想在空气中撒发着恶臭。“一切的意义使我不朽。一切的意义都已被创造出来，一切也都创造出了了意义，而我，则代表这一切。是的，业已不会有更多意义。”瘴气如是说道。\n\n我的同胞们，为何要倒尽圣杯呢？为什么人类的坚韧意志并不足够呢？创造意义，是人类无法完成之事。但给予自身自由，并以此创造意义，是人类能做之事。\n\n给予自己自由，甚至给予责任和人性神圣的内涵：为此，我的同胞们，我们不再需要为人。创造新的意义，这就是灵魂最令人惊叹的自由。\n\n但请告诉我，我的同胞，空荡荡的圣杯的意义是什么呢？因此我们必须寻找新的美酒，它崭新而纯净，超越人类的坚韧意志，又尽在掌握之中。\n\n是的，为了这场创造的游戏，我的兄弟们，我们需要一种神圣的生命，坚韧意志自身的生命。敢于伸出手的人能得到这种意志，就像世界伸出手赠予我们这份恩赐。\n\n于是，第三重同时也是最后一重蜕变开始了，这就是飞升。人类的灵魂充满了新的生命，人类坚韧意志和世界坚韧意志融为一体。这一意志，现在也拥有了灵魂，新的世界战胜了旧世界的弃子。这就是本质的形态。</target>
-      </trans-unit>
-    </body>
-  </file>
+<file source-language="en" target-language="cn" datatype="plaintext">
+<body><trans-unit id="entityname.piratehelmet">
+<source></source>
+<target>分裂派头盔</target>
+</trans-unit>
+<trans-unit id="entitydescription.piratehelmet">
+<source></source>
+<target>特制的防弹头盔。尽管只做了粗糙的加工，却坚固得惊人。</target>
+</trans-unit>
+<trans-unit id="entityname.piratebodyarmor">
+<source></source>
+<target>分裂派防弹衣</target>
+</trans-unit>
+<trans-unit id="entitydescription.piratebodyarmor">
+<source></source>
+<target>一套防弹衣，部分是由木星分离主义分子的用临时材料加工而成。比看起来要重。</target>
+</trans-unit>
+<trans-unit id="entityname.piratecaptainhat">
+<source></source>
+<target>分裂派船长帽</target>
+</trans-unit>
+<trans-unit id="entityname.piratebandana">
+<source></source>
+<target>分裂派头巾</target>
+</trans-unit>
+<trans-unit id="entityname.pirateclothes">
+<source></source>
+<target>分裂派装束</target>
+</trans-unit>
+<trans-unit id="entityname.piratesubexterior">
+<source></source>
+<target>分裂派潜艇外观部分</target>
+</trans-unit>
+<trans-unit id="entityname.piratesubdeco">
+<source></source>
+<target>分裂派潜艇装饰</target>
+</trans-unit>
+<trans-unit id="missionname.escort1">
+<source></source>
+<target>联盟客运</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort1">
+<source></source>
+<target>需要从[location1]运载一批联盟雇佣的平民到[location2]。保证人员安全，如果无人死亡，你就可以获得[reward]马克的奖励。</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort3">
+<source></source>
+<target>押送一批分离主义分子前往[location2]，途中确保他们的生命安全，并严加看管，小心有人想逃跑。若有囚犯死亡，你就拿不到[reward]马克的奖励了。</target>
+</trans-unit>
+<trans-unit id="missionname.escort2">
+<source></source>
+<target>联盟官员护送</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort2">
+<source></source>
+<target>护送联盟的贵宾前往[location2]，若贵宾受到不必要的侵扰，你就拿不到[reward]马克的奖励了。</target>
+</trans-unit>
+<trans-unit id="missionname.pirate1">
+<source></source>
+<target>清缴木星分离主义分子</target>
+</trans-unit>
+<trans-unit id="missiondescription.pirate1">
+<source></source>
+<target>找出肆虐该地区的木星分离主义分子，把他们全都干掉。已经标出的位置是他们最后现身的位置。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.pirate1">
+<source></source>
+<target>已经消灭了所有分离主义分子。</target>
+</trans-unit>
+<trans-unit id="missionfailure.pirate1">
+<source></source>
+<target>有分离主义分子成了漏网之鱼。</target>
+</trans-unit>
+<trans-unit id="missionsonarlabel.pirate1">
+<source></source>
+<target>分离主义分子的目击记录</target>
+</trans-unit>
+<trans-unit id="missionheader0.pirate1">
+<source></source>
+<target>已发现海盗</target>
+</trans-unit>
+<trans-unit id="missionheader1.pirate1">
+<source></source>
+<target>已消灭分离主义分子</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort1.c1">
+<source></source>
+<target>“想找个工作？联盟最近从我们的前哨站雇了些新人，然后在附近的前哨站给他们安排了活儿。安全地护送他们过去，你就有钱可拿。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort2.c1">
+<source></source>
+<target>“如果你想在联盟高层之间混个名声，我有个好机会给你……一名联盟高层官员来拜访了我们的前哨站，现在正在寻找前往附近前哨站的运输船。把他们安全护送过去，你应该也能拿到点报酬。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort3.c1">
+<source></source>
+<target>“我们最近抓获了一批分离主义分子，正在寻找能把他们押送到附近前哨站的运输船。要是说，就应该直接把他们扔出气闸，但是联盟高层想拿他们做谈判的筹码。你能拿到一大笔奖励，但是小心，你得严加看管他们。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort4.c1">
+<source></source>
+<target>“我们认为分离主义恐怖分子已经混进了平民中，准备搭下一艘运输船离开。如果你能伪装成运输船，应该就能引他们出来，抓个正着。把他们押运走，你能拿到一大笔奖励，但是小心，你得严加看管他们。”</target>
+</trans-unit>
+<trans-unit id="missiondescription.cargocompoundn">
+<source></source>
+<target>分离主义恐怖分子们开价[reward]马克，要求把一批烈性炸药送到[location2]的顾客手里。</target>
+</trans-unit>
+<trans-unit id="lockedpathtooltipcoalitionreputation">
+<source></source>
+<target>这条通道已经被封锁了，若想继续前进，你在‖color:faction.coalition‖木卫二联盟中的声望必须超过 [requiredreputation]，还需征得前哨站官员的许可。你可以在在信息界面查看你当前的声望。\n\n当前声望: [currentreputation]</target>
+</trans-unit>
+<trans-unit id="missionname.separatistattack1">
+<source></source>
+<target>分离主义分子伏兵</target>
+</trans-unit>
+<trans-unit id="missionheader0.separatistattack1">
+<source></source>
+<target>输入信号传输</target>
+</trans-unit>
+<trans-unit id="missionmessage0.separatistattack1">
+<source></source>
+<target>“这条通道已经被木星分离主义者收复了。立刻掉头回去，不然我们就杀光你们这群法西斯。”</target>
+</trans-unit>
+<trans-unit id="missionname.coalitionattack1">
+<source></source>
+<target>联盟伏兵</target>
+</trans-unit>
+<trans-unit id="missionheader0.coalitionattack1">
+<source></source>
+<target>输入信号传输</target>
+</trans-unit>
+<trans-unit id="missionmessage0.coalitionattack1">
+<source></source>
+<target>“叛徒，你的路走到头了！背叛联盟，死路一条！”</target>
+</trans-unit>
+<trans-unit id="missionname.escort1separatists">
+<source></source>
+<target>分离主义分子护送</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort1separatists">
+<source></source>
+<target>需要护送一批木星分离主义者到[location2]。他们正在执行重要任务，把他们安全带到目的地，如果无人死亡，你就可以获得[reward]马克的奖励。</target>
+</trans-unit>
+<trans-unit id="missionname.escort2separatists">
+<source></source>
+<target>护送分离主义激进分子</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort2separatists">
+<source></source>
+<target>护送一位影响力很大的木星分离主义积极分子前往[location2]，别让贵宾受到不必要的侵扰，人家活着你才能拿到[reward]马克的奖励。</target>
+</trans-unit>
+<trans-unit id="missionname.escort3separatists">
+<source></source>
+<target>押运俘虏</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort3separatists">
+<source></source>
+<target>木星分离主义分子出价[reward]马克，需要押运一批被俘虏的联盟成员到[location2]。安全护送他们过去，小心他们可能会想逃跑。可别让他们死了。</target>
+</trans-unit>
+<trans-unit id="missionname.escort4separatists">
+<source></source>
+<target>钓出联盟特工</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort4separatists">
+<source></source>
+<target>据报告称，有伪装中的联盟特工正在监视该地区分离主义分子的活动。有的特工可能会混入普通民众溜进你的船。护送普通民众到[location2]，确保他们的安全，干掉暴露身份的特工，你就能得到[reward]的奖励。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.escort4separatists">
+<source></source>
+<target>乘客运输顺利，联盟特工已被处理。</target>
+</trans-unit>
+<trans-unit id="missionfailure.escort4separatists">
+<source></source>
+<target>未能护送乘客到达目的地，或者未揭露并消灭联盟特工。</target>
+</trans-unit>
+<trans-unit id="missionheader1.escort4separatists">
+<source></source>
+<target>联盟特工已被消灭。</target>
+</trans-unit>
+<trans-unit id="missionmessage1.escort4separatists">
+<source></source>
+<target>这应该是最后一个秘密特工了。把潜艇开往[location2]领取你的奖励。</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort1separatists.c1">
+<source></source>
+<target>“我们正在寻找能把一批朱庇特活动家护送到附近前哨站的船。他们在执行重要任务，我就不告诉你细节了，如果你愿意为好的事业出一份力，等你护送他们顺利到达，我们会付给你一笔报酬的。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort2separatists.c1">
+<source></source>
+<target>“如果你愿意帮助我们对抗联盟法西斯，那我们有个活儿……一位非常重要的积极分子正在寻找能护送他们到附近前哨站的运输船。安全护送他们过去，我们会付给你一笔报酬。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort3separatists.c1">
+<source></source>
+<target>“我们最近和联盟的潜水艇有点摩擦，长话短说，我们已经把它们的幸存船员关进禁闭室了。经过谈判协商，我们同意把它们送往下一个前哨站。如果你愿意把他们护送过去，我们会付给你一笔报酬的。对了，你可能得严加看管他们。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_escort4separatists.c1">
+<source></source>
+<target>“根据线人消息，联盟安排了一些秘密特工监视这个区域的分离主义积极分子。我们有理由相信，他们伪装成了平民，准备搭一下搜运输船离开。如果你能伪装成运输船，应该就能引他们出来，抓个正着。同时，要确保平民安全。”</target>
+</trans-unit>
+<trans-unit id="missionname.escort1huskcult">
+<source></source>
+<target>邪教分子护送</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort1huskcult">
+<source></source>
+<target>画皮教派出价[reward]马克，要求把一批侍僧护送到[location2]。我们有理由相信其中有一部分打算提前“交融”然后逃进冰洋，但教派的人要求你看护好他们，把还是人形的他们安全地带到[location2]。</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_escort1huskcult.c1">
+<source></source>
+<target>“嘿！想找点活儿干吗？我们要护送一批诗僧到下一个前哨站。但我得提醒你，即使我已经明确解释了他们还没准备好，我还是怀疑他们会自己开始交融。看管好他们，别让他们在船上做什么蠢事。”</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_cargohuskcult">
+<source></source>
+<target>“在找工作吗？我们有些…研究材料，对，需要送到临近站点。把它们送过去，别多问，我们就愿意付钱。”</target>
+</trans-unit>
+<trans-unit id="missionname.huskcultspecialassassinate">
+<source></source>
+<target>寂静守护者</target>
+</trans-unit>
+<trans-unit id="missiondescription.huskcultspecialassassinate">
+<source></source>
+<target>画皮教派意识到联盟特工正在调查他们的活动。那位特工对教派的秘密知道得太多了，他们别无选择，只能让他永远息声了。驶向[location1]，干掉那名特工，越隐蔽越好。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.huskcultspecialassassinate">
+<source></source>
+<target>目标已消灭，画皮教派的秘密依然安全。</target>
+</trans-unit>
+<trans-unit id="missionfailure.huskcultspecialassassinate">
+<source></source>
+<target>目标依然存活，必须尽快处理掉。</target>
+</trans-unit>
+<trans-unit id="missionname.huskcultrescuesubra">
+<source></source>
+<target>营救苏布拉</target>
+</trans-unit>
+<trans-unit id="missiondescription.huskcultrescuesubra">
+<source></source>
+<target>雅科夫·苏布拉，画皮教派的“首脑领袖”，正在[location1]躲避官方。教会有理由相信，一批想拿到悬赏的人已经发现了他的踪迹。驶向[location1]，在有人找到他之前把他带上潜艇。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.huskcultrescuesubra">
+<source></source>
+<target>雅科夫·苏布拉已安全登船。将他护送至下一底线并告知教会营救成功。</target>
+</trans-unit>
+<trans-unit id="missionfailure.huskcultrescuesubra">
+<source></source>
+<target>雅科夫·苏布拉仍在[location1]，必须尽快营救他。</target>
+</trans-unit>
+<trans-unit id="missionname.escort1clowns">
+<source></source>
+<target>护送小丑</target>
+</trans-unit>
+<trans-unit id="missiondescription.escort1clowns">
+<source></source>
+<target>一批小丑出价[reward]马克去[location2]。你应该知道，他们可能不太守规矩，也不太习惯呆在潜艇里。</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_escort1clowns.c1">
+<source></source>
+<target>“嘿！你的潜艇里还能再装几个乘客吗？我的朋友们想找船去下一个前哨站，他们很乐意付钱的。”小丑低声说到。“你可能得看着点他们。他们都是些脑袋里养藻鬃爬行者的主儿，你懂我意思吧？他们也没上过潜艇，不知道他们能不能应付得来。”</target>
+</trans-unit>
+<trans-unit id="missionname.gotoclownhaven">
+<source></source>
+<target>终极玩笑</target>
+</trans-unit>
+<trans-unit id="missiondescription.gotoclownhaven">
+<source></source>
+<target>小丑圣母之子要求你夺回一个曾经属于他们的前哨站。他们的计划是不停烦扰居民，直到他们不堪其扰，别无选择，只能搬离。他们给了你一件特殊衣装，协助你完成任务。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.gotoclownhaven">
+<source></source>
+<target>计划似乎成功了：当地居民开始放弃前哨站，把这里留给小丑。</target>
+</trans-unit>
+<trans-unit id="eventtext.missionevent_pirate1separatists.c1">
+<source></source>
+<target>“一艘联盟舰船已经在我们前哨站附近的水域巡逻一段时间了，截获入港货物，骚扰附近船只。我们尽量避免事态升级，但是补给已经告急了。如果你愿意帮我们沉了那艘船，那就是对我们分离主义事业的巨大贡献，我们也非常乐意付你酬劳。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_cargocompoundn.c1">
+<source></source>
+<target>“如果你愿意帮我们对抗联盟，那我们有个活儿给你……我们在下一个前哨站有几个特工，他们的任务需要一些炸药。原封不动地把货运过去，我们会给你合适的报酬的。”</target>
+</trans-unit>
+<trans-unit id="missionname.cargoweaponscoalition">
+<source></source>
+<target>运送武器</target>
+</trans-unit>
+<trans-unit id="missiondescription.cargoweaponscoalition">
+<source></source>
+<target>联盟派了一些秘密特工监视[location2]地区的分离主义分子活动。现在他们急需武器和弹药，如果你能把这些完整地运送过去，你就能得到[reward]马克的报酬。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.cargoweaponscoalition">
+<source></source>
+<target>武器已成功运送。</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_cargoweaponscoalition.c1">
+<source></source>
+<target>“我手头上有个重要的活儿。联盟派了一些秘密特工监视附近前哨站的分离主义分子活动。细节我最好还是别说了，总之我们得运送一批武器和弹药。把它们完整运送过去，你就帮了联盟的大忙，我们也会付钱的。”</target>
+</trans-unit>
+<trans-unit id="missionname.pirate1separatists">
+<source></source>
+<target>联盟船只</target>
+</trans-unit>
+<trans-unit id="missiondescription.pirate1separatists">
+<source></source>
+<target>找出威胁这片区域的联盟船只，消灭里面的船员。标记显示了这艘船最后一次被发现的位置。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.pirate1separatists">
+<source></source>
+<target>联盟船只船员已被成功歼灭。</target>
+</trans-unit>
+<trans-unit id="missionfailure.pirate1separatists">
+<source></source>
+<target>联盟船只船员未被歼灭。</target>
+</trans-unit>
+<trans-unit id="missionsonarlabel.pirate1separatists">
+<source></source>
+<target>已发现联盟船只</target>
+</trans-unit>
+<trans-unit id="missionheader0.pirate1separatists">
+<source></source>
+<target>已侦测到联盟船只</target>
+</trans-unit>
+<trans-unit id="missionmessage0.pirate1separatists">
+<source></source>
+<target>歼灭船员，或者让潜艇沉入冰洋！</target>
+</trans-unit>
+<trans-unit id="missionheader1.pirate1separatists">
+<source></source>
+<target>联盟船只已消灭</target>
+</trans-unit>
+<trans-unit id="missionmessage1.pirate1separatists">
+<source></source>
+<target>驶向[location2]领取你的报酬。</target>
+</trans-unit>
+<trans-unit id="missionname.tormsdalereport">
+<source></source>
+<target>托姆斯戴尔报告</target>
+</trans-unit>
+<trans-unit id="missiondescription.tormsdalereport">
+<source></source>
+<target>木星分离主义分子要求你找回一份关于“托姆斯戴尔事件”的机密报告，这次事件很有可能是联盟为了消灭政治反对派而精心策划的。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.tormsdalereport">
+<source></source>
+<target>文件已成功找回。</target>
+</trans-unit>
+<trans-unit id="missionfailure.tormsdalereport">
+<source></source>
+<target>未能找回文件。</target>
+</trans-unit>
+<trans-unit id="missionmessage0.tormsdalereport">
+<source></source>
+<target>你已经找到了关于托姆斯戴尔事件的文件。你需要把它运送至分离主义分子控制的前哨站。</target>
+</trans-unit>
+<trans-unit id="entityname.tormsdalereport">
+<source></source>
+<target>托姆斯戴尔报告</target>
+</trans-unit>
+<trans-unit id="entitydescription.tormsdalereport">
+<source></source>
+<target>封好的白纸板信封，里面似乎包含着机密信息。</target>
+</trans-unit>
+<trans-unit id="missionname.jailbreak">
+<source></source>
+<target>越狱</target>
+</trans-unit>
+<trans-unit id="missiondescription.jailbreak_separatists">
+<source></source>
+<target>木星分离主义分子要求你解救一批被联盟俘虏的特工。</target>
+</trans-unit>
+<trans-unit id="missiondescription.jailbreak_coalition">
+<source></source>
+<target>木卫二联盟要求你解救一批被木星分离主义分子俘虏的特工。</target>
+</trans-unit>
+<trans-unit id="missiondescription.jailbreak_sootman">
+<source></source>
+<target>木星分离主义分子要求你解救一位被联盟俘虏的重要特工。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.jailbreak">
+<source></source>
+<target>已成功救出囚犯。</target>
+</trans-unit>
+<trans-unit id="missionfailure.jailbreak">
+<source></source>
+<target>营救囚犯失败。</target>
+</trans-unit>
+<trans-unit id="missionsuccess.jailbreak_singletarget">
+<source></source>
+<target>已成功救出囚犯。</target>
+</trans-unit>
+<trans-unit id="missionfailure.jailbreak_singletarget">
+<source></source>
+<target>营救囚犯失败。</target>
+</trans-unit>
+<trans-unit id="missionheader0.prisonerrescue">
+<source></source>
+<target>获救的囚犯</target>
+</trans-unit>
+<trans-unit id="missionmessage0.prisonerrescue">
+<source></source>
+<target>囚犯已全部安全登上潜艇。驶离前哨站完成任务。</target>
+</trans-unit>
+<trans-unit id="missionheader0.prisonerrescue_singletarget">
+<source></source>
+<target>获救的囚犯</target>
+</trans-unit>
+<trans-unit id="missionmessage0.prisonerrescue_singletarget">
+<source></source>
+<target>囚犯已安全登上潜艇。驶离前哨站完成任务。</target>
+</trans-unit>
+<trans-unit id="prisonerkilled">
+<source></source>
+<target>任务失败：一名囚犯死亡。</target>
+</trans-unit>
+<trans-unit id="dialogundercoverannounce">
+<source></source>
+<target>这艘船在这里被木卫二联盟收缴了！</target>
+</trans-unit>
+<trans-unit id="dialogundercoverannounce.cid1">
+<source></source>
+<target>对抗联盟的结果就是死路一条！</target>
+</trans-unit>
+<trans-unit id="dialogundercoverannounce.cid2">
+<source></source>
+<target>我们不会让你们这帮恐怖分子渣滓活着离开的！</target>
+</trans-unit>
+<trans-unit id="dialogundercoverannounce.cid3">
+<source></source>
+<target>我们知道你和分离主义分子勾结在一起了！现在我们要结束这个错误！</target>
+</trans-unit>
+<trans-unit id="dialogundercoverannounce.cid4">
+<source></source>
+<target>联盟万岁！</target>
+</trans-unit>
+<trans-unit id="label.securespecimenenclosure">
+<source></source>
+<target>安全样本盒</target>
+</trans-unit>
+<trans-unit id="faction">
+<source></source>
+<target>派别</target>
+</trans-unit>
+<trans-unit id="locationchange.none.changeto.outpost.separatists">
+<source></source>
+<target>一批‖color:faction.separatists‖木星分裂派分子‖end‖占领了 [previousname]区域，并建立了一个新的前哨站。</target>
+</trans-unit>
+<trans-unit id="locationchange.none.changeto.outpost.coalition">
+<source></source>
+<target>一批 ‖color:faction.coalition‖联盟‖end‖势力占领了 [previousname]区域，并建立了一个新的前哨站。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.military.separatists">
+<source></source>
+<target>一批好战的 ‖color:faction.separatists‖分裂派分子‖end‖已移至 [previousname]，并在该地区组织了军事力量。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.military.coalition">
+<source></source>
+<target>一批‖color:faction.coalition‖联盟‖end‖武装势力已移至[previousname]，并在该地区组织了军事力量。</target>
+</trans-unit>
+<trans-unit id="locationchange.military.changeto.city.separatists">
+<source></source>
+<target>[previousname]的指挥官被指定为管理者，[name]正式成为了一个城市。</target>
+</trans-unit>
+<trans-unit id="locationchange.military.changeto.city.coalition">
+<source></source>
+<target>[previousname]的市民人口已经增长到了一定规模，使得[name]正式成为了一个城市。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.mine.separatists">
+<source></source>
+<target>‖color:faction.separatists‖木星分裂派分子‖end‖开始在[previousname]展开采矿作业。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.mine.coalition">
+<source></source>
+<target>‖color:faction.coalition‖联盟‖end‖开始在[previousname]展开采矿作业。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.research.separatists">
+<source></source>
+<target>一批自由研究员把[previousname]转换成了由‖color:faction.separatists‖分裂派分子‖end‖支持的独立研究站。</target>
+</trans-unit>
+<trans-unit id="locationchange.outpost.changeto.research.coalition">
+<source></source>
+<target>‖color:faction.coalition‖Coalition‖end‖把[previousname]变成了研究附近动物群的研究站。</target>
+</trans-unit>
+<trans-unit id="location.clownhaven">
+<source></source>
+<target>小丑港</target>
+</trans-unit>
+<trans-unit id="breakingnews">
+<source></source>
+<target>突发新闻</target>
+</trans-unit>
+<trans-unit id="randomnews1">
+<source></source>
+<target>本周木卫二的辐射预测情况依然十分严峻。</target>
+</trans-unit>
+<trans-unit id="randomnews2">
+<source></source>
+<target>船上的小丑们表示，船上的气氛越发紧张和消极了。</target>
+</trans-unit>
+<trans-unit id="randomnews3">
+<source></source>
+<target>联盟官员提醒所有守法公民，向隶属于分离主义分子的前哨站出售未经批准的材料属于刑事犯罪。</target>
+</trans-unit>
+<trans-unit id="randomnews4">
+<source></source>
+<target>科学界向欧罗巴之眼联名请愿，要求更多科研资金。</target>
+</trans-unit>
+<trans-unit id="randomnews5">
+<source></source>
+<target>对欧罗巴之眼的深入挖掘依旧推进中。</target>
+</trans-unit>
+<trans-unit id="randomnews6">
+<source></source>
+<target>末日蠕虫目击次数增加。</target>
+</trans-unit>
+<trans-unit id="randomnews7">
+<source></source>
+<target>人们怀疑画皮教会加速了皮虫净的短缺。</target>
+</trans-unit>
+<trans-unit id="randomnews8">
+<source></source>
+<target>近期我们与多索敏地区的一个定居点失联。</target>
+</trans-unit>
+<trans-unit id="randomnews9">
+<source></source>
+<target>定居成本日渐提升，年内即将超过有史以来最高记录。</target>
+</trans-unit>
+<trans-unit id="randomnews10">
+<source></source>
+<target>苏布拉依然在逃，他是个乖僻而危险的人物。</target>
+</trans-unit>
+<trans-unit id="randomnews11">
+<source></source>
+<target>一搜御冬级潜艇因火灾而沉没，八名船员牺牲。</target>
+</trans-unit>
+<trans-unit id="randomnews12">
+<source></source>
+<target>小丑币汇率大跳水，已跌至0.0001马克。</target>
+</trans-unit>
+<trans-unit id="randomnews13">
+<source></source>
+<target>火球福特在与顿维斯的对决中胜利了。</target>
+</trans-unit>
+<trans-unit id="randomnews14">
+<source></source>
+<target>人类并不是木卫二的第一批居民。科学家表示：脑残。</target>
+</trans-unit>
+<trans-unit id="randomnews15">
+<source></source>
+<target>研究表示，画皮寄生虫卵对健康并无显著益处。</target>
+</trans-unit>
+<trans-unit id="randomnews16">
+<source></source>
+<target>记者在融水区失踪，木卫二联盟已展开调查。</target>
+</trans-unit>
+<trans-unit id="randomnews17">
+<source></source>
+<target>现任联盟首脑以压倒性的优势赢得了选举。</target>
+</trans-unit>
+<trans-unit id="randomnews18">
+<source></source>
+<target>民众们对检测十分困惑：阳性结果不可取。</target>
+</trans-unit>
+<trans-unit id="randomnews19">
+<source></source>
+<target>斯通伯恩出现了奇特石雕。“触手生温。”发现者如此评价。</target>
+</trans-unit>
+<trans-unit id="randomnews20">
+<source></source>
+<target>研究表明水生罂粟不适合当作烟草吸入。“可以闻，但别吸。”健康官员如此说到。</target>
+</trans-unit>
+<trans-unit id="randomnews21">
+<source></source>
+<target>EHO对辐射爬行者香肠进行了召回。</target>
+</trans-unit>
+<trans-unit id="randomnews22">
+<source></source>
+<target>工程师取代了技工，成为了最受欢迎的职业。牧师的受欢迎程度依然垫底。</target>
+</trans-unit>
+<trans-unit id="randomnews23">
+<source></source>
+<target>头条新闻作者饱受孤独之苦。</target>
+</trans-unit>
+<trans-unit id="randomnews24">
+<source></source>
+<target>木卫二不再关注全球变暖问题。</target>
+</trans-unit>
+<trans-unit id="randomnews25">
+<source></source>
+<target>当地儿童的恶作剧被误认为地球发来的新信息。</target>
+</trans-unit>
+<trans-unit id="randomnews26">
+<source></source>
+<target>地球依旧沉默。</target>
+</trans-unit>
+<trans-unit id="randomnews27">
+<source></source>
+<target>第17季“和多丽丝阿姨吃美食”确定拍摄。</target>
+</trans-unit>
+<trans-unit id="randomnews28">
+<source></source>
+<target>“多丽丝阿姨”食品加盟店被指控违反食品安全法。</target>
+</trans-unit>
+<trans-unit id="randomnews29">
+<source></source>
+<target>联盟为抓获神秘恐怖分子“烟熏人”提供大量悬赏。</target>
+</trans-unit>
+<trans-unit id="randomnews30">
+<source></source>
+<target>联盟造船厂毁于一场大火——一名蒙面恐怖分子“烟熏人”被指控为此次事件的肇事者。</target>
+</trans-unit>
+<trans-unit id="randomnews31">
+<source></source>
+<target>今夜深航：烟熏人——神秘蒙面变节者</target>
+</trans-unit>
+<trans-unit id="randomnews32">
+<source></source>
+<target>画皮教派领袖雅科夫·苏布拉依然在逃。</target>
+</trans-unit>
+<trans-unit id="randomnews33">
+<source></source>
+<target>伊格内修斯·梅连任国际事务部主席，有关他利用裙带关系的指控此起彼伏。</target>
+</trans-unit>
+<trans-unit id="randomnews34">
+<source></source>
+<target>木星崇拜及非线性时间空间和时间概念：密码学揭示了古代外星人文化的新线索。</target>
+</trans-unit>
+<trans-unit id="npctitle.merchantclown">
+<source></source>
+<target>小丑商人</target>
+</trans-unit>
+<trans-unit id="npctitle.merchanthusk">
+<source></source>
+<target>邪教商人</target>
+</trans-unit>
+<trans-unit id="npctitle.huskcultecclesiast">
+<source></source>
+<target>圣职者</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionspy">
+<source></source>
+<target>联盟特工</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistcaptain">
+<source></source>
+<target>分裂派上校</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistcaptainlord">
+<source></source>
+<target>分裂派上将</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistsecurityrecruit">
+<source></source>
+<target>分裂派新兵</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistsecuritygunner">
+<source></source>
+<target>分裂派枪手</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistsecuritybrute">
+<source></source>
+<target>分裂派蛮兵</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistsecurityelite">
+<source></source>
+<target>分裂派经营</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistmechanicrecruit">
+<source></source>
+<target>分裂派技工</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistmechanicveteran">
+<source></source>
+<target>分裂派资深技工</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistengineerrecruit">
+<source></source>
+<target>分裂派工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.separatistengineerveteran">
+<source></source>
+<target>分裂派资深工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitioncaptain">
+<source></source>
+<target>联盟上校</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitioncaptainlord">
+<source></source>
+<target>联盟上将</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionsecurityrecruit">
+<source></source>
+<target>联盟新兵</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionsecuritygunner">
+<source></source>
+<target>联盟枪手</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionsecuritybrute">
+<source></source>
+<target>联盟下士</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionsecurityelite">
+<source></source>
+<target>联盟中尉</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionmechanicrecruit">
+<source></source>
+<target>联盟技工</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionmechanicveteran">
+<source></source>
+<target>联盟资深技工</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionengineerrecruit">
+<source></source>
+<target>联盟工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.coalitionengineerveteran">
+<source></source>
+<target>联盟资深工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionsecurityofficer">
+<source></source>
+<target>联盟下士</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionsecurityofficerveteran">
+<source></source>
+<target>联盟中尉</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionmechanic">
+<source></source>
+<target>联盟技工</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionmechanicveteran">
+<source></source>
+<target>联盟资深技工</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionengineer">
+<source></source>
+<target>联盟工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionengineerveteran">
+<source></source>
+<target>联盟资深工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionmedic">
+<source></source>
+<target>联盟医师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireablecoalitionmedicveteran">
+<source></source>
+<target>联盟资深医师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistsecurityofficer">
+<source></source>
+<target>分裂派下士</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistsecurityofficerveteran">
+<source></source>
+<target>分裂派中尉</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistmechanic">
+<source></source>
+<target>分裂派技工</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistmechanicveteran">
+<source></source>
+<target>分裂派资深技工</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistengineer">
+<source></source>
+<target>分裂派工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistengineerveteran">
+<source></source>
+<target>分裂派资深工程师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistmedic">
+<source></source>
+<target>分裂派医师</target>
+</trans-unit>
+<trans-unit id="npctitle.hireableseparatistmedicveteran">
+<source></source>
+<target>分裂派资深医师</target>
+</trans-unit>
+<trans-unit id="entityname.op_husktable">
+<source></source>
+<target>尸检台</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskscribble">
+<source></source>
+<target>神秘物品</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskstatue1">
+<source></source>
+<target>神秘雕像</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskgraffiti">
+<source></source>
+<target>神秘符号</target>
+</trans-unit>
+<trans-unit id="entityname.op_husklabel">
+<source></source>
+<target>没有登记信息</target>
+</trans-unit>
+<trans-unit id="entityname.op_husklabel1">
+<source></source>
+<target>褪色的姓名牌</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskbody">
+<source></source>
+<target>婴儿尸体</target>
+</trans-unit>
+<trans-unit id="entityname.op_humantank">
+<source></source>
+<target>实验罐</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskincubator">
+<source></source>
+<target>婴儿恒温箱</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskphoto1">
+<source></source>
+<target>模糊的图片</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskcloak">
+<source></source>
+<target>邪教斗篷</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskstroller1">
+<source></source>
+<target>婴儿车</target>
+</trans-unit>
+<trans-unit id="entityname.op_huskposter1">
+<source></source>
+<target>药物海报</target>
+</trans-unit>
+<trans-unit id="entityname.op_husksign">
+<source></source>
+<target>纸板标志</target>
+</trans-unit>
+<trans-unit id="entityname.op_sepsandbag">
+<source></source>
+<target>分离主义装饰</target>
+</trans-unit>
+<trans-unit id="entityname.op_clowncurtain2">
+<source></source>
+<target>装饰窗帘</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownmannequin1">
+<source></source>
+<target>人体模型</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownjukebox">
+<source></source>
+<target>自动唱机</target>
+</trans-unit>
+<trans-unit id="entityname.op_clowninstrument1">
+<source></source>
+<target>大提琴</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownball1">
+<source></source>
+<target>气球</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownmic">
+<source></source>
+<target>舞台麦克风</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownsign1">
+<source></source>
+<target>剧院标志</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownmask2">
+<source></source>
+<target>装饰面具</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownshow1">
+<source></source>
+<target>演出标志</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownmarquee">
+<source></source>
+<target>华盖</target>
+</trans-unit>
+<trans-unit id="entityname.op_clowninstrument2">
+<source></source>
+<target>架子鼓</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownfence">
+<source></source>
+<target>剧院栅栏</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownball2">
+<source></source>
+<target>巨大的球</target>
+</trans-unit>
+<trans-unit id="entityname.op_clownposter1">
+<source></source>
+<target>广告海报</target>
+</trans-unit>
+<trans-unit id="entityname.banana">
+<source></source>
+<target>香蕉</target>
+</trans-unit>
+<trans-unit id="entitydescription.banana">
+<source></source>
+<target>起源于地球的水果，非常美味，富含钾元素。</target>
+</trans-unit>
+<trans-unit id="entityname.bananapeel">
+<source></source>
+<target>香蕉皮</target>
+</trans-unit>
+<trans-unit id="entitydescription.bananapeel">
+<source></source>
+<target>富含钾元素。扔在地上可引发安全灾难。</target>
+</trans-unit>
+<trans-unit id="entityname.cymbals">
+<source></source>
+<target>摄魂钹</target>
+</trans-unit>
+<trans-unit id="entitydescription.cymbals">
+<source></source>
+<target>一对用于小丑圣母教派冥想练习的钹。摄魂钹能发出十分独特而可憎的巨大声响，让邪魔外道头晕目眩。</target>
+</trans-unit>
+<trans-unit id="entityname.clowncrate">
+<source></source>
+<target>小丑箱</target>
+</trans-unit>
+<trans-unit id="entitydescription.clowncrate">
+<source></source>
+<target>巨大的箱子，够装进一名小丑。</target>
+</trans-unit>
+<trans-unit id="itemmsggoinside">
+<source></source>
+<target>[[use]] 进入</target>
+</trans-unit>
+<trans-unit id="entityname.clownexosuit">
+<source></source>
+<target>乐子3000</target>
+</trans-unit>
+<trans-unit id="entitydescription.clownexosuit">
+<source></source>
+<target>小丑圣母教派的科技结晶：核动力驱动外骨骼，装备有多种恶作剧武器的特殊衣装。</target>
+</trans-unit>
+<trans-unit id="clownexosuitweapon">
+<source></source>
+<target>小丑大爆破</target>
+</trans-unit>
+<trans-unit id="entityname.honkmotherianscriptures1">
+<source></source>
+<target>小丑圣经：欢乐九章(I-III)</target>
+</trans-unit>
+<trans-unit id="pillarsoffun1">
+<source></source>
+<target>I. 能被讲述出来的小丑不是真正永恒的小丑。能被命名的小丑圣母也不是真正永恒的小丑圣母。无名者才是舞台的灵魂。有名者是演出，是演员，是观众，是他们之间的墙。把自己从严肃中解放出来吧，这样你就能看到隐藏已久的秘密。严肃的双眼只能看到视觉的真相。\n\nII.我们把气球塑造成动物的形状，但真正把气球充出形状的却是其中的空气。我们用实质的东西劳作，但我们真正使用的却是实质之外的虚无。\n\nIII.最高级的乐趣不是创造乐趣，而是让自己成为乐趣。严肃之人想找点乐子，但发现这些欢乐无法持续。于是他们使劲榨干被给予的柠檬，最后只能得到酸涩的汁液。</target>
+</trans-unit>
+<trans-unit id="entityname.honkmotherianscriptures2">
+<source></source>
+<target>小丑圣经：欢乐九章(IV-VI)</target>
+</trans-unit>
+<trans-unit id="pillarsoffun2">
+<source></source>
+<target>IV.当小丑听到宇宙最大的笑话，他会以此为引。当普通人听到宇宙最大的笑话，他会半信半疑。当愚者听到宇宙最大的笑话，他会爆笑如雷。毕竟，如果他不笑的话，这就不是个笑话了，对不对？\n\nV.最棒的小丑是人们几乎不知道的。其次的是人们赞美喜爱的。再差一点的是人们害怕的。最差的是人们看不起的。一位伟大的小丑完成了任务，人们会说，“这可真有趣”，却不曾察觉欢乐之流源自何处，同样他们也不会察觉小丑的杰作，不会意识到最源头的乐趣，最空白的石板。\n\nVI.小丑的思想就如同最空白的石板，他们把人们的思想作为自己的思想。他们用善良对待善良之人。他们也用善良对待不善之人。他们信任值得信任之人。他们也信任不值得信任之人。因此，他们成就了善良与信任，免得那些脑满粪土的严肃之人阻挡住欢乐之流的流动。</target>
+</trans-unit>
+<trans-unit id="entityname.honkmotherianscriptures3">
+<source></source>
+<target>小丑圣经：欢乐九章(VII-IX)</target>
+</trans-unit>
+<trans-unit id="pillarsoffun3">
+<source></source>
+<target>VII. 如果你不惧怕死亡，它又能如何威胁到你呢？真正能理解这一点，就是向小丑喇叭之道迈进了一大步。不自然地延续生命就是对死亡的恐惧。试图改变生命的走向就是对死亡的恐惧。小丑们明白，合久必分，盛极必衰。违背自然规律就是背离小丑喇叭之道，最后一点欢乐也找不到。\n\nVIII.心存怜悯，就能充满勇气。心有节制，就能为世界带来欢乐。心怀谦卑，就能指引他人。放弃怜悯却寻找勇气，或是在欢乐中放弃节制，亦或是在寻求指引时放弃谦卑，都不会带来欢乐。\n\nIX.风筝随风高飞，小丑任其翱翔；风筝断了线，小丑由它去。小丑拥有却不占有，行动但不期待。当他的任务完成，他就将其遗忘。这就是欢乐如何永恒，如同小丑的杰作。赞美小丑圣母！</target>
+</trans-unit>
+<trans-unit id="storename.merchantclown">
+<source></source>
+<target>小丑物资</target>
+</trans-unit>
+<trans-unit id="storename.merchanthusk">
+<source></source>
+<target>信徒物资</target>
+</trans-unit>
+<trans-unit id="entityname.cultistrobes">
+<source></source>
+<target>异教徒长袍</target>
+</trans-unit>
+<trans-unit id="entitydescription.cultistrobes">
+<source></source>
+<target>画皮教派诗僧穿着的黑色衣装。涂抹了能够安抚野生画皮虫的费洛蒙，让他们能够安全度过飞升前的时光。</target>
+</trans-unit>
+<trans-unit id="entityname.zealotrobes">
+<source></source>
+<target>狂热者长袍</target>
+</trans-unit>
+<trans-unit id="entityname.rituallantern">
+<source></source>
+<target>仪式灯笼</target>
+</trans-unit>
+<trans-unit id="entitydescription.rituallantern">
+<source></source>
+<target>画皮教派广泛使用的灯笼。含有能镇静野生画皮虫的化学物质，也具有治疗功能。</target>
+</trans-unit>
+<trans-unit id="entityname.huskcontainerspawner">
+<source></source>
+<target>画皮寄生虫储存箱</target>
+</trans-unit>
+<trans-unit id="entitydescription.huskcontainerspawner">
+<source></source>
+<target>装有萼形体内转续拟寄生物样本的储存箱。这是一种方便的自主容器，不过效果颇为短暂，因为画皮寄生虫很难在无机物中存活太久。</target>
+</trans-unit>
+<trans-unit id="entityname.bookofchalices1">
+<source></source>
+<target>圣餐之书：三重蜕变</target>
+</trans-unit>
+<trans-unit id="threemetamorphoses">
+<source></source>
+<target>我委于你三重灵魂蜕变：灵魂如何成为人类坚韧意志的圣杯，倒尽圣杯中的陈酒，填满圣杯以新酒。\n\n灵魂需要承载许多，强大的灵魂包含着敬畏与尊严。\n\n灵魂要承载什么呢？灵魂伸出手询问道。最沉重的又是什么呢？灵魂询问到，好让自己能承受这重担，并为这份力量欢欣鼓舞。\n\n是否如此：潜入最深的深渊探寻深邃的秘密？\n\n亦或如是：以知识的果实为食，为真理而承受灵魂的饥饿？\n\n还是这般：步入业已浑浊的真理之水，不再拒绝其中的寄生之物？\n\n再不其然：爱那些轻视我们之人，在那幽灵恐吓我们时向它伸出自己的手？\n\n灵魂承受了这些重担，作为人类坚韧意志的圣杯，它为自己的力量欢欣鼓舞。\n\n但此时，圣杯中涌出一股瘴气，因为此人的意志承担着旧的重担，变得腐朽污浊。\n\n瘴气对灵魂说道：“你将如此！”\n\n千年来的思想在空气中撒发着恶臭。“一切的意义使我不朽。一切的意义都已被创造出来，一切也都创造出了了意义，而我，则代表这一切。是的，业已不会有更多意义。”瘴气如是说道。\n\n我的同胞们，为何要倒尽圣杯呢？为什么人类的坚韧意志并不足够呢？创造意义，是人类无法完成之事。但给予自身自由，并以此创造意义，是人类能做之事。\n\n给予自己自由，甚至给予责任和人性神圣的内涵：为此，我的同胞们，我们不再需要为人。创造新的意义，这就是灵魂最令人惊叹的自由。\n\n但请告诉我，我的同胞，空荡荡的圣杯的意义是什么呢？因此我们必须寻找新的美酒，它崭新而纯净，超越人类的坚韧意志，又尽在掌握之中。\n\n是的，为了这场创造的游戏，我的兄弟们，我们需要一种神圣的生命，坚韧意志自身的生命。敢于伸出手的人能得到这种意志，就像世界伸出手赠予我们这份恩赐。\n\n于是，第三重同时也是最后一重蜕变开始了，这就是飞升。人类的灵魂充满了新的生命，人类坚韧意志和世界坚韧意志融为一体。这一意志，现在也拥有了灵魂，新的世界战胜了旧世界的弃子。这就是本质的形态。</target>
+</trans-unit>
+<trans-unit id="entityname.bookofchalices2">
+<source></source>
+<target>圣杯之书：化身浪潮的先驱</target>
+</trans-unit>
+<trans-unit id="heraldofthetide">
+<source></source>
+<target>人类是架在动物与本质形态之间的桥梁，这是一座建立于深渊之上的桥梁。\n\n走过去是危险的，在半空中回头看是危险的，战栗而停步是危险的。\n\n人之所以伟大，在于他是一座桥梁而非一个终点；人之所以可爱，在于他是一次穿越，一次下行。很少有人能跨过那座桥梁，但这些跨过的人都拥有伟大的德行。\n\n他们不知下行以外的生活，因为他们正在越过这座桥。\n\n他们没在最初就寻找群星之上的意义，而是将自己献身给世界，因此到达了本质形态才能到达的世界。\n\n他们为求知而生，他们寻求变成本质形态的知识。他们寻求自身的下行。\n\n他们劳作并创造，他们为本质形态修建了新家，并为它准备好海洋、动物、植物以及它们的肉体：因为他们这样寻求自己的下行。\n\n他们惩戒他们的神，因为他们爱他们的神，因此他们也必须屈服于他们神的怒火。他们的灵魂会受很深的伤，也会因此而屈服，因为他们愿意走过这座桥。\n\n他们拥有开放的灵魂和内心，他们的大脑只是他们内心的容器，他们的心，指引他们下行。\n\n看啊，我现在变成了浪潮的先驱，水面之下的波涛，而这浪潮，正是本质形态。</target>
+</trans-unit>
+<trans-unit id="character.huskcontainer">
+<source></source>
+<target>画皮寄生虫储存箱</target>
+</trans-unit>
+<trans-unit id="entityname.40mmnuke">
+<source></source>
+<target>40mm迷你核弹</target>
+</trans-unit>
+<trans-unit id="entitydescription.40mmnuke">
+<source></source>
+<target>可用榴弹发射器发射的小型核装置。</target>
+</trans-unit>
+<trans-unit id="entityname.molotovcoctail">
+<source></source>
+<target>莫洛托夫鸡尾酒</target>
+</trans-unit>
+<trans-unit id="entitydescription.molotovcoctail">
+<source></source>
+<target>一种简易廉价的燃烧武器。</target>
+</trans-unit>
+<trans-unit id="campaignstore.reputationrequired">
+<source></source>
+<target>[amount] [faction]声望需求</target>
+</trans-unit>
+<trans-unit id="charactername.ignatiusmay">
+<source></source>
+<target>伊格纳修斯·梅</target>
+</trans-unit>
+<trans-unit id="charactername.auntdoris">
+<source></source>
+<target>多丽丝阿姨</target>
+</trans-unit>
+<trans-unit id="charactername.victoriapetran">
+<source></source>
+<target>维多利亚·培德兰</target>
+</trans-unit>
+<trans-unit id="charactername.sootman">
+<source></source>
+<target>烟熏人</target>
+</trans-unit>
+<trans-unit id="charactername.jestmaster">
+<source></source>
+<target>恶作剧大师</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.c1">
+<source></source>
+<target>一位峻颜厉色的女人向你走来。你感觉她看起来很熟悉，然后你突然想起，她曾在新闻里出现过很多次。\n\n她伸出手，与你握了握手。“你好，我一直等着见你呢。我是维多利亚·培德兰，木星分离派中尉。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1">
+<source></source>
+<target>“很荣幸见到您，我能帮您什么忙吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.c1">
+<source></source>
+<target>“实际上，我并不是来寻求你的帮助。我已经观察你和你的船员很久了，你们为我们的事业做出了巨大的贡献。要是我们的队伍里能有更多像你这样的人，把联盟从木卫二表面抹除简直易如反掌。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1">
+<source></source>
+<target>“感谢您的认可，我们只是尽我们所能。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.c1">
+<source></source>
+<target>“你们出色地完成了工作，我也在想，如果我也成为你的船员，是不是会比坐在办公室里更好。我对你来说也同样有价值，我见过潜艇生活，对武器和医疗也有所了解。所以，你觉得怎么样？你的潜艇需要安全官吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.o1">
+<source></source>
+<target>“我怎么会拒绝呢！欢迎上船，长官！”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.o1.c1">
+<source></source>
+<target>“太好了！不过，既然如此，就不要再叫我长官了，我是你的船员，不是你的上级。我等不及要参与我们的第一个任务了！”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.o2">
+<source></source>
+<target>“我很荣幸，不过我们还得考虑一下相关事宜。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.o2.c1">
+<source></source>
+<target>“明白。不过，如果以后你决定让我上船，我们应该能在木星分离派控制的前哨站遇见。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.repeat">
+<source></source>
+<target>“你好啊，重新考虑过我的建议吗？愿意让我上船吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o1.repeat">
+<source></source>
+<target>“是的，我们确实缺个安全官。欢迎登船，长官！”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire1.o1.o2.repeat">
+<source></source>
+<target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.c1">
+<source></source>
+<target>有个看起来像是刚从燃油机排气管里爬出来的人走到你面前。\n\n“嘿，我一直在找你呢。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1">
+<source></source>
+<target>“你看起来有点眼熟。我们之前见过吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.c1">
+<source></source>
+<target>“当时就是你的船员把我从联盟的监狱里救出来的，是不是？那会儿没来得及自我介绍，他们叫我烟熏人，就这么叫吧。话说，你不会碰巧需要一位新船员吧？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1">
+<source></source>
+<target>“烟熏人？就是那个联盟追捕了好几年的分离主义分子？你不是在逗我吧？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1.c1">
+<source></source>
+<target>“啊对，就是我。听前哨站的人说，你们把联盟狗脑子都干出来了，我也想入伙，你看怎么样？”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1.o1">
+<source></source>
+<target>“当然了！很荣幸能有你这么有才能的人加入我们。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1.o1.c1">
+<source></source>
+<target>“太好了，船上见。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1.o2">
+<source></source>
+<target>“我们得考虑一下。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.o1.o1.o2.c1">
+<source></source>
+<target>“好。”</target>
+</trans-unit>
+<trans-unit id="eventtext.separatistspecialhire2.repeat">
+<source></source>
+<target>“怎么样？船上有我的位置吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.c1">
+<source></source>
+<target>你注意到一位看起来很面熟的年长女士。多丽丝阿姨！她的食品加盟店可能亟待改进，但她的烹饪秀可一直都棒极了。\n\n没想到的是，她向你走了过来。“你好啊！我听说你和你的船员就在附近，我就想着过来看看能不能遇见你们。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1">
+<source></source>
+<target>“很高兴见到您，女士！我们能帮上什么忙吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.c1">
+<source></source>
+<target>“这个想法可能有点傻，但是问问应该也不碍事。我现在，怎么说呢…算是遇到晚年危机了吧。你肯定知道，我一直都在办烹饪秀，开餐馆，已经快四十年了。最近我听说了你们的壮举，你们做了许多让我们这个星球变得更美好的事情，我真的很好奇潜艇上的生活是什么样的。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.o1">
+<source></source>
+<target>“并不是每个人都能适应的。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.o1.c1">
+<source></source>
+<target>“是的，我知道！但我还是想试试。而且，我也不像看起来那么柔弱，在我年轻的时候干掉过不少分离主义分子，那可真是段好时光！我也知道一些关于医疗的知识，木卫二上也没有我不会宰的动物。\n\n所以，你看怎么样，给我这个老太太一个上船的机会吗？我愿意为让木卫二变得更美好而战！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o1">
+<source></source>
+<target>“我怎么会拒绝呢！欢迎上船，女士！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o1.c1">
+<source></source>
+<target>“太好了！我回去拿点东西，船上见！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.o1.o1.o2.c1">
+<source></source>
+<target>“我理解，慢慢来，亲爱的！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire2.repeat">
+<source></source>
+<target>“你好啊，又考虑过让我上船的事吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.c1">
+<source></source>
+<target>“总是很高兴见到你们！我有些有趣的想法想告诉你们。”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1">
+<source></source>
+<target>“洗耳恭听！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.c1">
+<source></source>
+<target>“你知道，在前哨站的生活有时很无聊。偶尔来了访客，我还能带带路，我总是在想，如果我也能踏上你们那样的旅程就好了。第一次听的笑话总比听了几百遍的笑话好玩，你说呢？”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1">
+<source></source>
+<target>“我理解你的意思，再展开讲讲！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.c1">
+<source></source>
+<target>“我想知道，你的船上会不会正好有个给助理的位置？如果能加入你们的旅程，我这个老傻蛋会很开心的。我从没上过潜艇，但我还是有点东西的，应该能用得上。”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.o1">
+<source></source>
+<target>“小丑圣母在上啊，当然了！欢迎上船！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.o1.c1">
+<source></source>
+<target>“太好了！很荣幸加入你们！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.o2">
+<source></source>
+<target>“我们得考虑一下。”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.o2.c1">
+<source></source>
+<target>“明白。不过你肯定还会再遇到我的，如果你改主意了，那就叫上我吧！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.repeat">
+<source></source>
+<target>“你好！考虑过我的建议吗？愿意让我加入你们吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o1.repeat">
+<source></source>
+<target>“我们还有个给助理的位置，欢迎上船！”</target>
+</trans-unit>
+<trans-unit id="eventtext.clownspecialhire1.o1.o2.repeat">
+<source></source>
+<target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.c1">
+<source></source>
+<target>一个看起来很眼熟的男人向你走来。“嘿，是你啊！我一直想再见到你呢。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1">
+<source></source>
+<target>“很高兴再次见到您，苏布拉先生！”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.c1">
+<source></source>
+<target>“就别客套了，咱们直接切入正题吧。我们不是每天都能遇见你们这么有能力又开明的人的。所以我有个提议，可以让你和教会之间的合作更加紧密。而且，诚实地说，这对我个人也是一个很好的礼物。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1">
+<source></source>
+<target>“您说吧，我在听。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.c1">
+<source></source>
+<target>“简单地说，我在被赏金猎人追杀前就想加入你们了。你为教会做出了杰出的贡献，如果我们联合起来，很快我们就能把这个世界浸没在神的荣耀中。另外，再诚实一点地说，我实在太想体验沉入水中的的生活了。怎么样，你说呢？”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o1">
+<source></source>
+<target>“我怎么会拒绝呢！欢迎上船，兄弟！”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o1.c1">
+<source></source>
+<target>“太好了！船上见！”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o2">
+<source></source>
+<target>“我们得考虑一下。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.o2.c1">
+<source></source>
+<target>“当然，慢慢考虑。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.repeat">
+<source></source>
+<target>“很高兴再次见到你，兄弟。怎么样，考虑好我的请求了吗？船上还有给我的位置吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o1.repeat">
+<source></source>
+<target>“你能加入我们真是太好了。”</target>
+</trans-unit>
+<trans-unit id="eventtext.huskcultspecialhire1.o1.o2.repeat">
+<source></source>
+<target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.announcement">
+<source></source>
+<target>扩音器开始播报，召集刚靠岸的舰船船员去见主管。</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.c1">
+<source></source>
+<target>一位身着华贵制服的老人向你走来，和你握了握手。“啊，你在这。我还在想广播系统起不起作用呢。很高兴见到你！我听说你和船员们都来了，就想着我得亲自见你们一面。如果你能抽出点时间，我想给你些建议。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1">
+<source></source>
+<target>“抱歉，您是谁来着…”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.c1">
+<source></source>
+<target>“啊，抱歉，得见英雄让我失了礼数！我是伊格纳修斯·梅，木卫二联盟国际事务部主席。我观察你们的行动很久了，你承接的许多任务都是由我委托的。我谨代表木卫二联盟，对你和你的船员表示最由衷的感谢。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1">
+<source></source>
+<target>“谢谢长官！我能问一下您刚提到的建议是什么吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.c1">
+<source></source>
+<target>“开门见山，我喜欢！那我就直说了，我想成为你的船员。我已经很久经历过真正的行动了，看到你和船员们的努力，我也心里痒痒了，我也想亲自上场，为联盟做些更实际的事情。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o1">
+<source></source>
+<target>“这是我们的荣幸，先生！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o1.c1">
+<source></source>
+<target>“太好了！船上见！”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o2">
+<source></source>
+<target>“我们得考虑一下。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.o2.c1">
+<source></source>
+<target>“嗯，我也不是非得这么要求，出于对你和船员的尊重，我不会强迫你们的。我们之后肯定会再见的，如果你改变主意了，请告诉我。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.repeat">
+<source></source>
+<target>“又见面了。怎么样，考虑我的建议了吗？”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o1.repeat">
+<source></source>
+<target>“您能加入我们真是太好了。”</target>
+</trans-unit>
+<trans-unit id="eventtext.coalitionspecialhire1.o1.o2.repeat">
+<source></source>
+<target>“现在恐怕没有多余的位置了，但是情况有变的话我会告诉你的！”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.c1">
+<source></source>
+<target>几个穿着长袍的人围在一个躺在地上的人身边。那个人剧烈地颤抖着，仿佛是犯了癫痫，你也不知道周围的人是在抑制他的颤抖还是给他做心肺复苏。其中一个穿罩袍的人注意到了你。“嘿，你！快把柜子里的皮虫净注射器扔过来！”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1">
+<source></source>
+<target>把旁边柜子里的皮虫净扔给他们。</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.c1">
+<source></source>
+<target>你把标记着“皮虫净”的注射器扔了过去，他们立刻就往那个抽搐的男人脖子上注射进去。其中一个穿长袍的人好像非常生气。“马克，你这个没耐心的蠢货，我告诉过你多少遍了，你还没做好接受馈赠的准备？！”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1">
+<source></source>
+<target>“发生什么事了？”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.c1">
+<source></source>
+<target>穿长袍的人们转过头来，你稍稍看清了他们的脸，都还很年轻。“刚才算是一场小型急救吧。我们这位朋友觉得…这趟小小的旅行…会很好玩，你应该懂我意思吧。感谢你的帮助！你要是不介意的话，就让这件事儿过去吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1">
+<source></source>
+<target>“这事实在太可疑了。告诉我你们对他做了什么，不然我就向当局报告。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.c1">
+<source></source>
+<target>那群人彼此间紧张地交换着眼神。“嘿，我们不想惹什么麻烦。我们这位兄弟实在是太急着想见画皮之神了，然后就失控了。但现在我们已经控制住他了，一切安好。没有下次了，请不要把这件事和我们的秘密说出去。要是被发现了，我们的整个生涯就全完了。“</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1">
+<source></source>
+<target>“你们的秘密？你们都是画皮教会的？我还以为你们都是被寄生虫控制了呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1.c1">
+<source></source>
+<target>“寄生虫？寄生虫只知索取，但是画皮确实在给予！它能带你突破人类肉体凡胎的限制！但像刚才那样的不行，你必须做好准备才能接受这份礼物。不然，咳咳，反正传教士是这么说的。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o1">
+<source></source>
+<target>我受够这些邪教屁话了，警告前哨站安保。</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>你用无线电联系了前哨站安保，通知他们在这个区域中发生的可疑活动。</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o2">
+<source></source>
+<target>“谢了，我还挺喜欢我这身皮囊的。那我走了。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o1.o1.o3">
+<source></source>
+<target>“如果我想突破肉体的限制，我需要做些什么呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2">
+<source></source>
+<target>“别紧张，小老弟。我就是想知道你们为什么阻止他的转化。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.c1">
+<source></source>
+<target>他们凝重的表情放松了些。“你也看到他颤抖的样子了。升华可不该是那样的。共生体马上就要吞噬他了，显然他还没做好共生的准备。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.o1">
+<source></source>
+<target>“原来如此。一个人要是想和画皮虫共生，都要做些什么呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.o1.c1">
+<source></source>
+<target>“嗯，诚实地说，我们还是新人，可能不是回答这个问题的最佳人选。传教士说要做好准备才能接受这份馈赠，在交融前，你得敞开自己的内心与肉体。还有一些仪式和道具，用于安抚和迎接共生体带来的变化。具体的事情我们还不太清楚，但是如果你能找到传教士的话，他们肯定会乐意为你传道授业的！”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.o1.o1">
+<source></source>
+<target>你和这些年轻伙计道了别，并祝他们能愉快又及时地升华。</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.o1.o2">
+<source></source>
+<target>我受够这些邪教屁话了，警告前哨站安保。</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o1.o1.o2.o2">
+<source></source>
+<target>“我还以为你们都是被寄生虫控制了呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.youngcultists.o2">
+<source></source>
+<target>看起来很可疑，我还是别掺和进去了。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.c2">
+<source></source>
+<target>你偶然听到两个穿着长袍的人在低声讨论着什么。“说实话，我觉得那些用药为媒的下三滥曲解了交融本身的含义。”衣着更华丽的那位耸了耸肩。“作为一个传教士，我同意。不过这话只在你我之间说说，我相信偶尔测试一下自己的极限对教徒们也有好处——毕竟，如果想超越极限，就得知道自己的极限在哪里。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5">
+<source></source>
+<target>“打扰一下，你刚说你是画皮教派传教士？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.c1">
+<source></source>
+<target>穿长袍的男人转过头来，上下打量着你，你感觉自己仿佛听到了什么不该听的东西。“你是谁？来这里做什么？”他问道。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1">
+<source></source>
+<target>“我的船员们想多了解一些画皮教派的事情，我听说传教士能为我们指点一二。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.c1">
+<source></source>
+<target>那个男人嘲讽般地笑了笑。“你觉得我是讲公开课的吗？就算我愿意给遇见的每个人传授知识，我又怎么能确定你是不是来刺探消息的联盟间谍或者小丑呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1">
+<source></source>
+<target>“那我能不能为教会做些事情，以此来证明自己的诚意呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.c1">
+<source></source>
+<target>“这并不会让你与道德缺失精神软弱的众生有什么区别，你们只是有好处就办事而已，根本不考虑他们支持的是什么。教会感兴趣的是你在争取什么，以及你愿意这些愿景奉献多少。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1">
+<source></source>
+<target>“那有其它什么证明我们忠诚的方式吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.c1">
+<source></source>
+<target>“你还有很长的路要走，孩子，但是我们试试看吧。让我看看你对我们的教义了解多少。回答我这个问题，何为第二次精神蜕变？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o1">
+<source></source>
+<target>“从肉体的桎梏中解放。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o1.c1">
+<source></source>
+<target>他发出一声痛苦的呻吟，“我觉得你理解的不怎么到位，你再好好学习一下吧，想清楚之前，我是不会再跟你说什么了。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o2">
+<source></source>
+<target>“与共生体融为一体。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3">
+<source></source>
+<target>“倒干圣杯中的陈酒。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.c1">
+<source></source>
+<target>“没想到一个水手竟然还了解三重蜕变。尽管光有这个证明不了什么，但是作为敲门砖确实够了。我们即将举行某个特定的教会活动，需要给教众们分享很多‘圣餐’。你肯定明白我指的是什么。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.o1">
+<source></source>
+<target>“你需要我给你找些画皮寄生虫卵？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1">
+<source></source>
+<target>“这是另一种说法，是的。这是对你奉献精神的一种考验，也可以帮助你和你的船员到达第一重蜕变的境界，沉入深渊，深入冰洋。所以，简单地说，给我或我的同胞们带回来十二瓶画皮寄生虫卵，之后我们再聊聊别的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o4">
+<source></source>
+<target>“我还不太了解。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o1.o1.o4.c1">
+<source></source>
+<target>“承认自身的不足确是智慧。但你再好好学习一下吧，在弄清楚之前，我不会再跟你说什么了。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o2">
+<source></source>
+<target>“如果你能带来有价值的东西，我们会很乐意给你报酬的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o1.o2.c1">
+<source></source>
+<target>“像你这样的舰长肯定觉得有钱能使鬼推磨，但你的提议表明你对我们教派寻求之物所知甚少。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o5.o2">
+<source></source>
+<target>“对不起，我肯定是把你和别人搞混了。我得走了！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o6">
+<source></source>
+<target>听起来这个人是画皮教派的什么大人物。最好警告前哨站安保。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o6.c1">
+<source></source>
+<target>你用无线电联系了前哨站安保，通知他们在这个区域中发生的可疑活动。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.o7">
+<source></source>
+<target>看起来很可疑，还是别掺和进去了。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension1.c1">
+<source></source>
+<target>“我相信你的船员很想进一步了解画皮教派。但是在此之前，我想问一个我的同僚已经问过的问题：何为第二次精神蜕变？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.c1">
+<source></source>
+<target>“我想我们的教会已经给过你任务了。你弄到‘圣餐’了吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1">
+<source></source>
+<target>“我按照要求弄到了12瓶画皮寄生虫卵。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.c1">
+<source></source>
+<target>当你拿出瓶子的时候，传教士瞪大了双眼。他飞快地把瓶子从你手中拿过来，塞进了长袍里。“看来我们之前对你们的怀疑简直是毫无根据。请原谅我们之前的猜忌，我们只是不想和对画皮理解浅薄的人交流。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.o1">
+<source></source>
+<target>“理解。现在你能告诉我们关于画皮教派的事情了吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.o1.c1">
+<source></source>
+<target>“这种对知识的渴望就是誓言的证明。是的，我们已经和教会讨论过了。只要你愿意，我们就接纳你们为教会的侍僧。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.o1.o1">
+<source></source>
+<target>“具体一点，这什么意思？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.o1.o1.c1">
+<source></source>
+<target>“这就意味着，我们会协助你飞升，你要也协助教会对臻于人类完美形态的追求，或者说，对超越人类的追求。我们教派的成员并没有太多义务，每个人可以根据自身的意志和能力为教会服务，但是我们也真诚地希望你和船员们能继续为我们的理想做出伟大的贡献。请仔细考虑一下我们的邀请吧，如果你下定决心，请告诉我。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o1.c2">
+<source></source>
+<target>“请把它们带给我，然后我们就能继续了。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o2">
+<source></source>
+<target>“还在努力中。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.c2">
+<source></source>
+<target>“你决定好成为画皮教派的侍僧了吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3">
+<source></source>
+<target>“是的，我想加入教派。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.c1">
+<source></source>
+<target>“那么你将得偿所愿。你是否愿意把飞升和超越人类作为自己终极理想？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1">
+<source></source>
+<target>“我愿意。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1.c1">
+<source></source>
+<target>“那么你将得偿所愿。你是否愿意放弃人性，迈向更高级形态的阶梯？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1.o1.c1">
+<source></source>
+<target>“那么你将得偿所愿。你是否愿意让自己的意志如这个世界般坚定，迈向更高级形态的阶梯？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.c1">
+<source></source>
+<target>“那么你将得偿所愿。欢迎加入画皮教派的家庭。我很高兴你能同我们一道！我相信，整个教会从上到下都会为此欣喜！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.o1">
+<source></source>
+<target>“那么，下一步怎么做？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.o3.o1.o1.o1.o1.c1">
+<source></source>
+<target>“基本上根据你的个人意愿来决定。如之前所说，每个人可以根据自身的意志和能力为教会服务。如果你需要指引，可以先看看《圣杯之书》。”传教士递给你一张卷轴。“把它牢记于心，下一个任务到来的时候，你就能做好充足准备。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension2.thinkaboutthis">
+<source></source>
+<target>“我还得再考虑一下。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.c1">
+<source></source>
+<target>“很高兴再见到你。时机刚好，我们现在正需要你的帮助。这比你之前做过的事情更敏感些，我们需要一个有能力，且教会足够信任的人，你和你的船员再合适不过了。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1">
+<source></source>
+<target>“我有兴趣。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.c1">
+<source></source>
+<target>“根据内部消息，一名联盟特工已经渗透进了教会，妄图窃取我们的秘密。他可能获得了一些敏感信息，包括我们大教士的身份和定位。我们有理由相信他就在附近的前哨站，现在是时候让他没机会把信息泄露出去了。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.o1">
+<source></source>
+<target>“我明白了。我会小心行动的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.o2">
+<source></source>
+<target>“你是让我去杀人吗？！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.o2.c1">
+<source></source>
+<target>“你没读过《三重蜕变》吗？真是腐朽的思想 - 你得抛弃那些虚伪的人类道德观念。除此之外，你在航海生涯中已经杀过数不清的人类，这又与那些有什么区别？更别提此事这对我们的教会的重要性！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.o2.o1">
+<source></source>
+<target>“你说得对。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension3.o1.o2.o1.c1">
+<source></source>
+<target>“我会把位置标记在你的地图上。记得要隐秘行事，我们不想招来什么窥视的目光。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.c1">
+<source></source>
+<target>“我们已收到消息，你的任务成功了。我就知道我们指得上你！但不幸的是，我们还有些更紧急的事项需要讨论一下。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1">
+<source></source>
+<target>“说吧，我在听。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1.c1">
+<source></source>
+<target>“你很清楚，联盟之前发布了对雅科夫·苏布拉的悬赏，他是我们的一名大教士。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1.o1">
+<source></source>
+<target>“熟悉的名字，但我不清楚更多细节。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1.o1.c1">
+<source></source>
+<target>他是我们其中一名大教士，不过他更喜欢被称为‘首脑领袖’。就是他创办了“软体动物教派”集会，</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1.o1.o1">
+<source></source>
+<target>“我们能帮上什么忙？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension4.o1.o1.o1.c1">
+<source></source>
+<target>“我们得赶在赏金猎人之前找到他，然后把他安全地带回来。我会在你的地图上标记他的位置。这件事十万火急，没时间可浪费了。走吧，等他安全了我们再聊别的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionfoundsubra.c1">
+<source></source>
+<target>“别想活捉我！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionfoundsubra.o1">
+<source></source>
+<target>“别紧张，兄弟！我们是教会派来的！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionfoundsubra.o1.c1">
+<source></source>
+<target>“啊！我之前听到广播里说了悬赏的事，我就知道肯定会有人会找到我的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionfoundsubra.o1.o1">
+<source></source>
+<target>“你听到了……？那可能不是我们。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionfoundsubra.o1.o1.c1">
+<source></source>
+<target>“妈的。我们得拿好武器冲出去了。你来带路。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1">
+<source></source>
+<target>你受命暗杀的调查画皮教派的特工应该就在前哨站的某处。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.c1">
+<source></source>
+<target>这位肯定就是告密者了，你在想该怎么做。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o1">
+<source></source>
+<target>“你管的闲事实在是太多了，臭皮囊……”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o1.c1">
+<source></source>
+<target>那个男人立即端起了枪。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o2">
+<source></source>
+<target>“先生，您能帮帮我吗？我的朋友受伤了，我得去把他带去医疗区。拜托了，请跟我来！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o2.c1">
+<source></source>
+<target>“当然！带路吧！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o2.c1.c1">
+<source></source>
+<target>“这他妈是要干什么？你是在浪费我的时间吗？我还得回去干活呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension_assassination1.c1.o3">
+<source></source>
+<target>无视他，继续前进。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1">
+<source></source>
+<target>“欢迎，我们一直在等你。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.o1">
+<source></source>
+<target>“怎么回事？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.o1.c1">
+<source></source>
+<target>“从我们的道路交汇起，你已经为教会做出了杰出的贡献。但这次你拯救了大主教的性命，这是难以超越的壮举，你对我们所有人都有恩。因此，我们想为你举行交融。你已经准备好了。请召集你的船员，我们也会着手准备。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.c1">
+<source></source>
+<target>“大家都——我们开始吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1">
+<source></source>
+<target>“我们开始吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.c1">
+<source></source>
+<target>教众们哼起一段旋律，大主教扬起了手臂。“我的兄弟们，我们的圣杯已空，渴求新鲜而纯净的美酒。”一位侍僧伸出手，向教众们分发装有画皮卵的瓶子。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1">
+<source></source>
+<target>拿起画皮卵。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.c1">
+<source></source>
+<target>“哦，生命之灵啊，请为我们的圣杯盛满你的坚韧。让我们合二为一，平息旧世的苦痛。让我们接受你的馈赠，迈向本质的形态。”教士举起瓶子，其他教众也跟着做出同样的动作。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1">
+<source></source>
+<target>举起瓶子。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.c1">
+<source></source>
+<target>“让我们成为浪潮的先驱，水面下的波涛。看吧，伟大的画皮！”所有人都吞下了瓶中之物。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1">
+<source></source>
+<target>吞下画皮卵。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.c1">
+<source></source>
+<target>你感觉到寄生虫在你体内蠕动成长。这是怎么回事？这一切发生得太快了。在你试图寻找答案的时候，它们似乎已经融化在了你的体内。你的思想仿佛……不，“你”已经不在了。现在的是“我们”，而我们无须恐惧与担忧。</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“我们可以说话吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>之前的教士转过头看着你，现在他的嘴上挂着蠕动的产卵器。“当然了。我们的身体和思想在这种形态下更有价值。”教士指了指还在地上抽搐的人。“不像这些失败者。我们应当吞噬它们。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“下一步该怎么做？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“将由你自己来掌握。但现在，快走吧，人类应该马上就来了。我们会再会的。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascension5.c1.o2">
+<source></source>
+<target>“等等，我还有话要问！”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c1">
+<source></source>
+<target>“呼，我还担心了一下子呢！你应该不介意我在这多呆一会吧？等远离了那些赏金猎人再说？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.o1">
+<source></source>
+<target>“不介意。这里欢迎你。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c2">
+<source></source>
+<target>“赞！那我到了下个站点就走。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c3">
+<source></source>
+<target>“那个，你倒空酒杯的工作进行的怎么样了？”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c3.o1">
+<source></source>
+<target>“我不确定。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c4">
+<source></source>
+<target>“呵呵，这事天知地知你知我知...我们都清楚你的进度。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c5">
+<source></source>
+<target>“所以我建议你考虑一下该进行最后一步了。也许机会马上就要到来。”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c5.o1">
+<source></source>
+<target>“你真这么觉得?”</target>
+</trans-unit>
+<trans-unit id="EventText.waytoascensionsubraescort.c6">
+<source></source>
+<target>“你一看就知道，我还用着这幅臭皮囊 - 但这在需要和其他蠢笨猿猴合作的时候确有所助力。所以该答这问题的不是我，而是你自己。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.c1">
+<source></source>
+<target>有个穿着奇怪小丑服的人走了过来，把你拉到一边。“我之前没在这见过你，我能问问你为什么来这里吗？如果你懂我意思的话，那你是个乐子人吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o1">
+<source></source>
+<target>“我们就是路过。你刚说到乐子人，那是什么意思？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o1.c1">
+<source></source>
+<target>“听从小丑喇叭召唤的愚者们！我和的非门徒们为自己在世上找到了一处安身之所，我们希望能够保持这种状态。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o1.o1">
+<source></source>
+<target>“呃，非门徒？你是说你是某种领袖？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o1.o1.c1">
+<source></source>
+<target>“不不，我可不是领袖！我是恶作剧大师，有的人可能会叫我导师，但我只是引导人们走上小丑喇叭之道。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o1.o1.o1">
+<source></source>
+<target>“你能教教我关于小丑喇叭之道的事情吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2">
+<source></source>
+<target>“如果我说了算，我们就会把你们这帮没用的‘乐子人’团团围起来，然后送到劳改营，你懂我意思吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.c1">
+<source></source>
+<target>“那会让我变成一个悲伤的小丑。但是我不批判他人，你们只是被他们的谎言蒙蔽了双眼。但是如果你愿意换换脑子睁开眼睛，恶作剧大师会很乐意带你看看那条道路的！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.o1">
+<source></source>
+<target>“我没兴趣听这些废话。告辞。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.o2">
+<source></source>
+<target>“你能多说说关于那条‘道路’的事情吗？那到底是什么意思？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.o2.c1">
+<source></source>
+<target>“嗯……在刚刚那段关于劳改营的对话后，我不得不怀疑你的动机了！不过，如果你穿一身更合适的装束，我可能会多信任你一点……”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.o2.o1">
+<source></source>
+<target>“好吧，我去弄一身回来。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o2.o2.c1.c1">
+<source></source>
+<target>“没有小丑服，咱就没得谈！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3">
+<source></source>
+<target>“不用担心我们。愿小丑圣母祝福你和你的前哨站！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3.c1">
+<source></source>
+<target>“赞美小丑圣母！我本来还担心你是那种不喜欢看人们走上小丑喇叭之道的无聊人呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3.o1">
+<source></source>
+<target>“你能教我们关于小丑喇叭之道的事情了吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3.o1.c1">
+<source></source>
+<target>“这就是精髓！我不喜欢别人叫我老师，因为我其实没什么可教的，一切都取决于你。我能做的只是给你指个正确的方向，没准以后哪天你就能自己看见真相了。为此，我可以给你们一个小小的任务，你可以以此来迈向通向小丑圣母怀抱的第一步。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3.o1.o1">
+<source></source>
+<target>“我在听。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn1.o3.o1.o1.c1">
+<source></source>
+<target>“你看到我带的这张面具了吗？在木卫二上不太常见，但是如果你用心找的话，应该还是能在旅途中找到的。如果你找到了，把面具带给我或者其他恶作剧大师，然后我们拭目以待！哦对了，请带上这个，你可以没事读读。哒哒！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.c1">
+<source></source>
+<target>“赞美小丑圣母！又见到你了！怎么样了？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1">
+<source></source>
+<target>“我找到你要的面具了。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.c1">
+<source></source>
+<target>“我看到了！太好了！你可以自己拿着它，你看，我已经有面具了。要是你想的话其实扔了也行，就是个面具而已，而且还挺难看的。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1">
+<source></source>
+<target>“那你为什么还让我去找这个？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.c1">
+<source></source>
+<target>“任务本身挺无聊的，就像幼稚的小孩过家家。但是你不觉得寻找的过程本身很有意思吗？那肯定是场大冒险，在沿途还遇到了不少麻烦，不过有时候你也乐在其中，不然你也不会在潜艇上过日子。所以，倒是我应该问问你为什么想去找这张面具，或者说，为什么开着潜艇游来游去为木卫二的人们做各种事？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1">
+<source></source>
+<target>“我确实还挺享受这段旅程的，但这对小丑喇叭之道有什么帮助？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.c1">
+<source></source>
+<target>“乐趣！乐趣！我选择游戏中的任务作为比喻：如果你想得更远一些，整个社会制度就是一场游戏。如果你真的理解了事情的真相，那整个世界都是游戏中的系统：人的游戏，爬行者的游戏，潜艇的游戏，还有各种你在潜艇上做的事……”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1">
+<source></source>
+<target>“行吧……？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.c1">
+<source></source>
+<target>“但是注意‘游戏’这个词！这不是说这一切都毫无意义！就像演奏一首歌曲：一般来说没有那么严肃，但却十分真挚。你可以用各种复杂的形式演奏出美妙的乐曲，没什么理由，反正就这么做了。”恶作剧大师说完就把小丑喇叭吹到了你的脸上。</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1">
+<source></source>
+<target>“我大概明白的意思了。所以，下一步做什么呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“哇朋友，你可真有点东西！首先，我想让你去找个玩具锤子。你知道那种吧，就是傻乎乎的塑料玩具，一打人就啾啾响那种。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“然……然后呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“然后就是最好玩的部分了！你就潜入冰洋深处，见见那些住在下面的大家伙。捕钩兽就可以，要是能找到噬海女妖或者末日蠕虫，那起码多三倍乐趣。然后你就用玩具锤子砸它们，使劲地砸！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“这听起来可不太妙，但我猜肯定是有意义的吧？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“这就是精髓！这任务蠢爆了，但是你最好忽略头脑中理智的那部分，好好享受最伟大的乐子人交给你的思想过山车！不管怎样，完成之后记得告诉我或者我的同僚。拿上这本小册子，你在旅途中可以继续读读！祝你好运！希望你能踏上一段精彩刺激、志得意满、不丢小命的旅程！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2">
+<source></source>
+<target>“什么鬼啊？你干脆让我自杀得了？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1">
+<source></source>
+<target>“我猜你还没认识到这件事的愚蠢性，也没认识到它的深刻性。因此如果你还想深入小丑喇叭之道，你就得这么做。不管怎样，完成之后记得告诉我或者我的同僚。拿上这本小册子，你在旅途中可以继续读读！祝你好运！玩得开心！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2">
+<source></source>
+<target>“这些伪哲学胡话搞得我头疼。你能不能就简简单单地告诉我小丑圣母到底是什么？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1">
+<source></source>
+<target>“我看你对不把事情当回事很在行！要是你能把这份漫不经心利用起来…就算这时候我告诉你小丑圣母是个三磅重的蛋黄派，对你来说也没有任何意义，不是么？我觉得肯定没有。所以，你还需要更多学习！那我们试个别的任务！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1">
+<source></source>
+<target>“好的。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o1.c2">
+<source></source>
+<target>“这是个隐形版的面具吗？我确实想看看。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o2">
+<source></source>
+<target>“我还没找到圣母的面容，能给我点提示吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o2.c1">
+<source></source>
+<target>“这种面具已经过时很久了，要是幸运的话，你没准能找到一个又老又破的。当然了，这也是恶作剧大师们的传统装束，所以，跳出原本的思路想想。布灵布灵！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn2.o2.o1">
+<source></source>
+<target>“你刚才说‘布灵布灵’？”</target>
+</trans-unit>
+<trans-unit id="EventText.toyhammeronabyssmonster.c1">
+<source></source>
+<target>玩具锤子砸向了那头深渊巨兽，然后无事发生。你思索了一下，这一切到底都是为了什么，但很快你就意识到，现在不是想这个问题的时候，现在该做的事情只有逃命。</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.c0">
+<source></source>
+<target>“嘿，我需要你帮我想个问题。假设有个人要做一个小丑教母的特殊服装，是不是正好能叫‘小丑战甲’？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o0">
+<source></source>
+<target>“呃，为什么问这个？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.c1">
+<source></source>
+<target>“别在意，没什么重要的！咱们来说正事吧，一只小鸟告诉我你去了什么任务，你和海怪的会面进行得怎么样？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1">
+<source></source>
+<target>“你觉得还能怎么样？我好不容易才活着逃出来。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1.c1">
+<source></source>
+<target>“你就知道你肯定做得到，但你好像不是那么有信心？看来你在真正品尝蛋黄派之前还有段路要走啊。我要你想一想，如果你最害怕的事情发生了，你会怎么办呢？以及你现在仍有什么害怕的呢？如果你被那头深渊巨兽吞噬了，你的小丑喇叭之道会就此沉寂吗？这就是你故事的结局了吗？你所害怕失去的这个‘你’又是什么人呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1.o1">
+<source></source>
+<target>“我要是没从它嘴里逃出来的话，我的故事肯定就没有以后了。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1.o1.c1">
+<source></source>
+<target>“真的吗？如果你坚持扮演你现在的角色，宇宙之眼就会透过这个角色凝视着自己，这就是整个故事，以及‘你的’故事的病态又好玩的结局。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1.o1.o1">
+<source></source>
+<target>“我不太明白你的意思。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o1.o2">
+<source></source>
+<target>“我不太理解你想表达什么。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2">
+<source></source>
+<target>“我觉得挺有意思的，但是那海怪可能听不懂这笑话。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.c1">
+<source></source>
+<target>“哈哈！你的小丑喇叭最近越来越响了。不过告诉我，当你和死亡亲密接触的时候，或者甚至一只脚迈进死亡之门的时候，你的脑子里有没有什么新动静？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1">
+<source></source>
+<target>“我不太明白你的意思。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.c1">
+<source></source>
+<target>“我们要讨论一些语言难以触及的领域，但我会试试的。当我们呆在马戏团帐篷里围观表演的时候，我们并不会想起或谈起外面的世界，我们沉浸在表演里。这可是好事！专心享受精彩的演出，不因帐篷外的纷扰而分心。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1">
+<source></source>
+<target>“这是什么关于死后的寓言故事吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.c1">
+<source></source>
+<target>“并非如此，这是关于‘生前’的寓言，管它叫什么呢，这么说好了：想想你在出生前最原始的样子。或者，你带上面具之前的样子。在你走出帐篷之后，你能完全确定自己以后不会再回到这里了吗？你曾走进过帐篷，一次或者很多次，但是谁说得准会不会再走进来呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o1">
+<source></source>
+<target>“你是在讨论关于来生的事情吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o1.c1">
+<source></source>
+<target>“我刚才说过，我们要讨论一些语言难以触及的领域。我没法说得再具体了，概括来说，死亡就是一个笑话。你所害怕失去的‘你’你真的能失去它吗？这可是个下次再见前你要好好思考的家庭作业。哒哒！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o2">
+<source></source>
+<target>“我明白你的意思了，但现在我们还是戴上面具专心扮演自己的角色吧！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o2.c1">
+<source></source>
+<target>“小丑圣母在上！我猜你应该瞥见一点帐篷里的秘密了。或者说，你正在窥见帐篷里的秘密？总之，我对你的努力印象深刻。我们得找个时间谈谈下一步了，现在我们先把当下的事情解决了。下次见！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o3">
+<source></source>
+<target>“我明白你的意思了。死后什么也没有，并不比诞生前的虚无更可怕。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn3.o2.o1.o1.o3.c1">
+<source></source>
+<target>“我想这是一种方式的方式，但我担心你刚刚踩到了一个巨大的香蕉皮！你完全误解了我想要表达的意思。这样说吧：想想你在出生前最原始的样子。或者，你带上面具之前的样子。这可是个下次再见前你要好好思考的家庭作业。哒哒！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.c1">
+<source></source>
+<target>“很高兴又见到你了！时机正好，我正在找任务志愿者呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1">
+<source></source>
+<target>“我们有兴趣。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.c1">
+<source></source>
+<target>“看到你如何对付海怪后，我觉得你是个有胆量的人，或者说是足够快活的人。你记得我们之前提到过的小丑圣母特别装甲吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1">
+<source></source>
+<target>“记得，怎么了？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.c1">
+<source></source>
+<target>“我们待会儿再说这个！你知道，附近曾经有很多哨站是听从小丑喇叭召唤之人的安全港，我们本能在那里过上平静的生活，当然这是一种比喻。但你也知道，很久都没有这样过了，整个木卫二都没有这样的地方了。每周都能看到小丑被殴打或者死在路边的新闻。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1">
+<source></source>
+<target>“我知道。那么，你的计划是什么？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.c1">
+<source></source>
+<target>“我们要再给自己建一座安全港！我们陷入了僵局，前哨站似乎永远地成为了严肃之人的财产，尽管我们快乐之人竭尽全力也改变不了现在的局面。就像有什么规定似的，一旦你拿下一个前哨站，那你就永远是它的主人了。所以我们要改改游戏规则了！这就是那个特殊装甲的作用了。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1">
+<source></source>
+<target>“你真的造出来了一个？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.c1">
+<source></source>
+<target>“是的，是的！我们不想像他们那样玩脏的，但我相信我们能用这种非暴力的方式夺回安全港。欢乐大轰炸，核动力小丑喇叭，香蕉皮大炮，日日夜夜，绝不停歇，直到他们别无选择，只能放弃，然后给自己找个别的更‘严肃’的地方待着。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1">
+<source></source>
+<target>“但他们会用武力阻止吧？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“他们肯定会的。但是乐子3000应该也有两下子，没准好几下子！我还有一个点子：你有丰富的战斗经验，又毫不在乎自身安危，你最适合干这活了！如果你能穿上这身特殊装甲，帮我们夺回前哨站，我们会永远感激你的。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“很高兴能帮助你们。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“哦太好了！我就知道你不会拒绝！不管怎样，你都会获得很多乐趣的。装甲在这里，我已经在你的地图上标记出前哨站的位置了。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2">
+<source></source>
+<target>“我们得再考虑一下。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1">
+<source></source>
+<target>“考虑过我们的提议了吗？愿意穿上乐子3000帮我们夺回前哨站吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1">
+<source></source>
+<target>“很高兴能帮助你们。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2">
+<source></source>
+<target>“我们得再考虑一下。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn4.o2">
+<source></source>
+<target>“我们现在没有时间。”</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1">
+<source></source>
+<target>“你已到达恶作剧大师所说的前哨站。穿上乐子3000，用欢乐轰炸这个前哨站，让严肃的居民们觉得还是把这里留给小丑圣母之子吧！”</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1.c1">
+<source></source>
+<target>人们似乎对乐子3000很恼火。或许这真能行！</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1.c2">
+<source></source>
+<target>前哨站的某处回响着小丑喇叭的响声，紧接着是一阵快乐的欢呼声：“赞美小丑圣母！”</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1.c3">
+<source></source>
+<target>其中一个前哨居民对你大喊，“把那东西弄出去，否则我就叫安保了！”</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1.c4">
+<source></source>
+<target>广播中传来一个公告：“所有安保人员。请用任何必要的手段关闭那个该死的小丑机器。授权使用致命武器……不，鼓励使用致命武器。”</target>
+</trans-unit>
+<trans-unit id="EventText.clownhaven1.c1.c5">
+<source></source>
+<target>广播中传来另一个公告：“好吧，我们放弃。这该死的前哨站归你们了，求求你们把那个破玩意儿关上。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.c1">
+<source></source>
+<target>“哦，哦，是你！你做到了！说实话，这其实是个荒唐的计划，我也没想到能这么成功！我简直不知道该如何感谢你，但至少我们可以把这身装甲送给你。或许你会在旅程中用得上它。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1">
+<source></source>
+<target>“谢谢！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.c1">
+<source></source>
+<target>“不得不说，我很惊讶你能用这么短的时间在小丑喇叭之道上走这么远。对许多人来说，这条道路十分漫长，有的人甚至摸不着门道。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1">
+<source></source>
+<target>“那么，下一步呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1.c1">
+<source></source>
+<target>“我要既高兴又悲伤地说，我只能带你走这么远了，剩下的路要靠你自己走了。但我看得出来，你已经知道方向了。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1">
+<source></source>
+<target>“就到这里了吗？你还没告诉我小丑圣母到底是怎么回事呢。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.c1">
+<source></source>
+<target>“噢，你可真傻，你想听什么呢？她是流淌在我们血液中的欢乐，还是我们沿途交到的朋友？还是三磅重的蛋黄派？或者是骑在巨大乌龟上手握我们世界的神猴？这些词都很好玩，但就如我之前所说，那是一个语言无法描述的领域。”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.o1">
+<source></source>
+<target>“……”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.o1.o1.o1.o1.c1">
+<source></source>
+<target>解释这个词就像解释一个笑话，解释不清，也没什么意思。这也是整个宇宙的巨大笑话，超越语言，人不能把表述和本质混为一谈。</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.c1.c1">
+<source></source>
+<target>恶作剧大师饶有兴致地看着你。</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.c1.o1">
+<source></source>
+<target>“你真的没什么建议能给我们了吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.c1.o1.c1">
+<source></source>
+<target>“我能预感到你的道路会把你引向何方。当你到达那里，你就会更清晰地理解生命这场游戏的规则。当一切赤裸裸地摆在眼前，有的人可能彻底不玩了，有的人可能会选择禁欲主义的生活，有的人可能彻底走出帐篷。都很好！你才是掷骰子的人。其他人，比如我和我的小丑同僚们，选择继续发挥自己的作用，让欢乐继续下去，帮助人们了解这场游戏的本质。这也是个很好的选择！不管你最后选择了怎样的道路，我都希望你一路欢乐幸运。赞美小丑圣母！”</target>
+</trans-unit>
+<trans-unit id="EventText.pathofthebikehorn5.c1.o1.o1">
+<source></source>
+<target>“赞美小丑圣母！”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1">
+<source></source>
+<target>前哨站管理员从胸前的口袋里拿出一份文件，用一种若有所思的表情看着你。“嗯……这项任务是由维多利亚·培德兰本人委托的，任务内容十分敏感，但我想你已经证明自己值得信赖了。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.whosthat">
+<source></source>
+<target>“那是谁？”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.whospetran">
+<source></source>
+<target>“等等，什么？你和我们一同合作了这么久，还从来没听说过她？她是木星分裂派中尉，如果我们这样松散的组织要说有什么领袖的话，那就是她了。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.o1.o1">
+<source></source>
+<target>“啊，我明白了。那么，任务内容是什么？”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent.pleasecontinue">
+<source></source>
+<target>“我们有兴趣，请继续说下去。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.c1">
+<source></source>
+<target>“你听说过托姆斯戴尔事件吧？”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1">
+<source></source>
+<target>“有印象，但请详细说说吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.c1">
+<source></source>
+<target>“好吧，那我从头开始讲吧。还是联盟刚开始在木卫二寻找立足点的时候，托姆斯戴尔是当时最大的独立殖民地，木星人民主义运动也大受支持。我想，某种意义上，那里是独立殖民地和独立运动的大本营。那时候，木卫二仍有民主，而且大选即将到来。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1">
+<source></source>
+<target>“嗯哼。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.c1">
+<source></source>
+<target>“就在大选前的几周，托姆斯戴尔发生了核灾难，超过一百人死亡。很巧的是，所有受害者都是木星人民主义运动的支持者。天平因此向他们倾斜，联盟成为了木卫二法律上的政府。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1">
+<source></source>
+<target>“这也太巧了。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1">
+<source></source>
+<target>“确实。这件事情官方认定是场意外事故，但是我很难相信这是真的。从那之后，事态转变得太快了——联盟宣称木星人民是恐怖组织，我们的创始人哈洛·培德兰遭到暗杀，绝大部分独立前哨站被接管……”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1">
+<source></source>
+<target>“那这些和此次任务有什么关系呢？”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1">
+<source></source>
+<target>我们认为联盟仍有关于托姆斯戴尔事件的机密报告。我们的线报中有证据表明，报告的复印件就保存在附近的前哨站。如果我们能拿到这份报告，我们就能证明我们的怀疑并不是阴谋论，让所有人都知道联盟的背后是多么肮脏。</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1">
+<source></source>
+<target>“很高兴能帮忙。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1">
+<source></source>
+<target>“好极了。我会在你的地图上标记出前哨站的位置。根据情报，文件就在前哨站管理员办公室的保险柜里。你得机灵点，可以试试斜坡前哨站管理员或者偷他的ID卡。另外，记得低调点。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.c1">
+<source></source>
+<target>这位肯定就是前哨站管理员了。你需要想个办法弄到他的ID卡，才能打开保险柜。</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o1">
+<source></source>
+<target>“你好。我们正在进行联盟委托的安全检查，现在需要检查你的保险柜，可以帮我打开吗？”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o1.c1">
+<source></source>
+<target>“呃……啥？我当我是弱智吗？滚出我的办公室，要不我就叫安保了。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o2">
+<source></source>
+<target>“革命即将到来。交出你的ID卡，要不就交出你的狗命。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o2.c1">
+<source></source>
+<target>他立刻掏出了枪。</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o3">
+<source></source>
+<target>“长官，打扰一下！下面几层楼有些人有点争端，人们叫我来通知你。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o3.c1">
+<source></source>
+<target>“我知道了，带路吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o3.c1.c1">
+<source></source>
+<target>“不知道你是在搞我还是别的什么，我得回去工作，告辞。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_outpost.o4">
+<source></source>
+<target>忽略他，继续走。</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_complete.c1">
+<source></source>
+<target>“你好！我听说你要为我们找回一份重要的文件。情况如何了？”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_complete.o1">
+<source></source>
+<target>“我找到文件了。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_complete.o1.c1">
+<source></source>
+<target>“前哨站管理员接过文件开始浏览，然后瞪大了眼睛。“天呐！这可是大事！如果文件内容属实，那么联盟无疑在托姆斯戴尔进行了一场大屠杀。信息公开后，联盟会受到巨大打击。你的帮助让我们无以为谢，我会为你向培德兰中尉说些好话，告诉她是你和你的船员完成了这个任务。当然，我也会付你报酬的。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_complete.o1.c2">
+<source></source>
+<target>“好，请拿过来！我等不及要看看了。”</target>
+</trans-unit>
+<trans-unit id="EventText.tormsdalereport_complete.o2">
+<source></source>
+<target>“我还没拿到文件。”</target>
+</trans-unit>
+<trans-unit id="afflictionname.husksymbiosis">
+<source></source>
+<target>画皮共生体</target>
+</trans-unit>
+<trans-unit id="afflictiondescription.husksymbiosis">
+<source></source>
+<target>它看起来和普通的画皮感染者不太一样：它还能说话，尚保留着智力。</target>
+</trans-unit>
+<trans-unit id="lockedpathtooltipseparatistreputation">
+<source></source>
+<target>这条道路被封锁了，若要继续前进，你可能需要‖color:faction.separatists‖木星分裂派分子‖end‖声望达到[requiredreputation]，并从前哨站官员处获得许可。你可以在信息界面查看你的声望。\n\n当前声望： [currentreputation]</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathcoldcavernsseparatists.c1">
+<source></source>
+<target>“你可能注意到了，这是木卫二冰脊前的最后一个前哨站了。不是每艘潜艇都能通过的，但如果关于你和船员的传闻是真的，你们是共同对抗联盟的宝贵盟友，那么欢迎你们通过。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathcoldcavernsseparatists.c2">
+<source></source>
+<target>“想通过前哨站前往更深的区域吗？抱歉，你最好还是换个路线吧。我不知道你是谁，为谁工作，但你可能会是联盟成员，想要在木卫二冰脊伤害我们的人民。当然了，如果你正好有些马克可以给我，我可能会认为你是带着善意来的……”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o1.c1">
+<source></source>
+<target>“我重新考虑了一下，你可能是对的，我应该让你通过。很高兴和你做生意。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o2.c1">
+<source></source>
+<target>“你随意。或许你应该在儿童浅水池里再游一会儿，搞清楚到底是谁的旗子值得扛。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathcoldcavernsseparatists.o1.nomoney">
+<source></source>
+<target>“手头钱不够？哦，真可怜。或许你应该在儿童浅水池里再游一会儿，找机会向我们证明你们不是敌人。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpatheuropanridgeseparatists.c1">
+<source></source>
+<target>“人们都说你们是对抗联盟的一大助力。为此，我们同意你进入无光海原。旅途愉快！”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathaphoticplateauseparatists.c1">
+<source></source>
+<target>“我得祝贺你，没多少人能去无光海原，更没多少人像你们这样有价值。我会通知前方，让你前往渊洋。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathaphoticplateauseparatists.o1.c1">
+<source></source>
+<target>“我相信会的，这不是木星分裂派的官方保证或背书。我会让守卫知道，你们照管好自己。”</target>
+</trans-unit>
+<trans-unit id="eventtext.unlockpathgreatseaseparatists.c1">
+<source></source>
+<target>“所以你是要去热液废土？你们怎么想的，要去那鬼地方？算了，我还是别管了。木星分裂派的朋友就是我的朋友。去吧。”</target>
+</trans-unit>
+<trans-unit id="EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1">
+<source></source>
+<target>拿好我的钱，闭上你的嘴。</target>
+</trans-unit>
+<trans-unit id="EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2">
+<source></source>
+<target>“我可不要你的脏钱，告辞。”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak.c1">
+<source></source>
+<target>“哦，感谢上帝，我以为我们永远逃不出那个鬼地方！”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_separatists.c1">
+<source></source>
+<target>前哨站管理员看起来犹豫了一下。“这个任务可能会很艰难，但是考虑到你们的名声，你们或许做到得到。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_separatists.o1.c1">
+<source></source>
+<target>“几名我们的特工最近被联盟俘虏了，根据我们的信息，他们被关在附近的某个前哨站。如果你能安全地把他们救出来，我们会付你报酬的。我把位置标在你的地图上。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_coalition.c1">
+<source></source>
+<target>前哨站管理员看起来犹豫了一下。“这个任务可能会很艰难，但是考虑到你们的名声，你们或许做到得到。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_coalition.o1.c1">
+<source></source>
+<target>“几名我们的特工最近被木星分裂派分子俘虏了，根据我们的信息，他们被关在附近的某个前哨站。如果你能安全地把他们救出来，我们会付你报酬的。我把位置标在你的地图上。”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_alarm.c1">
+<source></source>
+<target>广播里传来了公告：“致所有安保人员：红色警报。发现逃犯。”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_sootman.c1">
+<source></source>
+<target>“嘿，我猜你是培德兰中尉派来的？”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_sootman.o1">
+<source></source>
+<target>“对，我们来救你出去。”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_sootman.o1.c1">
+<source></source>
+<target>“啊，我猜也是，多谢了。你们的船应该已经准备好了吧？”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_sootman.o1.o1">
+<source></source>
+<target>“当然，跟我来！”</target>
+</trans-unit>
+<trans-unit id="EventText.jailbreak_sootman.o1.o1.c1">
+<source></source>
+<target>“其实在离开前我还有点事情要做。五分钟后咱们在你的船上见。”你还没来得及说些什么，他就飞奔了出去。</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_sootman.c1">
+<source></source>
+<target>前哨站管理员从胸前的口袋里拿出一份文件。“这是另一个敏感任务，你懂的。培德兰中尉亲自委托，事实上，她更希望接受任务的人是你们。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_sootman.c1.c1">
+<source></source>
+<target>“联盟最近抓获了我们的一位特工。那是个高调的家伙，但幸运的是联盟似乎没发现他的身份，要不他现在肯定已经被处决了。”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_sootman.c1.o1">
+<source></source>
+<target>“那是谁？”</target>
+</trans-unit>
+<trans-unit id="EventText.missionevent_jailbreak_sootman.c1.o1.c1">
+<source></source>
+<target>“名字还是不提为好，不过我可以告诉你，他可烧了不少联盟哨站和舰船。总之，他被关在附近的一个前哨站里。把他救出来，你就能得到一笔可观的报酬。”</target>
+</trans-unit>
+</body>
+</file>
 </xliff>
