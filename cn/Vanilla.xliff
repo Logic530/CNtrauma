@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="loading" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">加载中…</target>
+        <target state="translated">加载中…</target>
       </trans-unit>
       <trans-unit id="pressanykey" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">按任意键以继续</target>
+        <target state="translated">按任意键以继续</target>
       </trans-unit>
       <trans-unit id="loadingscreentip" xml:space="preserve" approved="no">
         <source/>
-        <target state="needs-translation">如果货物在运输过程中丢失或损坏，您将不会收到运费。</target>
+        <target state="translated">如果货物在运输过程中丢失或损坏，您将不会收到运费。</target>
       </trans-unit>
       <trans-unit id="loadingscreentip.cid1" xml:space="preserve" approved="no">
         <source/>
